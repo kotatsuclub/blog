@@ -15,7 +15,7 @@ unsafe = true  # enable raw HTML in Markdown
 
 [[params.nav.custom]]
 title = "RSS"
-url = "/post/index.xml"
+url = "/index.xml"
 
 [params.comments]
 enable = true
