@@ -8,7 +8,10 @@ title = "Chris' Top Ten of 2014"
 
 It’s that time of year again, halfway through the year, which means it’s time for Chris’ top ten from 2 years back!
 
-{{<figure src="https://i.imgur.com/g23N59R.jpg" caption="But I don't even remember what I watched yesterday">}}
+<figure>
+ <img src="https://i.imgur.com/g23N59R.jpg">
+ <figcaption>But I don't even remember what I watched yesterday</figcaption>
+</figure>
 
 Rules for the list:
 
@@ -19,12 +22,16 @@ Rules for the list:
 - There will be no sequels on this list.
 
 
-###10. Isshuukan Friends
-{{<figure src="https://i.imgur.com/YKIudKR.jpg">}}
+### 10. Isshuukan Friends<figure>
+ <img src="https://i.imgur.com/YKIudKR.jpg">
+</figure>
 
 As the name implies, the story centers around a boy’s attempts to woo a girl whose memories are reset every week on Monday morning. So it’s sort of like MMO rep grinding, except that the quest NPCs mysteriously lose their ledgers during the weekly server maintenances.
 
-{{<figure src="https://i.imgur.com/mAlrXUW.jpg" caption="“Working as intended” because there’s actually no content after first base">}}
+<figure>
+ <img src="https://i.imgur.com/mAlrXUW.jpg">
+ <figcaption>“Working as intended” because there’s actually no content after first base</figcaption>
+</figure>
 
 I was hesitant to watch this at first, because while this type of premise has a lot of potential for exploring human nature through some fairly unique lens, it also has the potential to be misused as an infinite source of free drama. And as much as I praised *Ano Hana* three years ago, I was not particularly interested in watching a montage of how shitty people are.
 
@@ -33,7 +40,10 @@ So it was actually somewhat surprising to see that *Isshuukan Friends* does neit
 For the girl in question, Fujimiya Kaori, the weekly reset only affects memories of people she’s close with – in other words, she forgets about any friends she made the last week. While that obviously makes it harder for her to make friends, it also means people can’t really take advantage of her without going through the process of befriending a girl who doesn’t actually want to make friends. So it’s sort of like MMO rep grinding.
 
 
-{{<figure src="https://i.imgur.com/9IPQN86.jpg" caption="“I guess I could sell you shitty aesthetic items, but you really need to pony up those 200 pristine bear asses first.”">}}
+<figure>
+ <img src="https://i.imgur.com/9IPQN86.jpg">
+ <figcaption>“I guess I could sell you shitty aesthetic items, but you really need to pony up those 200 pristine bear asses first.”</figcaption>
+</figure>
 
 In addition, for the memories of friends she actually wants to keep, she has the enormously sensible and anticlimactic solution of just keeping a fucking diary so she knows which table she’s supposed to sit down at during lunch. Honestly, despite her disability, she’s probably the most well-adjusted character in the whole show. Except maybe when she uses an optimization matrix to determine the optimal lunch recipe for Yuuki.
 
@@ -63,12 +73,16 @@ Cons:
 * Secondary characters are notably flat
 
 
-###9.Tokyo Ravens
-{{<figure src="https://i.imgur.com/CPTLhFI.jpg">}}
+### 9.Tokyo Ravens<figure>
+ <img src="https://i.imgur.com/CPTLhFI.jpg">
+</figure>
 
 This one’s a shounen. If you’ve forgotten it already, it was the one where we identified Hanazawa Kana based on her character design, before she said anything.
 
-{{<figure src="https://i.imgur.com/5gD4gj5.jpg" caption="I suppose if you’re cast for enough harems, you will statistically win the MC-bowl eventually.">}}
+<figure>
+ <img src="https://i.imgur.com/5gD4gj5.jpg">
+ <figcaption>I suppose if you’re cast for enough harems, you will statistically win the MC-bowl eventually.</figcaption>
+</figure>
 
 This shounen is magic-flavored, and the comedic spellcasting antics of Japanese Harry Potter and friends are made marginally more amusing than its myriad equivalents by the fact that Hanazawa Kana tries to cross-dress for half the anime for political reasons.
 
@@ -93,21 +107,30 @@ Cons:
 * Beginning is pretty slow and unimpressive
 
 
-###8. Log Horizon
-{{<figure src="https://i.imgur.com/Imm79tD.jpg">}}
+### 8. Log Horizon<figure>
+ <img src="https://i.imgur.com/Imm79tD.jpg">
+</figure>
 
 Riding fairly close on the very popular and successful coattails of *Sword Art Online*, *Log Horizon* chronicles the story of MMO players who suddenly find themselves mysteriously warped into and trapped within the MMO world as their own characters. Not exactly the most original concept (light novels with the exact same premise have been quite popular well before *Sword Art Online*), and initially, it came off as just a more boring, more poorly animated version of *SAO*. It wasn’t until I noticed it was getting a fair bit of attention and praise that I decided to pick it back up, at least for a few more episodes. I was right about it being more poorly animated, and it is certainly slower than *SAO*, but as I found, the comparison is not quite valid.
 
-{{<figure src="https://i.imgur.com/loKmkoy.jpg" caption="DEEN taking over in Season 2 didn’t do much to help.">}}
+<figure>
+ <img src="https://i.imgur.com/loKmkoy.jpg">
+ <figcaption>DEEN taking over in Season 2 didn’t do much to help.</figcaption>
+</figure>
 
 The most immediately obvious difference is how large a role the MMO setting plays. In *SAO*, we are reminded that Kirito and friends are in an MMO when they mention quests or loot, or when someone brings up the in-game UI, but for the most part, mechanics are hand-waved. The anime plays out more like a fantasy story than a game-based one. In contrast, the MMO setting pervades deeply into every part of *Log Horizon*. All the food tastes the same because flavor hasn’t been implemented. Any attempt to cook without the specific cooking sub-class, even just heating up meat over a fire, always results in failure items. Monsters explode in an improbable shower of gold of and items. Abilities have cooldowns. And death just warps you to the nearest town. *Elder Tale* is a game designed to be played with keyboard and mouse, not a VR headset.
 
 Furthermore, *Log Horizon* models its game mechanics after a Western-style MMO, not an Eastern-style MMO. Eastern-style MMOs traditionally focus on solo-play and action-based combat, where the key to winning fights is player skill – combat revolves around dodging enemy attacks and successfully landing your own. Conversely, the MMO in *Log Horizon* (*Elder Tale*) uses a trinity-based system (tank-healer-DPS), and focuses on group-based content with many-player raids as the highest level of play. Combat revolves primarily around knowledge of the encounter, maximizing efficiency as a player, and communication with the rest of the party. Battles in *Log Horizon* are not won by flashy displays of strength, skill, and reflex, but rather the “boring” core elements of Western MMO gameplay – careful planning, raid positioning, gear choice, racial and class traits, cooldown management, add management, boss AoE timing, etc. While I am not sure what consequences this decision had regarding its Japanese audience, it certainly did help engage me as an MMO fan.
 
 
-{{<figure src="https://i.imgur.com/BTVl97F.jpg">}}
+<figure>
+ <img src="https://i.imgur.com/BTVl97F.jpg">
+</figure>
 
-{{<figure src="https://i.imgur.com/f5W72F9.jpg" caption="Pictured above: Fun<sup>TM</sup>">}}
+<figure>
+ <img src="https://i.imgur.com/f5W72F9.jpg">
+ <figcaption>Pictured above: Fun<sup>TM</sup></figcaption>
+</figure>
 
 The mechanics of *Elder Tale* don’t only affect the action scenes – it has a notable effect on the characters. As I mentioned before, a skill-based game like the one in *SAO* is more akin to a fantasy setting than a game, and the characters are therefore a lot like the ones you would find in any other shounen – young, talented, and optimistic. Ability growth (and often character growth, simultaneously) can be done quickly, where a character’s “willpower” or “friendship power” or what-have-you translates instantly into a tangible skill increase that suddenly allows them to overcome previously impossible encounters. Not so with *Log Horizon* – player “skill” is more heavily tied to experience and knowledge, and that necessarily comes slowly. Therefore, the main cast of *Log Horizon* is a highly experienced crew, having cleared virtually all of the content by the story’s beginning. They are older and a bit more mature than the typical shounen cast, and character development becomes somewhat secondary. This allows for quite a different story, and indeed, *Log Horizon* puts more focus on the development of the setting. The characters use their knowledge and connection to shape the MMO world, and the story centers on these efforts rather than the characters’ mastery of the game.
 
@@ -131,13 +154,17 @@ Cons:
 -   Clumsy handling of parallel plot threads
 
 
-###7. Yuuki Yuuna wa Yuusha de Aru
-{{<figure src="https://i.imgur.com/1RcZbfF.jpg">}}
+### 7. Yuuki Yuuna wa Yuusha de Aru<figure>
+ <img src="https://i.imgur.com/1RcZbfF.jpg">
+</figure>
 
 *Yuyuyu* is a mahou shoujo set in a strange universe where Earth is kept safe from strange hostile aliens by a central tree-like entity known as the Shinju, with the main cast acting as its arms and legs to fight the Vertex on the front lines. It’s another somewhat forgettable entry, and in the case you have forgotten it, it was the *Madoka* look-alike that also featured a girl in a wheelchair.
 
 
-{{<figure src="https://i.imgur.com/O5iFRjE.jpg" caption="Anime conservation of mass dictates that atrophy of leg muscles forces that mass to go elsewhere">}}
+<figure>
+ <img src="https://i.imgur.com/O5iFRjE.jpg">
+ <figcaption>Anime conservation of mass dictates that atrophy of leg muscles forces that mass to go elsewhere</figcaption>
+</figure>
 
 And yes, it certainly does seem to earn its label as a *Madoka* clone, being a mahou shoujo where the girls are contracted by an entity with vague motivations to fight weird aliens. Without spoiling too much, the story unfolds in a pretty similar manner, right down to which-hair-color-does-what.
 
@@ -164,8 +191,9 @@ Cons:
 -   I didn’t like the ending again
 
 
-###6. Kill la Kill
-{{<figure src="https://i.imgur.com/1rZzDqF.jpg">}}
+### 6. Kill la Kill<figure>
+ <img src="https://i.imgur.com/1rZzDqF.jpg">
+</figure>
 
 The over-the-top shounen from Trigger, which honestly, if you haven’t heard of it by now, means you need to stay inside more.
 
@@ -174,13 +202,22 @@ Even before its airing, *Kill la Kill* gained a considerable amount of hype and 
 Well, I am of the opinion that ironic shitposting is still shitposting. “Deconstruction” is a trendy buzzword that’s used too often to defend things that are probably just as shallow as they look. *Madoka Magica* got away with it, and now everyone else is trying to pass off their favorite shitty anime as social commentary on shitty anime.
 
 
-{{<figure src="https://i.imgur.com/jm1VJHl.png" caption="Thanks, Obama">}}
+<figure>
+ <img src="https://i.imgur.com/jm1VJHl.png">
+ <figcaption>Thanks, Obama</figcaption>
+</figure>
 
 No, I don’t think *Kill la Kill* is parody, or satire, or SJW, or anti-SJW, or whatever else people like to label it. Sometimes the stylized action works and it’s amusing. Sometimes it’s not. The fanservice can get distracting, but I actually don’t think it’s capitalized on that often so it’s not too much of a problem. *Kill la Kill* is just a shounen, and a pretty average one in many respects. And so this review will also be pretty shallow and average.
 
 There are two main things that put this anime on this list.
 
-{{<figure src="https://i.imgur.com/byQmSIX.jpg" caption="This obvious joke is actually a deconstruction of overused low-effort memes">}}
+
+
+<figure>
+ <img src="https://i.imgur.com/byQmSIX.jpg">
+ <figcaption>This obvious joke is actually a deconstruction of overused low-effort
+memes</figcaption>
+</figure>
 
 The first is Kiryuuin Satsuki, who I honestly consider the main character because she’s so much more interesting than Ryuuko. High school shounen are usually about the journey and growth of the protagonist, but Ryuuko changes surprisingly little from beginning to end. Her philosophy isn’t revised very often because she ends up solving all her problems with the same toolkit. This isn’t necessarily bad, per se, but it’s in stark contrast with Satsuki, who develops significantly as a character despite being the antagonist for 2/3 of the anime. Satsuki is a more complex character, who rules Honnouji Academy with an iron first while simultaneously dedicating herself to her subjects. Despite this, she feels consistent as a character. Even when she later undergoes a major turning point, she does so without breaking her character. This is primarily because she’s written top-down from her motivations and goals rather than the other way around. It feels like the writers asked “given a character that thinks like this and wants to achieve these things, how might she behave?” rather than “we need a character that behaves like this, let’s write her motivations to justify that behavior”. And while I’d like to give the writers credit for that, it’s a bit hard because most of the other characters seem to come from the latter school of thought. Satsuki’s Elite Four are mostly there to support her and be obstacles for her opponents. Ryuuko is there to be the optimistic main character that glues the plot and other characters together. Mako is there to be Ryuuko’s emotional crutch. Again, these kinds of characters are not necessarily bad – it’s honestly pretty hard to write an entire cast of characters like Satsuki and still get a coherent story out of it. But still, while these characters can be used effectively, they’re often overshadowed by Satsuki.
 
@@ -203,8 +240,9 @@ Cons:
 -   Side cast is somewhat underdeveloped
 
 
-###5. Gekkan Shoujo Nozaki-kun
-{{<figure src="https://i.imgur.com/YaxXrDY.jpg">}}
+### 5. Gekkan Shoujo Nozaki-kun<figure>
+ <img src="https://i.imgur.com/YaxXrDY.jpg">
+</figure>
 
 This anime is based on a 4-koma RomCom about Nozaki Umetarou, a high school boy who moonlights as a shoujo mangaka. Sakura Chiyo, the main heroine who obviously has a crush on him, assists him with his manga along with other friends of Nozaki’s. I watched this at Gene’s recommendation, which overall probably have like a 70% success rate for me, so despite my heavy misgivings on the premise, I watched it through to the end.
 
@@ -213,7 +251,10 @@ I think making anime is sort of like cooking in that there is a huge number of b
 Of course, not all dishes lend themselves to creative vision. You can pretend to be Gordon Ramsay all you want when you’re trying to impress a date with Foie Gras, but not so much when you’re pouring yourself a bowl of Cheerios in the morning. You can add sugar or honey or sliced fruit or whatever the fuck to your cereal, but it’s still Cheerios, and every bite fills your mouth with that mild, grainy flavor that gently suggests you should make some real damn breakfast for once. If you want it to taste different, eat something else.
 
 
-{{<figure src="https://i.imgur.com/BF1x6Nk.jpg" caption="No, really, it's not like I like you. I bought 20 boxes of Cheerios on a manager’s special and they’re going to expire tomorrow.">}}
+<figure>
+ <img src="https://i.imgur.com/BF1x6Nk.jpg">
+ <figcaption>No, really, it's not like I like you. I bought 20 boxes of Cheerios on a manager’s special and they’re going to expire tomorrow.</figcaption>
+</figure>
 
 If making good drama or psychological or sports anime is like making Foie Gras, then making comedic 4-koma SoL is like pouring a bowl of Cheerios in the morning. There is honestly not a lot you can do to it without making it something else. And maybe that’s okay, because last I checked, people were still eating Cheerios, because they are easy to produce and easy to consume. *Gekkan Shoujo Nozaki-kun* may be on this list, but I am not going to pretend it was a grain-enriched plate of bacon and eggs. It was a bowl of Cheerios. Once you get past the first episode and the novelty of the premise has worn off, it’s just SoL like any other.
 
@@ -238,8 +279,9 @@ Cons:
 -   Chiyo not that interesting of a character, more like infrastructure
 
 
-###4. No Game No Life
-{{<figure src="https://i.imgur.com/UhRxMjW.jpg">}}
+### 4. No Game No Life<figure>
+ <img src="https://i.imgur.com/UhRxMjW.jpg">
+</figure>
 
 Based on a light novel, *No Game No Life* is about a pair of NEET gamer siblings of godly prowess, working together to rank at the top of every game they play. They are transported to a world where all interaction is mediated through games, thereby providing a set of predictable, closed rules for society. Sora and Shiro, who together form the undefeated gaming pair Blank (『』), work to conquer each of the 15 other races to gain the right to challenge Tet, the god of the world, for his position. The LNs have been officially licensed and translated to English, which is probably a good thing because S2 never.
 
@@ -248,14 +290,20 @@ I’m going to get this out of the way first: this is not a good anime.
 It becomes immediately obvious that *NGNL* is designed to *sell*. The main characters are people who spend all of their time on video games, and hate the idea of social interaction. To them, other people are unpredictable and selfish, and trying to communicate with them is difficult and stressful – a philosophy that much of the audience can probably relate to, at least to some extent. However, interpersonal communication is a key skill in life, and those with this skill will inevitably find more success than those without, regardless of the rest of the skillset. It’s not surprising that some people might find this unfair, and by putting Sora and Shiro in a setting where the playing field is more level between introverts and extroverts, *NGNL* is able to achieve a degree of wish fulfillment for this demographic. Furthermore, *NGNL* features a rather gratuitous amount of fanservice, and it works hard to cover as many bases as possible – flat chest, fat chest, lolis, catgirls, elves, mikos, etc. At its core, *NGNL* panders to our lowest common denominator, something which is hard to defend.
 
 
-{{<figure src="https://i.imgur.com/556jL0Z.jpg" caption="The BD sales department, and that one guy whose job became obsolete years ago but has been working there so long no one has the balls to fire him">}}
+<figure>
+ <img src="https://i.imgur.com/556jL0Z.jpg">
+ <figcaption>The BD sales department, and that one guy whose job became obsolete years ago but has been working there so long no one has the balls to fire him</figcaption>
+</figure>
 
 In addition, while *NGNL* tries to sell Sora and Shiro as hardcore hikikomori NEETs, their actions tend to contradict this premise. The series occasionally throws in a gag about how they hate sunlight and popular people, but when the plot demands it, they become bafflingly competent in social affairs. Sora, in particular, appears to have no problem at all communicating with others (regardless of their gender, even), frequently taking the lead to negotiate with their opponents and inspire their allies. He is clearly a born leader, someone who should have no problems becoming prominent in politics and business. Even Shiro, the supposedly quieter and brainier of the two, seems to have few qualms about taking the initiative to explain something to someone or even socialize with another member of the cast. More importantly, Sora and Shiro are not only able to communicate with others, they are able to *empathize* with them. They work to understand others not just to manipulate them in a game, but to ensure they can reach a happy ending for everyone involved, even their opponents – not what you would expect out of a pair of self-professed misanthropes. In short, Blank is not an accurate portrayal of the NEET subculture, but rather a sexy idealization. They’re what a NEET might like to envision themselves as, which goes to further reinforce the theme of wish fulfillment.
 
 Finally, Blank’s mantra is that they never lose, no matter the game or the circumstances, and this is something they work to uphold in their new world. In other words, they win. Every time. This can be terribly boring since the outcome of every match is essentially set in stone at the outset, and it dampens the tension since the viewer already knows Blank will find a way to win. This leads to another problem that a lot of shounen have issues with – keeping a growing secondary cast relevant. Because Blank is so much better than everyone else at everything, former “boss” characters like Kurami and Jibril end up just becoming the arms and legs for Blank’s schemes once they join the party. They play virtually no role in the strategic process, and are often not any more privy to the master plan than the audience. The worst offender is Steph, who appears to be nothing but a proxy through which Blank provides an exasperated explanation for what just happened on screen.
 
 
-{{<figure src="https://i.imgur.com/hi6ieEr.jpg" caption="Hey, wait a second…">}}
+<figure>
+ <img src="https://i.imgur.com/hi6ieEr.jpg">
+ <figcaption>Hey, wait a second…</figcaption>
+</figure>
 
 Indeed, *NGNL* shares a lot of problems with another 2014 anime I cared very little for. So what makes *NGNL* so special? Did it just happen to cater to my specific fetishes or something?
 
@@ -282,8 +330,9 @@ Cons:
 -   S2 never
 
 
-###3. selector infected/spread WIXOSS
-{{<figure src="https://i.imgur.com/N0h2DGY.jpg">}}
+### 3. selector infected/spread WIXOSS<figure>
+ <img src="https://i.imgur.com/N0h2DGY.jpg">
+</figure>
 
 Spoiler warning: This is a warning that there are some spoilers. 
 
@@ -294,19 +343,28 @@ I stay away from card game anime because they are usually used to promote sales 
 The first thing I want to mention is actually a pretty common complaint, and perhaps one that has some basis – the mechanics of the card game in question are never well explained. The game is played with a single avatar, the LRIG, representing the player, with other cards being creatures and abilities used to attack the opposing LRIG. A level-up system allows the LRIG to use stronger attacks as the game progresses. Beyond this, however, the mechanics are quite unclear. Numbers are very rarely used to explain the current state of any given battle, and the strength of abilities players use (and even the number they get per turn) seems to be more dependent on the mental state of the player than any logical system.
 
 
-{{<figure src="https://i.imgur.com/VVtEeGa.jpg" caption="Except blue decks being for trolling, which appears to be a universal mechanic across all card games.">}}
+<figure>
+ <img src="https://i.imgur.com/VVtEeGa.jpg">
+ <figcaption>Except blue decks being for trolling, which appears to be a universal mechanic across all card games.</figcaption>
+</figure>
 
 Honestly, however, I think this is mostly fine for *WIXOSS*. There is an actual WIXOSS card game that obviously has well-defined rules, but the anime is not designed as either shounen or sports. The story is not a chronicle of the characters’ gradual mastery of the game, but rather their unravelling of the origin story of the game itself and their character development along the way. In that regard, giving too much attention to the mechanics of the game might have actually distracted the audience from the more important story. Mahou shoujo anime don’t explain how the magic works because only the characters’ relative magical strength is important – this is the same thing.
 
 The first season introduces a number of heavy themes, the most predominant being the risk associated with making a wish (where most of the comparisons to *Madoka* are probably rooted). As the mechanics of the game and wish-based system around it are revealed, we are also shown what kinds of wishes participants are interested in – simple ones like dream careers and friends, and darker ones too.
 
-{{<figure src="https://i.imgur.com/7RXyH85.jpg" caption="Pictured – normal healthy teenager fantasies">}}
+<figure>
+ <img src="https://i.imgur.com/7RXyH85.jpg">
+ <figcaption>Pictured – normal healthy teenager fantasies</figcaption>
+</figure>
 
 This season puts a focus on the story, and uses its characters to explore its themes. Yuzuki is part of a more realistic, somewhat sobering message on incest, outlining not only the social and legal ramifications of such a pursuit, but its effects on the romantic target, who may not even reciprocate such feelings. It feels like a not-so-subtle prod towards other, increasingly common incest-themed anime, which typically portray a fluffier version of sibling romance. Iona and Ruuko, who have no immediate wishes outside the WIXOSS system, are used to look at the bigger pervading themes of human greed and the subjective value of emotion. Akira acts like a mirror to bring the cast’s true nature into light, and also serves as the “voice of society” – what people might actually think of some of these wishes, and ensuring the cast faces them properly.
 
 Season 2, on the other hand, feels like it was written and directed by completely different people. Certain subplots (or at least subplots I imagined) are dropped, such as Ruuko’s family situation, and focus is diverted from the story and themes to make a more character-driven show. That’s not necessarily a bad thing, of course, but due to how heavily the balance was tipped in this case, the effects are rather jarring, particularly on the characters themselves. Many characters that originally served as writing tools or lens, such as Ruuko, Akira, and Iona, suffer some awkward transitionary development in an effort to give them more substance and make them more independent of the writing. Even by the midpoint of the second season, these characters are almost completely unrecognizable to their first season counterparts (which is a pity, as they were originally very interesting characters to me).
 
-{{<figure src="https://i.imgur.com/391gYnB.jpg" caption="TL Note: Yuki means failed character development">}}
+<figure>
+ <img src="https://i.imgur.com/391gYnB.jpg">
+ <figcaption>TL Note: Yuki means failed character development</figcaption>
+</figure>
 
 On the other hand, some characters that were originally backseat support are better off for the change. Hanayo’s character is explored a bit more, although it’s primarily about her own feelings rather than a continuation of the incest thread. Chiyori and Eldora, who aren’t really tied to anything (and were therefore pretty pointless in the first season), probably fit the new season theme the best, starring in a fairly interesting and self-contained arc.
 
@@ -328,8 +386,9 @@ Cons:
 -   Character development lacks fluidity and coherence
 
 
-###2. Barakamon
-{{<figure src="https://i.imgur.com/v921cXe.jpg">}}
+### 2. Barakamon<figure>
+ <img src="https://i.imgur.com/v921cXe.jpg">
+</figure>
 
 *Barakamon* is a slice-of-life about a young professional calligrapher who is exiled to the Bumfuck Nowhere Islands after breaking the illusions of an art director who criticized his work. I think we straight-up skipped this one during our seasonal sampling for some reason.
 
@@ -340,7 +399,10 @@ Or so I thought, until I rewatched *Barakamon* and realized that none of the cha
 The simplicity Seishuu finds in the country life is reflected in the construction of the anime, which may be what makes it so appealing to me. Perhaps the most surprising element of *Barakamon* is its utter lack of a certain element – romance. Despite Seishuu being a modest 23 years old, all of the female characters are at least a decade removed from him, being comprised entirely of children, middle-schoolers, and married middle-aged women.
 
 
-{{<figure src="https://i.imgur.com/2FNNfka.jpg" caption="My dick is confused by Barakamon, so it must be art">}}
+<figure>
+ <img src="https://i.imgur.com/2FNNfka.jpg">
+ <figcaption>My dick is confused by Barakamon, so it must be art</figcaption>
+</figure>
 
 Without the ulterior motives and misunderstandings of romance poisoning the well, the relationships Seishuu holds with the other cast are refreshingly straightforward and honest. This relates to the point I made in the *NGNL* entry, which is that these relationships are appealing because they reflect what we’d like to see in reality. We want relationships with people that are simple and honest, but differences in social status and culture require us to compromise. We hide skeletons in our closet while we laugh and judge others for theirs. The life portrayed in *Barakamon* is so simple that everyone puts their skeletons in a communal closet, and as Seishuu find himself with increasingly little to hide, he ironically finds himself becoming more and more of an individual.
 
@@ -362,15 +424,19 @@ Cons:
 -   Simplicity leads to a somewhat underdeveloped secondary cast
 
 
-###1. Ping Pong the Animation
-{{<figure src="https://i.imgur.com/TNtPIwi.jpg">}}
+### 1. Ping Pong the Animation<figure>
+ <img src="https://i.imgur.com/TNtPIwi.jpg">
+</figure>
 
 It is exactly what it says on the tin. This is an animation of a series about ping pong. Also, there are no straight lines because maybe the author’s geometry teacher made fun of him, I don’t know.
 
 Indeed, the art style is probably what stands out the most. It’s weird and unconventional. It looks sloppy. It looks *ugly*. Is it wrong? I don’t know about that. It can be distracting, especially at first, and it almost made me drop the series completely. But after watching it, I realized an orthodox style would have been more distracting. The purpose isn’t in the visuals, but in the players. An orthodox style would suggest an orthodox series, but *Ping Pong* doesn’t feel that way. By being so blatantly different, *Ping Pong* makes the viewer more aware of it as an individual work, and not in comparison to other sports series. Is it done well? I honestly don’t know, because it’s too different from what I’ve seen to judge. I’m not going tell you this is modern art, and that you just don’t *understand*. But still, I do believe that an orthodox style would have been worse, in a subtle way.
 
 
-{{<figure src="https://i.imgur.com/YYq2wl1.jpg" caption="A subtlety deeper than the ocean.">}}
+<figure>
+ <img src="https://i.imgur.com/YYq2wl1.jpg">
+ <figcaption>A subtlety deeper than the ocean.</figcaption>
+</figure>
 
 I’ve seen my fair share of sports anime and manga, and the theme of talent vs. hard work is nothing new. Because giving up is seen as the worst possible outcome, we want to believe that hard work always wins, because we don’t want to be discouraged from challenging people with talent. But it’s not always so easy, and *Ping Pong* really brings this to light. To say that effort can take you to the top just as easily as talent is a naïve statement, one that’s touted by people who have never truly faced that divide themselves, and talented people who mistakenly believe that it was their effort alone that made them successful. What we often forget is that while hard work can often overtake talent, it doesn’t overtake talent that works hard. The tortoise only beats the hare that sleeps, not the hare that runs.
 
@@ -378,8 +444,7 @@ I think there is a point for most players in any competitive activity where they
 
 This is what I think *Ping Pong* portrays that so many other sports series don’t. People change. They find new talents, new values, and they reprioritize. The sport doesn’t have to be everyone’s ending. *Ping Pong* is about *people*, not players. People whose value does not end at the sport. It may be a disappointing portrayal for viewers who want to see something more like *The Prince of Tennis*, a sentiment I can relate to, but for me, this was the best sports series I’ve seen since *Chihayafuru*. It reminds us that *people* play sports.
 
-As with most things that end up at #1 on my lists, I don’t know if I should recommend this to everyone. This became something of a Hipsters’ Choice Awards winner in the anime community, and I don’t want to give my recommendation as an extension of this vague “it’s different so it’s good” concept. I want to give my recommendation on the basis that it made me reflect on myself as a person, particularly one who considers excellence to be a virtue.
-
+As with most things that end up at # 1 on my lists, I don’t know if I should recommend this to everyone. This became something of a Hipsters’ Choice Awards winner in the anime community, and I don’t want to give my recommendation as an extension of this vague “it’s different so it’s good” concept. I want to give my recommendation on the basis that it made me reflect on myself as a person, particularly one who considers excellence to be a virtue.
 
 *tl;dr version:*
 
@@ -396,12 +461,14 @@ Cons:
 -   Weird animation
 
 
-###Closing Thoughts
-
+### Closing Thoughts
 
 Maybe anime is getting worse, or my tastes are changing, or I’m just slowly outgrowing this hobby altogether, but I always feel like there are fewer anime every year I really enjoy. At the end of the year when I sit down to write a top ten list, there always seem to be two or three that stand out, and I end up scrounging around for things that I didn’t actively dislike to fill out the rest of the list. Ten is such an oppressive yet arbitrarily round number for a list.
 
-{{<figure src="https://i.imgur.com/2TWEd7h.png" caption="Yet somehow it seems uncouth to copy Matt's better idea and just do a top 5 instead">}}
+<figure>
+ <img src="https://i.imgur.com/2TWEd7h.png">
+ <figcaption>Yet somehow it seems uncouth to copy Matt's better idea and just do a top 5 instead</figcaption>
+</figure>
 
 Luckily, those 2-3 anime always seem to make the rest of the year worth it, and make the list worth writing. See you in 2018, for the top ten of 2015!
 
@@ -416,4 +483,3 @@ h3 {
 text-align:center;
 }
 </style>
-

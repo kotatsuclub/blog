@@ -2,3 +2,6 @@ baseURL = "https://kotatsu.club"
 disablePathToLower = true
 languageCode = "en-us"
 title = "Kotatsu Club"
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
