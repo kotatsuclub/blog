@@ -18,7 +18,7 @@ Rules for the list:
 
 - There will be no sequels on this list.
 
-<br>
+
 ###10. Isshuukan Friends
 {{<figure src="https://i.imgur.com/YKIudKR.jpg">}}
 
@@ -62,7 +62,7 @@ Cons:
 * Some wasted potential by taking the easy way out
 * Secondary characters are notably flat
 
-<br>
+
 ###9.Tokyo Ravens
 {{<figure src="https://i.imgur.com/CPTLhFI.jpg">}}
 
@@ -92,7 +92,7 @@ Cons:
 * No real character development
 * Beginning is pretty slow and unimpressive
 
-<br>
+
 ###8. Log Horizon
 {{<figure src="https://i.imgur.com/Imm79tD.jpg">}}
 
@@ -130,7 +130,7 @@ Cons:
 -   Pretty slow, especially if MMOs aren’t your cup of tea
 -   Clumsy handling of parallel plot threads
 
-<br>
+
 ###7. Yuuki Yuuna wa Yuusha de Aru
 {{<figure src="https://i.imgur.com/1RcZbfF.jpg">}}
 
@@ -163,7 +163,7 @@ Cons:
 -   Your Mileage May Vary on emotional impact
 -   I didn’t like the ending again
 
-<br>
+
 ###6. Kill la Kill
 {{<figure src="https://i.imgur.com/1rZzDqF.jpg">}}
 
@@ -202,7 +202,7 @@ Cons:
 -   Fight scenes don’t really stand out
 -   Side cast is somewhat underdeveloped
 
-<br>
+
 ###5. Gekkan Shoujo Nozaki-kun
 {{<figure src="https://i.imgur.com/YaxXrDY.jpg">}}
 
@@ -237,7 +237,7 @@ Cons:
 -   Cheerios are still cheerios
 -   Chiyo not that interesting of a character, more like infrastructure
 
-<br>
+
 ###4. No Game No Life
 {{<figure src="https://i.imgur.com/UhRxMjW.jpg">}}
 
@@ -281,7 +281,7 @@ Cons:
 -   Superficial secondary cast
 -   S2 never
 
-<br>
+
 ###3. selector infected/spread WIXOSS
 {{<figure src="https://i.imgur.com/N0h2DGY.jpg">}}
 
@@ -327,7 +327,7 @@ Cons:
 -   Seasons don’t mesh well together
 -   Character development lacks fluidity and coherence
 
-<br>
+
 ###2. Barakamon
 {{<figure src="https://i.imgur.com/v921cXe.jpg">}}
 
@@ -361,7 +361,7 @@ Cons:
 -   Technical execution is average
 -   Simplicity leads to a somewhat underdeveloped secondary cast
 
-<br>
+
 ###1. Ping Pong the Animation
 {{<figure src="https://i.imgur.com/TNtPIwi.jpg">}}
 
@@ -395,9 +395,9 @@ Cons:
 -   Still had some unnecessary generic shounen elements
 -   Weird animation
 
-<br>
+
 ###Closing Thoughts
-<br>
+
 
 Maybe anime is getting worse, or my tastes are changing, or I’m just slowly outgrowing this hobby altogether, but I always feel like there are fewer anime every year I really enjoy. At the end of the year when I sit down to write a top ten list, there always seem to be two or three that stand out, and I end up scrounging around for things that I didn’t actively dislike to fill out the rest of the list. Ten is such an oppressive yet arbitrarily round number for a list.
 
