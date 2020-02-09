@@ -4,5 +4,12 @@ languageCode = "en-us"
 title = "Kotatsu Club"
 theme = "notepadium"
 
+
+enableRobotsTXT = true
+
 [markup.goldmark.renderer]
 unsafe = true  # enable raw HTML in Markdown
+
+[[params.nav.custom]]
+title = "RSS"
+url = "/post/index.xml"
