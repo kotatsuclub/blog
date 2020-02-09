@@ -7,7 +7,7 @@ title = "The Boy and the Beast Review - Tooth and Claw"
 +++
 
 
-![](https://i.imgur.com/a805VOs.jpg)
+{{<figure src="https://i.imgur.com/a805VOs.jpg">}}
 
 It's gotten to the point for me where if you see the words "directed by Mamoru Hosoda" in one of my reviews, you should immediately interpret that as a confession of bias on my end. I'm not sure what the deal is with him and the rest of Studio Chizu, but I'm yet to find myself *not* blown away by any of their productions, and frankly I'm not sure if that trend is ever going to change. It started with *The Girl Who Leapt Through Time* in 2006, and after that I was hooked on everything Hosoda and his crew did afterward. 
 

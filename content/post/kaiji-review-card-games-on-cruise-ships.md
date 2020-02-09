@@ -7,7 +7,7 @@ title = "Kaiji Review - Card Games on Cruise Ships"
 +++
 
 
-![UHVVzrn](https://i.imgur.com/UHVVzrn.jpg)
+{{<figure src="https://i.imgur.com/UHVVzrn.jpg">}}
 
 *Kakegurui* is one of the nicer surprises to come out of the summer season. The art direction is great, the dialogue is brilliant, and watching our protagonists deal with the slew of cheats and tricks their opponents throw at them never ceases to entertain. It is an engaging, thrilling show that I wholeheartedly recommend to anyone who's interested in the premise of after-school high-stakes gambling clubs and the associated chicanery that happens within. 
 

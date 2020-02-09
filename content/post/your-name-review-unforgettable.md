@@ -7,7 +7,7 @@ title = "Your Name Review - Unforgettable"
 +++
 
 
-![](https://i.imgur.com/UkSCygg.jpg)
+{{<figure src="https://i.imgur.com/UkSCygg.jpg">}}
 
 Before you read any further, consider this your one and only warning that the following review is going to contain **spoilers**. Quite a few of them. However, aware as I am that flag can turn people off from this review, I'm willing to compromise. The problem is I can't give this film the thorough dissection it deserves without having to give away the Act 2 plot twist, because that's the point where the entire tone, theme and story in general switches gears and almost turns into an entirely different film altogehter, so what I'm going to do is chop this review into two sections. For part one, I'm going to try to stick to only Act 1 developments and information, so if you haven't seen this film yet but it's on your to-do list and you want to know what you're getting into, then there's no need to worry. Part two will talk about everything that happens after that aforementioned twist (don't worry, I'll let you know when we get there), and if you want to keep the second half or so of the movie fresh, that'd be the part to skip.
 
@@ -37,7 +37,7 @@ The first part of this movie is full of witty dialogue, colorful and unique char
 
 For the rest of you... (last call, major **spoilers** incoming)
 
-![](https://i.imgur.com/Hs3XBGm.jpg)
+{{<figure src="https://i.imgur.com/Hs3XBGm.jpg">}}
 
 So Taki sets out to find Mitsuha and try to connect with her personally, with only a sketch of her hometown to guide him along. He finally does arrive at the town, only to realize that not only was it wiped off the map by a falling meteorite three years ago, but also that one of the casualties in the accident was Mitsuha herself. 
 
@@ -57,7 +57,7 @@ One of my friends best summed up the show as follows: "What happens when we give
 
 *Your Name*'s response seems to be, "What happens is you get a really damn good movie out of it."
 
-![](https://i.imgur.com/QE9phWP.jpg)
+{{<figure src="https://i.imgur.com/QE9phWP.jpg">}}
 
 **THE VERDICT: A+**  
 *Next time: Another nitpick-fest of a spectacularly bad show.*

@@ -7,7 +7,7 @@ title = "The New Keeper of the Death Note"
 +++
 
 
-![Starting my writing career the only way I know how. From Re:Zero in 8 Minutes by Gigguk](https://i.imgur.com/UYZZsWL.jpg) <center>*Well, technically Subaru...*</center>
+{{<figure src="https://i.imgur.com/UYZZsWL.jpg" caption="*Well, technically Subaru...*">}}
 
 I think I have your attention now.
 

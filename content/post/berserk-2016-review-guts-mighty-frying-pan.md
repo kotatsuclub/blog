@@ -7,7 +7,7 @@ title = "Berserk (2016) Review - Guts' Mighty Frying Pan"
 +++
 
 
-![](https://i.imgur.com/LEQ6XST.jpg)
+{{<figure src="https://i.imgur.com/LEQ6XST.jpg">}}
 
 Greetings, wanderer. I see you try to cross the vast desert of nothingness that is the Winter 2017 season. Alas, the oasis of *KonoSuba 2* has dried just days ago, and the spring rains are still yet to come for some time. You have far to go, and the journey will be harsh, but I invite you to take respite here. Please, sit around the campfire and have a drink. Listen as I tell you a tale of glorious times past, in the age of *Death Note*, our one true god, for indeed we all require some cheer during this long, dark night of inconsequential noise.
 

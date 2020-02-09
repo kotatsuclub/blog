@@ -7,7 +7,7 @@ title = "This Art Club Has a Problem Review - And So Does This Anime"
 +++
 
 
-![](https://i.imgur.com/Tw1ku2i.png)
+{{<figure src="https://i.imgur.com/Tw1ku2i.png">}}
 
 No. No, no, no, nonononono, no. I refuse. Absolutely not. The cycle must end. No!
 

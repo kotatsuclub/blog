@@ -7,7 +7,7 @@ title = "91 Days Review - Welcome to the Family"
 +++
 
 
-![](https://i.imgur.com/hGZtXLp.png)
+{{<figure src="https://i.imgur.com/hGZtXLp.png">}}
 
 So Crunchyroll hosted their first annual Anime Awards this year, where they pretty much hosted their own version of the Golden Globes but with, well, anime. It was a pretty fun concept, at least theoretically, and I say that because the actual awards were nowhere close to being indicative of the 2016 year at all. 
 

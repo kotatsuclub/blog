@@ -7,7 +7,7 @@ title = "Eromanga-sensei Review - Let's Talk About Himouto For a Minute"
 +++
 
 
-![](https://i.imgur.com/bKPpj0t.png)
+{{<figure src="https://i.imgur.com/bKPpj0t.png">}}
 
 Guys, this is not going to be one of my better reviews. 
 
@@ -55,8 +55,8 @@ Instead, he drops off Sagiri's dinner with a handwritten note, which Sagiri then
 
 The only way this development could have felt more contrived, rushed or forced is if it was a Zack Snyder movie.
 
-![](https://i.imgur.com/z5pDR0P.jpg)
-![](https://i.imgur.com/iYWJAKJ.jpg)
+{{<figure src="https://i.imgur.com/z5pDR0P.jpg">}}
+{{<figure src="https://i.imgur.com/iYWJAKJ.jpg">}}
 {{<figure src="https://i.imgur.com/CKiDRr4.jpg" caption="*Siiiiiiiiiiiiiigh.....*">}}
 
 I thought the first episode of this series was good, but there's nothing worthwhile for you past that point. It tries to get by hoping it can just repeat the same three or four jokes over and over and over again and constantly getting its audience laughing, and it wears out its welcome incredibly quickly in doing so.

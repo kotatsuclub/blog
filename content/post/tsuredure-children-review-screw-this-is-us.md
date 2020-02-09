@@ -7,7 +7,7 @@ title = "Tsuredure Children Review - Screw \"This is Us\""
 +++
 
 
-![yVKHTJK](https://i.imgur.com/yVKHTJK.jpg)
+{{<figure src="https://i.imgur.com/yVKHTJK.jpg">}}
 
 ...you people seem to like requesting romcoms for me to review, don't you?
 

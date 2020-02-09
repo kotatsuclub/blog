@@ -7,7 +7,7 @@ title = "Ping Pong Review - Misuta Tsukimoto!!"
 +++
 
 
-![2EpU5rC](https://i.imgur.com/2EpU5rC.jpg)
+{{<figure src="https://i.imgur.com/2EpU5rC.jpg">}}
 
 Okay, maybe calling *Saki* a sports anime was a bit of a stretch.
 

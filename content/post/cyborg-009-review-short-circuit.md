@@ -7,7 +7,7 @@ title = "Cyborg 009 Review - Short Circuit"
 +++
 
 
-![](https://i.imgur.com/eWYoSc8.jpg)
+{{<figure src="https://i.imgur.com/eWYoSc8.jpg">}}
 
 I really need to stop doing this to myself. Why must I, after watching a movie that I really really enjoyed, always follow it up with a series nobody expected to be good and completely lives up to expectations? Maybe it's just a bitter involuntary response I have, like saying, "Shut up," whenever somebody sneezes, but the last time this happened I actually kinda enjoyed it to be honest.
 
@@ -64,7 +64,7 @@ Hey, how was everyone's E-Days? I bumped into a new webcomic series called *Slig
 
 I've also been playing a ton of *Faeria* lately. It pretty much plays like a tactical board game with elements of *Hearthstone* and *Magic the Gathering* thrown in to boot. Pretty much, the entire game plays out on a hex board where you create lands to drop your creatures onto and power your spells. The tactics come in moving your creatures around the board, invading enemy territory and attacking their base while holding off your opponent's forces. It is a very unique game to say the least, plus the devs hold monthly tournaments with some decently-sized prize pools. It's also free-to-play, so I say no reason not to download it and try a few hands.
 
-![](https://i.imgur.com/BeiLNTl.jpg)
+{{<figure src="https://i.imgur.com/BeiLNTl.jpg">}}
 
 Wait, this isn't what I'm reviewing. What was I originally talking about again? 
 

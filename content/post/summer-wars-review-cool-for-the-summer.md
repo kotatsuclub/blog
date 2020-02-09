@@ -7,7 +7,7 @@ title = "Summer Wars Review - Cool for the Summer"
 +++
 
 
-![Banner pic](https://i.imgur.com/JFg9p8Q.jpg)
+{{<figure src="https://i.imgur.com/JFg9p8Q.jpg">}}
 
 Alright, first review. Let's get cracking. Straight to the heart of it. Nothing for me to digress about at all.
 

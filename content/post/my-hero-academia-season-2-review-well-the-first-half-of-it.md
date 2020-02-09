@@ -7,7 +7,7 @@ title = "My Hero Academia Season 2 Review - Well, The First Half of It"
 +++
 
 
-![](https://i.imgur.com/F42XVpy.jpg)
+{{<figure src="https://i.imgur.com/F42XVpy.jpg">}}
 
 *My Hero Academia* made its debut in the spring of last year and sought to answer the age old question of, "What would happen if *Sky High* was an anime instead of a forgettable Disney original film?" In the show's universe, roughly 80% of the world's population is born with some sort of supernatural ability called a Quirk, which can range anywhere from explosive punches to levitation to temperature manipulation and just about any other superpower you can think of. As you can imagine, some people have decided to use their Quirks for more nefarious and evil purposes, and as a result a very large demand has sprung up for superheroes to beat down the villains and bring them to justice. 
 

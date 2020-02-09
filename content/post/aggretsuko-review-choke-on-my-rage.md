@@ -7,7 +7,7 @@ title = "Aggretsuko Review - Choke On My Rage"
 +++
 
 
-![rjeoGA2](https://i.imgur.com/rjeoGA2.jpg)
+{{<figure src="https://i.imgur.com/rjeoGA2.jpg">}}
 
 So...yeah, hi. Been a while.
 

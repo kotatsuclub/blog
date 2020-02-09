@@ -7,7 +7,7 @@ title = "Casshern Sins Review - Sinfully Bad"
 +++
 
 
-![](https://i.imgur.com/6Oc1bbf.jpg)
+{{<figure src="https://i.imgur.com/6Oc1bbf.jpg">}}
 
 Well this is one hell of a shift in quality, isn't it? I debuted my reviewing career with *Summer Wars*, an absolute trip of a film that I loved very dearly, and now I have to deal with this shambles. Somehow, between then and now, and with very little fanfare in between, I have gone from reviewing something amazing to slashing apart something completely terrible. I'm not entirely convinced this is actually happening to me. I'm half-expecting to wake up any second now with my keyboard's home row imprinted across my forehead, and I'd actually appreciate that a ton. Because that would imply I didn't just spend part of my precious life watching *Casshern Sins*. 
 
@@ -43,7 +43,7 @@ Here's the thing, though: it just doesn't work as an intro song. When I first sa
 
 The visual editing doesn't do it any favors either. It's like the director said, "Yeah, just put in a bunch of stills of Casshern looking serious and show off his outfit a little. That'll get the audience revved up!" It reeks of laziness. In fact, it's hardly even animated! Outside of a first shot of an eye opening up (because that's meaningful and unique and definitely *not* a clich&eacute; for 2008), less than a second of Casshern's hair blowing in the wind, and a lens flare, there is no movement in *Casshern Sins*' OP whatsoever. I could probably recreate it in a PowerPoint presentation, and I slightly suspect that was actually the software they used.
 
-![](https://i.imgur.com/YZecEmE.png)<center>*Simple: I'm here to kill you.*</center>
+{{<figure src="https://i.imgur.com/YZecEmE.png" caption="*Simple: I'm here to kill you.*">}}
 
 "SnYves, come on now, aren't you being a little facetious here? After all, there's more to an action anime than just the fight scenes and opening theme song. It's about the characters and the story and..."
 
@@ -57,9 +57,9 @@ But then I was treated to a poorly animated dialogue with the city's head mechan
 
 "I don't know. But I'm certain it's unavoidable." 
 
-![](https://i.imgur.com/jimziGv.png)
+{{<figure src="https://i.imgur.com/jimziGv.png">}}
 
-![](https://i.imgur.com/YeLt3dN.png)
+{{<figure src="https://i.imgur.com/YeLt3dN.png">}}
 
 {{<figure src="https://i.imgur.com/qYY65Gs.png" caption="*...what?*">}}
 

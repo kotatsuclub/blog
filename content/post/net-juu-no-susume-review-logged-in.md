@@ -7,7 +7,7 @@ title = "Net-juu no Susume Review - Logged In"
 +++
 
 
-![ogJfyqr](https://i.imgur.com/ogJfyqr.jpg)
+{{<figure src="https://i.imgur.com/ogJfyqr.jpg">}}
 
 Fall's here!
 

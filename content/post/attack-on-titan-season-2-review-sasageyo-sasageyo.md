@@ -7,7 +7,7 @@ title = "Attack on Titan Season 2 Review - SASAGEYO, SASAGEYO!!"
 +++
 
 
-![](https://i.imgur.com/Rcl7U4l.jpg)
+{{<figure src="https://i.imgur.com/Rcl7U4l.jpg">}}
 
 (Forgive the subtitle; I had to get that out of my system before we started. Also, I'm freely going to be talking about Season 1 **spoilers** in this review, so avert your eyes if you haven't seen this show yet and want to keep it fresh.)
 
@@ -43,7 +43,7 @@ So instead of focusing on him during the entire twelve-episode run, he's instead
 
 All of that said, however, story is at best half of the appeal behind *Attack on Titan*, because in addition to its thriller and drama elements, there's a good share of action in the series, whether it be the Scout Corps slicing things up or Eren channeling his inner UFC to battle the Titans head on. Depending on who you ask, the action either complements the story of *Attack on Titan* if not the other way around, but either way let's agree it's a fairly vital part of the anime.
 
-![](https://i.imgur.com/AnIkXeB.jpg)  
+{{<figure src="https://i.imgur.com/AnIkXeB.jpg">}}  
 <center>That and absoultely nightmarishly awesome shots like this.</center>
 <br>
 I mention this because Season 2 takes a while to get interesting from an action standpoint. And by "a while," I mean roughly half of the season. And that's bad. I mean, the first episode wraps up with a pretty gruesome scene and a flooring reveal about one of the newer Titans, but past that, right until the trainees get trapped in a castle, I can not think of one memorable action scene whatsoever on the run-up to that. 

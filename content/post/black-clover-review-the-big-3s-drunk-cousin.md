@@ -7,7 +7,7 @@ title = "Black Clover Review - The Big 3's Drunk Cousin"
 +++
 
 
-![fmX4mXj](https://i.imgur.com/fmX4mXj.jpg)
+{{<figure src="https://i.imgur.com/fmX4mXj.jpg">}}
 
 So...this is gonna be a slightly awkward review...
 

@@ -7,7 +7,7 @@ title = "Saki Review - Magical Mahjong"
 +++
 
 
-![PkNyMg9](https://i.imgur.com/PkNyMg9.jpg)
+{{<figure src="https://i.imgur.com/PkNyMg9.jpg">}}
 
 Some of you may have noticed a bit of a motif in my past reviews, specifically related to a four-player game in which players pass around tiles to score points and humiliate their opponents over and over again. Yeah I finally finished up *Akagi*, and the only way I can fill the void left by both it and *Kaiji* right now is to play five hours of mahjong daily until I finally get bored and go back to *WoW* or something like that. Still, after sinking a ton of my time as a kid being destoyted by my mom in gin rummy marathons, I find the game strangely compelling. I can understand why there's a cult following here; it's a fun little game once you've finally figured out all the scoring hands, Japanese terminology, gameplay gotchas and the absolute *swamp* that is the scoring system.
 

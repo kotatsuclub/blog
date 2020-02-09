@@ -7,7 +7,7 @@ title = "Paranoia Agent Review - Why So Serious?"
 +++
 
 
-![](https://i.imgur.com/PkeeBOb.jpg)
+{{<figure src="https://i.imgur.com/PkeeBOb.jpg">}}
 
 In completely unrelated news, I just finished rewatching *ERASED* from last winter, and it is just as amazing as I remembered it to be. I've always been a big fan of mystery shows both inside and outside of anime, and *ERASED* satisfied me in a way I haven't felt in ages. It was a well-told, well-paced and engaging whodunit that admittedly I guessed six episodes in advance of the actual reveal. 
 
@@ -39,7 +39,7 @@ You remember that incredibly annoying twerp Nui Harime from *Kill la Kill*? I re
 
 "I'm guessing you didn't like her too much, SnYves." You think so, reader? How insightful. And fine, I'll admit my initial reaction to her popping up on my screen like an unwanted porn ad was maybe a little visceral. But as I was watching this "Ichi" strut down his street, wooing the girls and hyping up just how awesome he was directly to my face, something clicked in the back of my mind. It was that exact same feeling: pure, unadulterated, loathsome, white hot hate. And I challenge you to not feel the same way about him the moment he turns to camera and gives you that self-fulfilled, toothy grin reserved only for the antagonists in slice of life shows.
 
-![](https://i.imgur.com/OquKg2l.jpg)<center>*Like, seriously. Look at him!*</center>
+{{<figure src="https://i.imgur.com/OquKg2l.jpg" caption="*Like, seriously. Look at him!*">}}
 
 Fortunately, because he likes to wear a baseball hat and gold in-line skates, the kids at his school start associating "Ichi" with Shonen Bat, and we're teed right up to see him get absolutely ruined. That's *Paranoia Agent* in its finest form - we hardly get twenty minutes with each character but over that span of time we are able to formulate a pretty well-characterized opinion of each of them, invoking a pretty powerful emotional response during the show's various events. 
 
@@ -53,7 +53,7 @@ In addition to the stellar mystery and suspense, we also get some comedic asides
 
 Hell, for those with a sharp mind, there's even a good bit of foreshadowing and information to be found in some of the not-main episodes. Inconsequential as they may seem on the surface, they actually contain pretty useful clues as to the kind of universe we're in, what Shonen Bat's motivation is, and some other stuff I can't really discuss without going into Spoilertown. So yeah, even the filler episodes have something to do with the larger overarching story. 
 
-![](https://i.imgur.com/mKOd8gM.png)<center>*Everyone gather for a picture with the colonial Jamestown settler!*</center>
+{{<figure src="https://i.imgur.com/mKOd8gM.png" caption="*Everyone gather for a picture with the colonial Jamestown settler!*">}}
 
 In terms of atmosphere, tone and setting, *Paranoia Agent* feels like a good, long, extended episode of something like *The X-Files*. The intrigue among characters not involved with the investigation itself, the almost supernatural way Shonen Bat is able to find his victims when they're at their worst mentally, the mostly serious mood occasionally paired with a few off-the-cuff humor bits, and of course two investigators looking into a series of strange attacks that nobody can really tie together - the comparison almost writes itself. 
 

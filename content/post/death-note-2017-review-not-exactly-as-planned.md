@@ -11,7 +11,7 @@ title = "Death Note (2017) Review - Not Exactly as Planned"
 
 *So, shall we begin?*
 
-![](https://i.imgur.com/jvaPEc9.jpg)
+{{<figure src="https://i.imgur.com/jvaPEc9.jpg">}}
 
 So if you somehow missed all of the four months' worth of buzz surrounding this week's subject matter, allow to briefly bring you up to speed. Last spring, the media streaming colossus known as Netflix released a teaser trailer for their live-action *Death Note* movie, an adaptation of the legendary manga-turned-anime series originally aired in late 2006. Problem was, not everyone was on board for it at the time, and since this is the age of the internet where you can pretty much say anything you want under the blanket of anonymity, a large part of the anime fandom didn't like it too much. 
 

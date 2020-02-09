@@ -7,7 +7,7 @@ title = "KonoSuba 2 Review - Cats, Masks and Useless Goddesses"
 +++
 
 
-![](https://i.imgur.com/tySGvFk.gif)
+{{<figure src="https://i.imgur.com/tySGvFk.gif">}}
 
 I won't lie to you guys: 2016 was a *really* rough year. 
 

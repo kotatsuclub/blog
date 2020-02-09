@@ -8,7 +8,7 @@ title = "Berserk (2017) Review - The Tease to End Them All"
 
 
 *In memory of Chester Bennington (1976-2017)*
-![](https://i.imgur.com/hJtSfBR.jpg)
+{{<figure src="https://i.imgur.com/hJtSfBR.jpg">}}
 
 For those keeping score at home, this will be the third consecutive show I've reviewed that's not a standalone series and instead a second season for an already existing one. Not that I'm complaining at any rate, because I'd much rather have a good sequel to something I like than a newer series that makes me want to put a flamethrower to it, but I have to admit I'm feeling just a bit weary. And rewatching *Kiznaiver* and re-re-rewatching *Bebop* can only stave off new anime withdrawal for so long. 
 

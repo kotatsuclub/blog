@@ -7,7 +7,7 @@ title = "Hajimete no Gal Review - Blacklist Night Came Early This Year"
 +++
 
 
-![](https://i.imgur.com/9z8JtBr.jpg)
+{{<figure src="https://i.imgur.com/9z8JtBr.jpg">}}
 
 There's a *very* good reason you don't see me review harem shows on this website.
 

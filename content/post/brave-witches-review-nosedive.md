@@ -7,7 +7,7 @@ title = "Brave Witches Review - Nosedive"
 +++
 
 
-![](https://i.imgur.com/1FPFsRM.jpg)
+{{<figure src="https://i.imgur.com/1FPFsRM.jpg">}}
 
 "Really, SnYves? This is what you decided to review this week? A magical girls show that almost nobody's heard of released as a side story to another equally obscure magical girls show from almost a decade ago?"
 

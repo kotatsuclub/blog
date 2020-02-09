@@ -7,7 +7,7 @@ title = "GAMERS! Review - Press Start"
 +++
 
 
-![](https://i.imgur.com/7vWlMWs.jpg)
+{{<figure src="https://i.imgur.com/7vWlMWs.jpg">}}
 
 Oh don't look at me like that, reader. It's been a really slow week for me. I'm currently in Colorado Springs and the wifi I'm using utterly refuses to cooperate with Crunchyroll for some dumb reason. And this especially irking seeing as how the summer season is currently upon us in full force, so saying that I'm prepared for it would be like tossing a bedsheet over my head and saying I'm prepared for thermonuclear warfare.
 

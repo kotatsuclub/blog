@@ -7,7 +7,7 @@ title = "Grimgar of Fantasy and Ash Review - The Beginner's Guide"
 +++
 
 
-![](https://i.imgur.com/KPYAW8n.jpg)
+{{<figure src="https://i.imgur.com/KPYAW8n.jpg">}}
 
 Stop me if you've heard this one before: a seemingly normal teenage boy is mysteriously and abruptly transported to a medieval fantasy setting in a parallel universe, and alongside a cast of colorful characters he begins his journey from square one in this new, fascinating and wonderful world he has stumbled upon. 
 

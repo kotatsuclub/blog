@@ -7,7 +7,7 @@ title = "Miss Kobayashi's Dragon Maid Review - Skyrim Mods the Anime"
 +++
 
 
-![](https://i.imgur.com/YA7w1dL.jpg)
+{{<figure src="https://i.imgur.com/YA7w1dL.jpg">}}
 
 I'm...legitimately not sure where to start with this one.
 
@@ -65,7 +65,7 @@ All that aside, though, considering how badly we're going to miss *KonoSuba* in 
 
 And finally, since I hinted at it in my *Art Club* review:
 
-![](https://i.imgur.com/bKApN36.jpg)
+{{<figure src="https://i.imgur.com/bKApN36.jpg">}}
 
 **THE VERDICT: A**  
 *Next time: Never forget.*

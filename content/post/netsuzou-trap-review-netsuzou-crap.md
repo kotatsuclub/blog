@@ -7,7 +7,7 @@ title = "Netsuzou Trap Review - Netsuzou Crap"
 +++
 
 
-![yqA1Nqy](https://i.imgur.com/yqA1Nqy.jpg)
+{{<figure src="https://i.imgur.com/yqA1Nqy.jpg">}}
 
 It's okay! I'm alive!
 

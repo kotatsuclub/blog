@@ -17,5 +17,5 @@ Either way, enjoy the deals and see you next week. I promise I'll have all of my
 
 ~SnYves
 
-![xHkKo5G](https://i.imgur.com/xHkKo5G.gif)
+{{<figure src="https://i.imgur.com/xHkKo5G.gif">}}
 

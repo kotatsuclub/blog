@@ -7,7 +7,7 @@ title = "Gabriel Dropout Review - Heaven Is A Place On Earth"
 +++
 
 
-![](https://i.imgur.com/9ja4we4.png)
+{{<figure src="https://i.imgur.com/9ja4we4.png">}}
 
 Alright, fine! I'll review a 2017 show! Put the Molotov cocktails and pitchforks away!
 
