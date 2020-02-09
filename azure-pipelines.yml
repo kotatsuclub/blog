@@ -1,8 +1,3 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
-
 trigger:
 - master
 
@@ -13,6 +8,9 @@ variables:
   hugoVersion: '0.64.0'
 
 steps:
+- checkout: self
+  submodules: true
+  
 - script: |
     wget https://github.com/gohugoio/hugo/releases/download/v$(hugoVersion)/hugo_$(hugoVersion)_Linux-64bit.deb -O hugo.deb
     sudo dpkg -i hugo.deb
