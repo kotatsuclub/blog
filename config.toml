@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "Kotatsu Club"
 theme = "notepadium"
 
+disqusShortname="kotatsuclub"
+
 ### Theme settings
 
 enableRobotsTXT = true
@@ -14,6 +16,9 @@ unsafe = true  # enable raw HTML in Markdown
 [[params.nav.custom]]
 title = "RSS"
 url = "/post/index.xml"
+
+[params.comments]
+enable = true
 
 ### Deployment
 
