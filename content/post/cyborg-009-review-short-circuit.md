@@ -19,8 +19,7 @@ Then out pops *Cyborg 009: Call to Justice* in 2016, and considering that on its
 
 What I'm saying is *Cyborg 009* isn't very good. At all. That's kinda the point I'm getting at.
 
-![](https://i.imgur.com/1tOsXUx.jpg)
-<center>*Bless you. I mean, shut up.*</center>
+{{<figure src="https://i.imgur.com/1tOsXUx.jpg" caption="*Bless you. I mean, shut up.*">}}
 
 Going back to a couple weeks ago, you remember how I mentioned there are different types of bad anime, ranging anywhere between fun bad and offensive bad? *Cyborg 009* comes in probably the worst flavor of bad there is: the boring bad. The show itself wants to be an action show, but does it in all of the most tedious, uninteresting and of course wrong ways that I barely managed two episodes before dropping it like a cursed twelfth-century vase. 
 
@@ -31,8 +30,7 @@ But, well, I guess it's my job to at least acknowledge this thing. Let's get thi
 The closest semblance of a "plot" that I could scrape together is that we're focused on a crime-fighting team of nine highly advanced cyborgs of various nationalities and backgrounds. The catch seems to be that each of them volunteered for an experiment hosted by a shady organization but were duped into being augmented against their will, and if that's the case then I personally would *love* to hear how the Russian baby signed up for it. Does the show care? Not especially, and the show offhandedly mentions he's actually incredibly intelligent, but that doesn't change the fact he's still underage no matter what country he's in.
 
 
-![](https://i.imgur.com/gB5rpEs.jpg)
-<center>*A still from the OP. Literally. It's just a 3D model showcase essentially.*</center>
+{{<figure src="https://i.imgur.com/gB5rpEs.jpg" caption="*A still from the OP. Literally. It's just a 3D model showcase essentially.*">}}
 
 We're not five minutes into the first episode and already I have a headache, but let's move along. Each cyborg has been granted a special trait by the doctor overseeing their crime-fighting operations. The usefulness of said traits range wildly from 009's ability to essentially stop time at will to 008's ability to be really really good at swimming. Not only does this seem like an incredible case of favoritism, but it also raises the question of can the rest of the cyborgs swim, and if yes why does 008's augment seem so trivial in that light. Or even better, is there any reason the good doctor couldn't just take all of the nine cyborgs' special abilities and drop them all into one super-cyborg so to speak? 
 
@@ -42,8 +40,7 @@ Now, think about the preceding two (well, three) paragraphs there for a minute. 
 
 Because that'll keep the audience engaged and wanting more.
 
-![](https://i.imgur.com/EaN1b3f.jpg)
-<center>*Those are some lighting effects there. Also, how's he not burning the sleeve off his suit?*</center>
+{{<figure src="https://i.imgur.com/EaN1b3f.jpg" caption="*Those are some lighting effects there. Also, how's he not burning the sleeve off his suit?*">}}
 
 In keeping with its stale, uninteresting, rigid motif in the writing, *Cyborg 009*'s animation is not one to be so easily snuffed either. I imagine the conversation went something like this: "What if we did *Knights of Sidonia*'s 3D thing again, only this time we acted like we were animating a crappy indie game on Steam as opposed to an actual show?" The art feels stilted in the most literal sense of the word. I felt like the entire series would fall in on itself if I so much as kicked the underside of my desk too hard. 
 
@@ -53,8 +50,7 @@ Characters teleport into and out of existence whenever they aren't part of the f
 
 The only entertainment I found out of this series was picking out the awkwardly silly faces the characters routinely pull at the most inopportune of times. 
 
-![](https://i.imgur.com/SOysCdm.jpg)
-<center>*Laughably scary face aside, I have to ask: Who is camera?*</center>
+{{<figure src="https://i.imgur.com/SOysCdm.jpg" caption="*Laughably scary face aside, I have to ask: Who is camera?*">}}
 
 "But aren't you kinda insinuating that the show's action isn't up to scratch either, SnYves?" Reader, you are exactly correct and a bag of chips. The action is utter nonsense, with no sense of weight, no degree of importance, and no reason whatsoever to care. Part of that apathy might stem from 009's (make sure you pronounce the zeros!) incredibly overpowered ability; I forget if he's capable of actually stopping time, or if he moves so damn quick it only feels like it. Either way, that's the kind of ability that risks trivializing any conflict in the entire series, so whenever he's around I find it hard to give a damn whenever a new foe appears before our heroes.  
 

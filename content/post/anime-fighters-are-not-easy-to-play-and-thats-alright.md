@@ -13,8 +13,7 @@ If you read this blog regularly, then you can probably think of one or two title
 
 And while fighting games are fairly well-known for being easy to "pick up and play" once the basic controls are explained, they are also notorious for having very high skill ceilings. Consistently executing optimal combos for each character, learning how to block and punish attacks ideally, and mastering the game's mechanics on a general level, is not easy to accomplish. As a regular player of fighters myself, I can tell you that, although I've sunk hundreds of hours into *MKX*, *Tekken 7* and a little bit of *Street Fighter IV*, I'm still an awful player. 
 
-![](https://i.imgur.com/nhosxra.jpg)
-<center>Not quite as bad as this dialogue, but still pretty bad.</center><br>
+{{<figure src="https://i.imgur.com/nhosxra.jpg" caption="Not quite as bad as this dialogue, but still pretty bad.">}}<br>
 
 But there's something about anime fighters that make the barrier to entry particularly high, and I don't necessarily mean in terms of online play. Rather, this subgenre of fighters can be difficult to get into from a purely gameplay standpoint, and today I want to talk about why that is the case, and why that isn't necessarily a bad thing.
 
@@ -24,8 +23,7 @@ So far, so simple.
 
 However, as can be stated for just about any other game, high level players go further. Instead of just watching for an opening in their opponent's attacks, they memorize exactly how long that opening is and respond with an appropriate counterattack. When they predict that they will be thrown, they readily hammer the button that will allow them to break free. Instead of merely marching towards or away from an enemy, they instead input a quick succession of commands to get their character to quickly take up a position on the battlefield.
 
-![](https://i.imgur.com/AXlMGwk.jpg)
-<center>Even if nobody is technically on the field.</center><br>
+{{<figure src="https://i.imgur.com/AXlMGwk.jpg" caption="Even if nobody is technically on the field.">}}<br>
 
 If you've watched high-level fighter gameplay, whether it be from the recently concluded EVO tournaments or a professional streamer on Twitch or the VOD replays on a game's official YouTube channel, you have a pretty good idea of what I'm talking about. Players are always concerned with being in the right position, correctly predicting their opponent's moves (sometimes in the span of one-twentieth of a second), and landing long, extensive combos designed to deal as much damage as possible before the opponent can get back up.
 
@@ -33,8 +31,7 @@ This is the first skill hurdle in mastering fighting games: they constantly flex
 
 Although this isn't always the case - from my experience, titles like *Street Fighter V* and the *Super Smash Bros.* series are far more forgiving to players who like to "button mash" without regard to the finer aspects of the game (cancels, frame data and so on) - there is one class of fighter that seems to have such a large number of mechanics and nuances that restrict players from advancing in the game skillwise until they've read through an entire Wiki website explaining everything. Hell, even just spectating matches I regularly had to pause the feed to look up what was happening on screen.
 
-![](https://i.imgur.com/Whbgzgj.jpg)
-<center>I mean, if you've never played UNIEL before, you have no clue what's going on.</center><br>
+{{<figure src="https://i.imgur.com/Whbgzgj.jpg" caption="I mean, if you've never played UNIEL before, you have no clue what's going on.">}}<br>
 
 Where anime fighters excel is in providing a spectacle for anyone watching the game, whether they be playing or observing. I am yet to play an anime fighter where I didn't feel like an absolute beast following a lengthy combo I'd been practicing for hours on end. You can say that about any fighting game, to be fair, but I had a better time landing one Akatsuki bread-and-butter combo in *UNIEL* than I did working through an entire Jax tutorial video for *MKX*. And a big reason I felt like that was, you guessed it, the visual reward I got for sticking that combo looked brilliant.
 
@@ -44,8 +41,7 @@ Anime fighters are called that because they are reminiscent of the fight scenes 
 
 The primary difference, of course, is the amount of involvement. Watching a fight in an anime show can evoke feelings of coolness, excitement, and tension. Playing an anime fighter - where the player directly influences how the fight plays out - goes further and eliminates the "glass wall" that shows have to deal with. The tense, low-health moment scrambles feel all the more rigid when the player knows that they are the ones in the situation, as opposed to a character they are watching from comparative safety.
 
-![](https://i.imgur.com/KfM8LIb.jpg)
-<center>I see a girl with a pot on her head, the scarecrow from Howl's Moving Castle, and not Alphonse Elric.</center><br>
+{{<figure src="https://i.imgur.com/KfM8LIb.jpg" caption="I see a girl with a pot on her head, the scarecrow from Howl's Moving Castle, and not Alphonse Elric.">}}<br>
 
 It's the involvement that makes games so engrossing for players, and in the case of anime fighters, it serves to create the powerful, masterful feeling that comes with achieving expertise in a game. Even if the player is at a beginner skill level, they will inevitably feel like a legend after winning tight games and executing even the most rudimentary of combos. 
 
@@ -55,8 +51,7 @@ It doesn't change the fact that fighters are still incredibly hard to master for
 
 I mean, games are supposed to be fun, right? No matter how easy or difficult it is, gamers are always pursuing that satisfaction coming from overcoming challenges. In the case of anime fighters, that challenge is always self-improvement, and they go well out of their way to make sure the player feels every step of progress they make.
 
-![](https://i.imgur.com/Ds7FzSJ.jpg)
-<center>I mean, c'mon. This looks really damn fun!</center><br>
+{{<figure src="https://i.imgur.com/Ds7FzSJ.jpg" caption="I mean, c'mon. This looks really damn fun!">}}<br>
 
 *Next time: An off week for classes, then...it's time*
 

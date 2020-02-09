@@ -19,8 +19,7 @@ Then inspiration hit me like a wayward soccer ball as I remembered *Paranoia Age
 
 A few hours later, and before I had any clue what I was doing, I was completely done with the series. It was amazing. Superb. Never mind *ERASED*; that's hardly a year old. It can wait. *Paranoia Agent* is turning thirteen this year and I need to get the word out! More people need to see/rewatch this one! 
 
-![](https://i.imgur.com/HZXZr00.jpg)
-<center>*Everybody do the Maromi dance!*</center>
+{{<figure src="https://i.imgur.com/HZXZr00.jpg" caption="*Everybody do the Maromi dance!*">}}
 
 *Paranoia Agent* sets itself up as a psychological thriller and mystery show with some darkly humorous and satirical undertones on the side. Our story centers around a series of assaults and murders, claimed to be the work of a roller-blading, bat-toting middle schooler known only as Shonen Bat (or Li'l Slugger in the dub). His first victim is the character designer Tsukiko Sagi (Mamiko Noto), and due to the circumstances regarding the attack, the two lead detectives Ikari and Maniwa (Shozo Iizuka and Toshihiko Seki respectively) initially suspect her of faking the incident. Shonen Bat, not one to be so easily dismissed, promptly goes after a tabloid reporter, two elementary school kids, a hooker, and a lower-ranking officer, spurring the detectives to investigate further. 
 
@@ -32,8 +31,7 @@ The series has to be lauded for its visual storytelling and engaging, relatable,
 
 In that same spirit, *Paranoia Agent* almost manages to go its entire runtime without ever having to resort to narration from anybody, and for an anime, that's an impressive feat. 
 
-![](https://i.imgur.com/wb47e8M.jpg)
-<center>*A perfect reenactment of a Friday night at my apartment.*</center>
+{{<figure src="https://i.imgur.com/wb47e8M.jpg" caption="*A perfect reenactment of a Friday night at my apartment.*">}}
 
 I think the only time they break that policy is for that narcissistic little bastard I mentioned a second ago, and that is for the sole purpose of getting the audience to hate him right out of the gate. He tells us he's the best sports player at his school, he's top of his class, hell he even introduces himself as "Ichi," (literally "Number One") just to hammer home to the audience just how full of himself he is (and how punchable his face is as well). 
 
@@ -63,8 +61,7 @@ The only negative that comes to my mind is that I've pretty much explained all t
 
 But what I have said about it still stands, and the fact I can't talk about it more, I think, should tell you just how much I want you to experience this show for yourself if you haven't already. It's an artful, well-written, well-paced mystery series that will hook you the instant you hear the OP. 
 
-![](https://i.imgur.com/uSdiciO.gif)
-<center>*The bat swings so hard it bends space-time.*</center>
+{{<figure src="https://i.imgur.com/uSdiciO.gif" caption="*The bat swings so hard it bends space-time.*">}}
 
 *Paranoia Agent* was the only TV series Satoshi Kon had a chance to direct before his tragic death in 2010, but if he wasn't already cemented in anime history after *Millennium Actress* and *Tokyo Godfathers* and that *Jojo's* OVA from the 90s, then this certainly took care of that problem. Psych thrillers, admittedly, are not one of those genres everyone has an affinity for, but if you like your detective stories and want to go a few levels deeper - maybe having a laugh or two down the line - then you need to put this on at some point.
 

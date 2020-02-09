@@ -21,8 +21,7 @@ But then I got the rug yanked out from under me when I found out that *Yuru Yuri
 
 I think you can see my main problems with this show formulating already.
 
-![ky0a3gN](https://i.imgur.com/ky0a3gN.jpg)
-<center>You keep using that word. I do not think it means what you think it means.</center>
+{{<figure src="https://i.imgur.com/ky0a3gN.jpg" caption="You keep using that word. I do not think it means what you think it means.">}}
 <br>
 
 For comparison, let's bring *Hajimete no Gal* back in here, even though it's well known that I outright hate its very existence in the summer season. What I think happened to *Hajimete* was just one bad decision after another after another. The writing was atrocious, the story made no damn sense whatsoever, the art decisions were laughably bad, and I could go on and on at this rate. 
@@ -33,8 +32,7 @@ But that doesn't save it from just being a bad show, and unlike *Brave Witches* 
 
 And no, this isn't an OVA series; that would make too much sense.
 
-![uWvmSev](https://i.imgur.com/uWvmSev.jpg)
-<center>We interrupt this yuri show to bring you a scene from Another.</center>
+{{<figure src="https://i.imgur.com/uWvmSev.jpg" caption="We interrupt this yuri show to bring you a scene from Another.">}}
 <br>
 
 For what it's worth, the plot is centered around two high-school couples. The two girls, Hotaru Mizushina (Hiromi Igarashi, *Amagi Brilliant Park*, *Brave Witches* appropriately enough, and *OreImo* God help us) and Yuma Okazaki (Ai Kakuma, also in *Amagi* and *Brave Witches*, but also the main role in a series named, no joke, *Bikini Warriors*), have been friends since elementary school, and seeing as how Yuma has never had a boyfriend before, she routinely goes to talk to Hotaru for advice. And wouldn't you know it, the "advice" Hotaru routinely involves hitting on Yuma, kissing her, and a bunch of miscellaneous acts of yuri. 
@@ -43,8 +41,7 @@ And that's really all there is to it. If you really need to know the main motiva
 
 Easily the most baffling decision the *Netsuzou Trap* team made was to contain their episodes in nine-minute blocks instead of standard length. Because of that, a lot of the "plot" developments in the show feel rushed, contrived or simply outright illogical. Whenever Hotaru flirts and gets at Yuma (rather maliciously at times, too), we don't have time to accurately gauge Yuma's reaction becasue we literally don't have time to do that. We don't get to see her be confused, angry, frustrated or anything like that, because we only have ninety minutes of screentime for this series and there's a ton that needs to happen before then. 
 
-![rKWTU6H](https://i.imgur.com/rKWTU6H.jpg)
-<center>Not Victor Nikifurov knows exactly how to defuse this show.</center>
+{{<figure src="https://i.imgur.com/rKWTU6H.jpg" caption="Not Victor Nikifurov knows exactly how to defuse this show.">}}
 <br>
 
 As a direct result, the show feels like yuri for the sake of yuri, and it feels wholly uncomfortable to watch no matter what's going on. The only character I kinda grew attached to was the male lead, and even then he's just there so the writers can wink at the audience and say, "Hey, check it out! Yuma's cheating on her boyfriend! How scandalous, right? Bet that makes her relationship with Hotaru all the more valuable, right? Hey, where are you going? The show's not done!"
@@ -53,8 +50,7 @@ After two episodes it was clear to me that the story was just going to be walkin
 
 Production values are inconsistent across the board, even if I kinda have a thing for the *NGNL*-style lighting and color schemes. It's clear the art budget wasn't especially high for this show; the studio seemed to dedicate the majority of it to Yuma x Hotaru, and the rest of the scenes are choppy and hardly animated, and at one point in the second episode Yuma says almost a third of a sentence without moving her mouth at all. I was regularly pausing the show to rub my temples and wonder if anybody, *anybody*, QA'd this animation before it went live on Crunchyroll this season.
 
-![zYW8mot](https://i.imgur.com/zYW8mot.jpg)
-<center>Philosophy is not a real college major.</center>
+{{<figure src="https://i.imgur.com/zYW8mot.jpg" caption="Philosophy is not a real college major.">}}
 <br>
 
 *Netsuzou Trap* is still getting slammed by the F-hammer, to be sure, but I feel like this is one of the softer ones I've given out since I started writing for this site. Unlike the rest of the F-club, with the maybe exception of *Cyborg 009* which bored me so much [I got bored with my own review on it](https://kotatsu.club/cyborg-009-review-short-circuit/), *Netsuzou Trap* didn't do anything to get me actively angry at it or anxious for me to rip into it with the same visceral glee I gave to its counterparts. It's just a bad show, with almost no redeeming factors, and that's all there is to it. 
@@ -65,8 +61,7 @@ During episode 3, I just ended up shuffling my *Magic* deck and drawing random s
 
 *Netsuzou Trap*, unfortunately, is a slog. And that's about the worst thing I can say about it.
 
-![KV2SoQT](https://i.imgur.com/KV2SoQT.jpg)
-<center>Nope, now be gone from my sight!</center>
+{{<figure src="https://i.imgur.com/KV2SoQT.jpg" caption="Nope, now be gone from my sight!">}}
 <br>
 
 **THE VERDICT: F**

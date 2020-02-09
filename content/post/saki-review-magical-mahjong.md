@@ -15,8 +15,7 @@ Okay, maybe I've oversold it a bit, but nevertheless I really found myself enjoy
 
 I'm not sure how the idea got into my head, but I think one of my less educated friends told me that *Saki* was also done by the *Akagi* and *Kaiji* guy, and the minute I pressed the play button and realized all of the narration, dark music and exaggerated noses were gone, I realized that he might have been taking the piss. Because *Saki* is definitely not one of Fukumoto's series; in fact the author of the original manga is named Ritz Kobayashi, and while *Saki* seems to be her life's work, that's really her only major project to date. That said, *Saki* has been in publication for the past eleven and a half years, and really if it isn't broken there's not much point in fixing it. 
 
-![eRcTO8L](https://i.imgur.com/eRcTO8L.jpg)
-<center>I think they might be the bad guys. Just an inkling.</center>
+{{<figure src="https://i.imgur.com/eRcTO8L.jpg" caption="I think they might be the bad guys. Just an inkling.">}}
 <br>
 
 Gonzo picked up the series for animation in 2009, which Miss Kobayashi worked very closely with, and the twenty-five episode series kicked off that spring season. The titular Saki Miyanaga (Kana Ueda, *Re:Zero*, *Sakamoto* and...dammit, I have to type it again...*Bikini Warriors*) is a first year student who has mixed feelings on the game to put it delicately. She's quickly recruited into the school's mahjong club by classmate Nodoka Haramura (Ami Koshimizu, better known as Ryuuko Matoi and Holo), in which she manages to keep her score at exactly 0 throughout the entire match, and if you've ever played mahjong before, you have an idea of how close to impossible that is to pull off. Nevertheless, she finally joins the club and goes out with them to compete in tournaments and become the best high school mahjong team in Japan.
@@ -33,8 +32,7 @@ But let's put that huge conditional aside for a moment, because even though I di
 
 And honestly...it kinda is! *Saki* is really, really fun to watch, even if you haven't even seen the word mahjong up until you read this review.
 
-![hysiU2v](https://i.imgur.com/hysiU2v.jpg)
-<center>All of the dramatic angles! ALL OF THEM!!!</center>
+{{<figure src="https://i.imgur.com/hysiU2v.jpg" caption="All of the dramatic angles! ALL OF THEM!!!">}}
 <br>
 
 The plot isn't terribly exciting, since it just goes down the regular sports anime beats: the rival school is competing in the local tournament, they haven't been beaten by our protagonists in ages, and this is one of the few times our underdog heroes will be competing against them head to head, and everyone has something to prove over the course of the tournament, and I probably don't need to say anything more. That'll probably be my only major complaint about *Saki*; that it doesn't really do all that much to break away from the standard sports anime tropes that we've seen multiple times in the past. 
@@ -45,8 +43,7 @@ The show oozes bombast, character and energy, and in striking out its own person
 
 Naturally, it makes sense to ask how this show stands up to the king of all mahjong shows, *Akagi*. And I find that question difficult to answer, because the tones the two shows are trying to set are so starkly different from each other it kinda feels unfair to compare them. *Akagi* is a gambling show first with mahjong as its central premise, and it sells itself on the tension and drama associated with gambling shows. *Saki*, meanwhile, has no such ambitions, mostly because it doesn't need them around getting in the way of the lighthearted and energetic tones of the tournaments the girls play in. 
 
-![SqLJ28R](https://i.imgur.com/SqLJ28R.jpg)
-<center>I won the hand! I control the universe!!!</center>
+{{<figure src="https://i.imgur.com/SqLJ28R.jpg" caption="I won the hand! I control the universe!!!">}}
 <br>
 
 Every part of this show has just the right amount of charm in its writing, characters and animation. The cute characters are cute without being overwhelming, the sharp characters look sharp without them coming off as omniscient, and the comedic relief supports serve their duties as well as they can be expected to. It's not *Haikyuu!* levels of storytelling or writing, but then again that's really not what this show is aiming for.
@@ -57,8 +54,7 @@ And, yes, there's a direct relation between how much you know about the game and
 
 Cook some microwave chicken parm, uncap a ginger ale and sit back in a comfy sofa before putting this on. You're almost guaranteed to be in a great mood following.
 
-![hTNuxwD](https://i.imgur.com/hTNuxwD.jpg)
-<center>This is like me saying that I'll become the meatball sandwich.</center>
+{{<figure src="https://i.imgur.com/hTNuxwD.jpg" caption="This is like me saying that I'll become the meatball sandwich.">}}
 <br>
 
 **THE VERDICT: B+**

@@ -19,8 +19,7 @@ First things first: When I say you should watch *SAO*, I mean to say I'm only re
 
 It's just an absolute mess I can't properly dissect without digressing more than I already have.
 
-![](https://i.imgur.com/bzyW7bn.jpg)
-<center>*I did not Photoshop those hearts in.*</center>
+{{<figure src="https://i.imgur.com/bzyW7bn.jpg" caption="*I did not Photoshop those hearts in.*">}}
 
 "That's all well and good, SnYves, but as I understand it you apparently think both seasons are utter crap, and the sequel just happens to be worse. If the first season is still awful, why are you telling me to go see it?"
 

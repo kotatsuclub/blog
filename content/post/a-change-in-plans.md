@@ -13,6 +13,5 @@ Sound like a deal?
 
 Thanks for your patience, and see you next week!
 
-![1OrOW0s](https://i.imgur.com/1OrOW0s.jpg)
-<center>Have a donut in the meantime.</center>
+{{<figure src="https://i.imgur.com/1OrOW0s.jpg" caption="Have a donut in the meantime.">}}
 

@@ -15,8 +15,7 @@ If you've been watching anime for as long as I have, you've probably thought of 
 
 I personally believe that there's no such thing as a bad idea for an anime; everything has the potential to be good. Yes, even something as irredeemably terrible as *Casshern Sins* from last time. That too had the potential to be good; albeit for all of four nanoseconds, but it still hypothetically could have worked. That said, some ideas just work better as baselines than others do, and the "whisked away to another world" template just happens to be the flavor of the month. 
 
-![](https://i.imgur.com/JwTWJOO.jpg)
-<center>*Fanservice can compromise any stealth mission.*</center>
+{{<figure src="https://i.imgur.com/JwTWJOO.jpg" caption="*Fanservice can compromise any stealth mission.*">}}
 
 Now, just to be clear, there's nothing inherently wrong with using a template to base your anime on. A good foundation that's been tested over time will tend to be sturdier than one that sounds like a drunken mumbling over a conference phone (e.g. what if we tried doing a magical *catgirl* anime? Yes that existed, it was called *Magical Meow Meow Taruto*, and no, I'm not gonna review it). Point is, even if it seems like the anime industry is eating its own tail right now, it's not due to a lack of creativity. Absolutely not. Rather, writers and artists are using the same baseline to jumpstart their own ideas, as that starting point has proven to be pretty stable for their predecessors. 
 
@@ -28,8 +27,7 @@ At that point I probably should've noticed *Grimgar* awkwardly shuffling towards
 
 Well, picture that, only with six Subarus of varying RPG classes and instead of fighting a knight with decades of military experience, they're struggling to deal with a level 1 goblin.
 
-![](https://i.imgur.com/7hOSP1S.jpg)
-<center>*A proud graduate from the Darkness School of Sword Fighting.*</center>
+{{<figure src="https://i.imgur.com/7hOSP1S.jpg" caption="*A proud graduate from the Darkness School of Sword Fighting.*">}}
 
 Our leads are incredibly inept at their jobs. We have the ~~death~~ dark knight (pardon the *WoW*) who won't stop pulling things without his group, the warrior who can't hit a thing to save his life, the hunter who routinely forgets friendly fire is turned on, and the mage who needs around six seconds to cast Magic Missile. That leaves the thief, Haruhiro (trust me, that's about the only name you'll remember), and the priest as the only ones who kinda seem to know what they're doing, but *they're* hampered by the fact they are situational at best in battle. 
 
@@ -39,8 +37,7 @@ It's actually a pretty refreshing take on the genre, as bland as that descriptio
 
 Because remember, we are spectating the saddest game of *Dungeons & Dragons* ever orchestrated by man. 
 
-![](https://i.imgur.com/gmEksMB.jpg)
-<center>*"As for the rest of you, I apologize in advance if I turn you into a unicorn."*</center>
+{{<figure src="https://i.imgur.com/gmEksMB.jpg" caption="*\"As for the rest of you, I apologize in advance if I turn you into a unicorn.\"*">}}
 
 And while our band of misfits does fall into the cycle of "kill monsters, sell loot, go home, rinse and repeat," as you might expect, the fact that they all suck means that they can only venture into areas suitable for their skill levels. That in turn permits us ample time to get to know our cast as they plan dungeon runs and travel the world. Much like characters in an RPG, the six leads in *Grimgar* all have their own personality quirks and talents to make them unique. But since one of the plot points involves everybody not remembering their old life back home, we have zero backstory on them and hence the only way to get these characters to shine properly is to get them to interact with the others. 
 
@@ -50,8 +47,7 @@ With as much talking as this show does, the writing has to be on point in order 
 
 So when Haruhiro goes around to each of them individually and gets into some pretty deep talks about the lives they used to lead and what they think of the ones they have now, they feel earned. No ham-fisted lines, no awkward character shifts or scene transitions. And, well, I just happen to be a sucker for good writing in anime, so *Grimgar* gets a thumbs-up there.
 
-![](https://i.imgur.com/AzNKYyz.jpg)
-<center>*Yes, that bow is drawn and ready to fire. As we all know, safety is second only to yuri.*</center>
+{{<figure src="https://i.imgur.com/AzNKYyz.jpg" caption="*Yes, that bow is drawn and ready to fire. As we all know, safety is second only to yuri.*">}}
 
 All that said, *Grimgar* misses out on a few very viable opportunities to develop these characters even more. One remarkably bad drop happens in Episode 2, where the ~~death~~ dark knight finally lands a killing blow on a goblin and ends up brutalizing it to the shock of his party, all so he could learn a new (and kinda inconsequential) skill from his trainer. Even Haruhiro, who actively participated in the fight as well, is shaken over the fact he just drew first blood against something, and he even mentions the hand holding his knife refusing to open for him.
 
@@ -61,8 +57,7 @@ But one montage later of the party poking around in a market, Haruhiro asks if h
 
 The series is all over the place tonally as well. It feels like *Grimgar* was trying to split the difference between *Konosuba*'s wacky and chaotic spirit and *Re:Zero*'s more serious, straight-faced approach. But instead of sitting in the middle of the spectrum and staying there, it instead bounces back and forth between the two extremes, and that's how we ended up with the aforementioned goblin brutality during the middle of what was otherwise a pretty amusing and borderline silly fight. I'd probably be more forgiving if the series blended these scenes better into the actual story - even *Re:Zero* knew it needed a little comic relief every now and again - but these abrupt shifts are jarring on a first viewing and I don't blame you if you decide to drop this one on that basis alone.
 
-![](https://i.imgur.com/phRzYVp.png)
-<center>*D'awwww... I mean, ahh! Pack of doggos! Kill them all!!*</center>
+{{<figure src="https://i.imgur.com/phRzYVp.png" caption="*D'awwww... I mean, ahh! Pack of doggos! Kill them all!!*">}}
 
 For the rest of you, *Grimgar* is not that bad. If you're willing to overlook the show's significant shortcomings and pitfalls, and you think the premise is clever considering the template it used, then you can do far, far worse than this. You will not feel like you've wasted your time.
 
