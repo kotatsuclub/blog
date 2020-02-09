@@ -33,8 +33,6 @@ I don't think I need to justify this one.
 
 {{< figure src="https://i.imgur.com/uGkpcwY.png" >}}
 
-{{< figure src="%!s(<nil>)" >}}
-
 **Best OP: Fighting Gold (Jojo's Bizzare Adventure: Golden Wind)**
 
 The Jojo's OPs have been historically been some of my favorite OPs of all time, and this one is no exception. I'm sorry _Aggrestuko_, much as I liked your heavy metal theme song, the fact that _JBA 5_ is able of combining some catchy tunes to some stunning, symbolic and meaningful animation to accompany it puts it high and above your run of the mill OP. It's a great opening to a great installment of a fantastic series.
