@@ -14,3 +14,9 @@ unsafe = true  # enable raw HTML in Markdown
 [[params.nav.custom]]
 title = "RSS"
 url = "/post/index.xml"
+
+### Deployment
+
+[[deployment.targets]]
+name = "Azure Blob Storage"
+url = "azblob://$web"
