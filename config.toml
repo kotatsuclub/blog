@@ -15,10 +15,13 @@ unsafe = true  # enable raw HTML in Markdown
 
 [[params.nav.custom]]
 title = "RSS"
-url = "/index.xml"
+url = "/rss"
 
 [params.comments]
 enable = true
+
+[permalinks]
+  post = "/:filename"
 
 ### Deployment
 
