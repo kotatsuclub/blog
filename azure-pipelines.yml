@@ -24,7 +24,13 @@ steps:
 - script: hugo deploy --maxDeletes -1 --dryRun
   condition: succeeded()
   displayName: Dry Run Publish
+  env:
+    AZURE_STORAGE_ACCOUNT: $(AZURE_STORAGE_ACCOUNT)
+    AZURE_STORAGE_KEY: $(AZURE_STORAGE_KEY)
 
 - script: hugo deploy --maxDeletes -1
   condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
   displayName: Publish
+  env:
+    AZURE_STORAGE_ACCOUNT: $(AZURE_STORAGE_ACCOUNT)
+    AZURE_STORAGE_KEY: $(AZURE_STORAGE_KEY)
