@@ -1,10 +1,18 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify"
-HUGO_VERSION = "0.64.0"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.production.environment]
+HUGO_VERSION = "0.64.0"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.64.0"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.64.0"
 
 [[redirects]]
   from = "/rss"
