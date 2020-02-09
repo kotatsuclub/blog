@@ -1,0 +1,4 @@
+baseURL = "https://kotatsu.club"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Kotatsu Club"

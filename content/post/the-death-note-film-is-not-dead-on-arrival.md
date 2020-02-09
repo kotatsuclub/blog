@@ -1,0 +1,79 @@
++++
+author = "Jared Popelar"
+categories = ["SnYves", "Death Note", "editorials", "movies", "Willem DaFoe"]
+date = 2017-04-05T13:58:32Z
+description = ""
+draft = false
+image = "https://i.imgur.com/wCMbN55.jpg"
+slug = "the-death-note-film-is-not-dead-on-arrival"
+tags = ["SnYves", "Death Note", "editorials", "movies", "Willem DaFoe"]
+title = "The Death Note Film Is Not Dead On Arrival"
+
++++
+
+
+In 2006, the anime community was blessed with an adaptation of the classic manga series *Death Note* by Tsugumi Ohba and Takeshi Obata, a psychological thriller series in which high-school student Light Yagami finds a notebook left behind by a shinigami named Ryuk. As Light finds out very early on, the notebook has the power to kill anybody provided the user knows the person's face and name. Upon discovering this, Light embarks on a crusade to eliminate all evil from the world by donning the alias Kira and killing everyone he deems unworthy. Of course, the deaths don't go unnoticed, and a world-famous detective known only as L is put on the case to unmask Light and put an end to the Death Note once and for all. 
+
+*Death Note* is considered by many to be a staple for any anime fan to be familiar with, and in my case, it is my favorite anime series of all time. It's masterfully directed, expertly animated, and wonderfully produced, not to mention it is home to one of the best damn sequences in modern anime history: [the potato chip scene](https://www.youtube.com/watch?v=XrpdFmb0EMc).
+
+Over the years since its release, *Death Note* has only gotten more popular. There have been games, light novels, side stories, and in 2015, kid you not, there was also a stage musical that was surprisingly good from what I've read about it. Oh, and that was also the year we got a live-action drama rendition, which came out to...um...let's say "mixed" reviews. I watched it myself (and I guess you can call this my unofficial review here), and I was lukewarm on it in the end. I thought Teru Mikami and Near got some great new additions and takes on their characters, but the writing was dodgy at best, there were a large number of glaring plotholes the original did not have, and someone thought it would be a good idea to CG the shinigami, which ended about as well as you think it did.
+
+![](https://i.imgur.com/lRydmLH.png)
+<center>*And trust me, you don't want to hear his lines either.*</center>
+
+Most recently however, over the weekend I was working on my last review, [Netflix let loose a trailer](https://www.youtube.com/watch?v=zS9UW2xjdqE) for a feature film of the same name, set to be released this August. Judging from the trailer, it looks like a Westernized adaptation of the series we all know and love: Light Yagami is now Light Turner, the story takes place in Seattle, L is being played by Keith Stanfield (a choice that, after seeing him in *Get Out*, I am totally down with), and the closing seconds showed us a few action setpieces reminiscent of modern Hollywood action films. 
+
+And while some people are kinda excited for this, myself included, it shouldn't be shocking at all to hear that there's been a metric ton of backlash and negative criticism against the film, or more specifically the trailer itself, which is not only on a pretty low 2.33 like-to-dislike ratio, but has been slammed with criticism and hatred since its launch (so just another day on YouTube, then). By this point, the complaints are almost cliché: This film is not going to be faithful to the source material! This looks like a cynical cash-in off a popular franchise! The characters don't look anything like the originals! This movie is whitewashing characters!
+
+If you happen to be skeptical about this movie, I totally get why you are. Let's be real: *Death Note* is a borderline legendary show that holds up perfectly fine on its own merits and is in no dire need of a retelling, especially after 2015. And if you watched the live action drama like I did, then you're totally within your rights to be a little skeptical of what's essentially "second verse, same as the first." I completely feel you.
+
+All that said, I'm cautiously optimistic for this one, and if you'll allow me, I'd like to instill some of that hope in you as I tackle the complaints I've been hearing about this movie in the making.
+
+![](https://i.imgur.com/QmBjhT3.jpg)
+<center>*Left to right, top to bottom: Nat Wolff as Light Turner; Keith Stanfield as L; Margaret Qualley as Mia Sutton; Paul Nakauchi as Watari*</center>
+
+We may as well kick off with the big one, namely that one magical buzzword that people love throwing around without actually thinking about what it really means: whitewashing. This is a very broad topic that I'll probably save an in-depth discussion for another editorial later on, but you can't really talk about *Death Note* the movie without having to bring this up at some point. So I say let's just take our medicine and get this over with.
+
+For those who might be unfamiliar with the word, whitewashing in an adaptation is essentially the act of casting Caucasian actors to play characters whose nationality or ethnic group was specifically established as non-white in the source material. Examples in recent history include *Doctor Strange*, where Tilda Swinton filled in as an ancient monk from the Himalayas, *Iron Fist*, in which the titular character is obviously not Asian-American, and debatably this year's *Ghost in the Shell*, which featured Scarlett Johannson playing the role of Major Kusanagi. In a perfect world, this word is used to describe roles that are actively harmed by casting a white person for a non-white person character, but the "actively harmed" bit seems to have gotten lost in translation over the years, and now whitewashing seems to be used just to criticize adaptations that don't strictly follow the ethnicity protocols put forth by its predecessors. 
+
+So in that spirit, let me conduct a thought exercise for a minute. I want you, the reader, to think about *Death Note*'s setting and characters. Most of the action takes place in the Tokyo region and 99% of the characters are unsurprisingly Japanese. Excellent. Now, think about *why* Light (or almost any character) has to be Japanese in order for *Death Note* to work. What parts of the story wouldn't work as well if they were of American or Western European descent? How negatively does that impact the anime's goals and themes? If you're having problems answering these questions, that's kinda my point. 
+
+To go back to *Ghost in the Shell* for a second, I think if you were initially skeptical of ScarJo's original casting, you had an okay reason for it. As fans of the movies and *Stand Alone Complex* will point out, Major Kusanagi's background with the Japanese city of New Port is a gigantic part of her heritage as a character (although there's a ton of debate floating around as to what she is racially, and this isn't the time for that). As for *Death Note* the anime, Light lives in Tokyo...and that's really about all you can say about him on that front. 
+
+Would the story itself lose any substance if Light was a college student from Washington as opposed to his original Japanese incarnation? Probably not, and this is why I don't think *Death Note* is guilty of whitewashing here. It's a Western adaptation of a story with a transferable setting in that it ultimately doesn't impact the story's events much if at all. Getting upset by America producing this story with a bunch of white actors, if I'm gonna be brutally honest, is like getting upset about a Bollywood adaptation using mostly Indian actors. 
+
+Using white actors for this one, as far as I'm concerned, is a perfectly fine move. It doesn't hurt the story as a whole, it allows Netflix to use some very talented actors who otherwise wouldn't be in the movie at all, and really this feels like a bit of a red herring people are going to point at in lieu of looking at whatever other problems the film presents as an actual, you know, *film*. (And as a small sidenote, there are a number of joints criticizing the casting of L that I mentioned previously. My response: if you complained about ScarJo playing a "Japanese" character, you aren't allowed to complain about a black guy playing L.)
+
+![](https://i.imgur.com/WtbLmuB.jpg)
+<center>*How can we tell this is a mystery film? There's a guy in a hoodie walking down a hallway of neon lights.*</center>
+
+Speaking of other issues, let's talk about another fear a lot of skeptics seem to have: the prospect of this movie not being faithful to the anime and/or manga. Again, it's an understandable concern. Anyone who's seen the live-action drama knows that the writers took strong liberties with the original plot, especially towards the series' climax, and not all of them were for the best. But again, I feel like this isn't a proper arguing point as to the film's overall quality. Ignoring the fact that great loose adaptations have been done in the past (the first *FMA* series springs instantly to mind), the core concept of *Death Note* seems to be left intact for the most part. Light finds a notebook, he finds out it kills people, he goes a little mad with power, and L starts hounding him down. So long as we still get that engaging psych thriller fix we remember from the anime, I'd argue that the rest is just kinda semantics by that point.
+
+Oh, and as far as things not being loyal to the source material are concerned: if you're going to plant your flag here, you should be aware that *Death Note* the anime technically wasn't 100% loyal to the manga if you read that all the way through like I did. Yeah, the two endings don't line up with each other at all. I'm lurking around major spoiler territory here, so without giving away too much, let's just say that the way the manga ends, it turns out the side that won may not have claimed a total victory after all. Compare that to the more straightforward and comparatively unceremonious way the anime wraps things up (not to rail on it too much; it's still a decent ending), and there's no such last laugh to speak of in that sense. So if you haven't read the manga but are going to bash the movie for not being a faithful retread, keep in mind there are people who *have* read the manga who can do the exact same thing to the anime. And again, considering the anime was pretty damn good, this argument for the overall quality of a production being directly related to how faithful it is to its base material is weak at best.
+
+As far as the actual "Westernization" is concerned, ugh...yeah, there's a few sticking points here. Mostly I'm worried about the Japanese concepts getting translated over to an American setting. There's going to be a lot of people curious as to what a "shinigami" is (and if they translate that to "death god" I'm going to slap someone), not to mention Light's nickname Kira anglicizes out to "killer," but the trailer shows him using the former, so that explanation might have some hand-waving as well. As for everything else, I'm not sure what the deal is. That's the point of a Western adaptation, and I touched on this a bit in my whitewashing rant a few paragraphs back. We're changing the setting to an American metropolis, so we better adapt the characters' names and backgrounds to reflect that. The action scenes of Light being chased by the cops and the whole Ferris-wheel helicopter crash near the end of the trailer are admittedly kinda over-the-top and Michael Bay-esque in some respects, but I say not only does that set this *Western* adaptation apart from others, it helps to keep in mind that the original anime was not without its share of cheese and over-the-top action. As long as it doesn't lose focus on what made the original so great, the *Death Note* film really shouldn't have a ton to worry about.
+
+I also saw an article asserting that Light's characterization is all wrong: that the trailer portrays him as an angsty, lonely teenager that nobody understands (how unique) as opposed to the crafty, intelligent narcissist who can kill almost anyone on a dime. And again, I'm horribly lost. Not only do we get minimal hard evidence of that, but the only bits of the trailer that I found that support that hypothesis are a few shots of him working alone in his room. You know, that spot where he kills 90% of his victims. Yeah, the author here was *really* grasping at straws; let's not have him waste more of our time.
+
+![](https://i.imgur.com/9PW7Xda.jpg)
+<center>*I told you we'd meet again, Spiderman!*</center>
+
+What really has me down about this whole trailer deal is that, in nitpicking the poor thing to hell and back, we're kinda ignoring all of the positive factors this film has going for it. I already brought up the casting of L in my intro section (seriously, I hope Keith knocks it out of the park), the shot composition and set direction all look stylistic and visually impressive, and whoever on the casting staff suggested Willem DaFoe should play Ryuk deserves to be promoted. Twice.
+
+All that taken into consideration, I think the primary issue here is that this just wasn't a great teaser. Keep in mind we're talking about Netflix here, the king of awful teasers, and some of my absolute favorite series from them left bad first impressions from their trailers as well. I facepalmed the instant I saw *Knights of Sidonia*'s first trailer, and that series ended up on my Best of 2014 list. 
+
+With that in mind, it's way too early to start dooming *Death Note* the film before it's released. I'm not telling you to believe the hype and get excited, because that leads to inflated expectations and inevitably disappointment, but I'm not telling you to not to be worried about it either. This movie could be littered with problems stemming from writing, direction, pacing, post-production, and a mess of other factors not directly related to the issues I addressed in this piece. 
+
+![](https://i.imgur.com/5xHIL2p.jpg)
+<center>*And if that's the case, I know just where to put Mr. Wolff's name.*</center>
+
+At the very least, I encourage optimism, and I hope I've discussed one or two issues deeply enough for you to look forward to this film a little more. I have no clue how good or bad it's going to be at this stage; frankly, I'm not sure if we're going to figure that out at all until August. All I can say is that, regardless of our first premonitions towards it, we should hope it turns out good. The first *Star Wars* film had an infamously bad trailer in theatres, and, well, look at where it is now. 
+
+Will this be as good as *Star Wars*? Smart money's on no. But I'm still willing to bet this film comes out alright.
+
+Also, yeah, before you ask, I'll be reviewing this thing the instant it comes out, so if it *does* flop, that's something for you to look forward to instead. 
+
+See you next week!
+
+*Next time: Something something furries and airplanes.*
+

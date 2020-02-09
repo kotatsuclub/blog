@@ -1,0 +1,77 @@
++++
+author = "Jared Popelar"
+categories = ["SnYves", "Summer Wars", "A+", "movies"]
+date = 2017-02-03T17:33:41Z
+description = ""
+draft = false
+image = "https://i.imgur.com/ezmSXyd.jpg"
+slug = "summer-wars-review-cool-for-the-summer"
+tags = ["SnYves", "Summer Wars", "A+", "movies"]
+title = "Summer Wars Review - Cool for the Summer"
+
++++
+
+
+![Banner pic](https://i.imgur.com/JFg9p8Q.jpg)
+
+Alright, first review. Let's get cracking. Straight to the heart of it. Nothing for me to digress about at all.
+
+Actually, no, let's talk about *Digimon* for a minute.
+
+Full disclosure: I honestly don’t know a ton about it. My shounen of choice growing up was *DBZ*, and if I wanted to see kids use their pets to play *Mortal Kombat*, I'd throw on *Pokémon*. But every now and again I’d catch an episode of the original *Digimon* series and just see if I could keep up with what was happening. And, well, I thought it was all right for the most part. Again, I wasn’t as invested in it as I was with other shows. I blame the fact that I was seven when it was airing and I could only keep track of so many plotlines at once what with the other five shows I was watching simultaneously, but for what it was worth, I thought it was pretty cool. Interesting character designs, really cool large-scale fight scenes; yeah, *Digimon* was a trip by most accounts. 
+
+And considering the advent of the Internet age was right around the corner, thematically it couldn’t have picked a more perfect time to come out. For those who don’t know, the entire premise is that *Digimon* are pretty much just packets of data made whole in the Digital World, which is effectively a parallel universe existing inside Earth’s communication lines i.e. the Internet. Back in the 2000s, when society was still getting used to its existence and dial-up was still a thing, that made *Digimon* a very topical show, and as you might imagine, it birthed a huge fandom as a direct result. 
+
+I’ll place emphasis on the word “huge,” because while I was in my room playing *Pokémon Crystal*, *Digimon* took off like a jet fighter. There have been video games, TCGs, and, most importantly, an absolute smattering of films. There are eight of them in total, and I guess if you want to count the *Adventure: tri* series, you can up that number to twelve. The first one of them, named *Digimon Adventure* (wow, this is gonna get confusing), was directed by an artist from Toei Animation by the name of Mamoru Hosoda. 
+
+If that name sounds familiar, it might be because you remember him as the guy who did that one episode of *DBZ*, the sixth *One Piece* movie, the *Samurai Champloo* opening, more recently *Wolf Children* and *The Boy and the Beast*... The point is the man has a resume, and *Digimon Adventure* was the film that put him on the map as a director. After Mad House picked him up in 2005, he’d follow that up with *The Girl Who Leapt Through Time* in 2006, which is now at the top of your to-do list if you haven’t seen that yet. By that point, Hosoda was on a hot streak and he was starting to get ideas of starting his own company, Studio Chizu. 
+
+But it wasn’t the time quite yet. You see, while Hosoda was trying to make a name for himself, he was also fighting over the spotlight with Studio Ghibli. And between *Spirited Away*, *Howl’s Moving Castle*, and *Ponyo* all coming out that decade and all of them being really damn good, his renown was not really growing as fast as he was hoping. He’d need one more really kick-ass film to cement his identity as a solid director and animator. 
+
+And in August of 2009, oh man, did he deliver.
+
+![](https://i.imgur.com/kg33Ahl.jpg)
+<center>*There can only be one wizard of OZ! ...I'll go away now.*</center>
+
+*Summer Wars* is a shotgun blast to the face of energy, humor, action and sheer insanity, and I love every single second of it. Engrossing and entertaining on the outside, thought-provoking and meaningful on the inside, *Summer Wars* has everything I could ask for from a feature length anime and then some. This is a movie that knows that first and foremost these things are supposed to be fun, and it does everything in its power to make sure the audience is having a good time. 
+
+Alright, before I go off singing this movie’s praises too much longer, let me set the scene first. An indeterminate amount of years in the future, many people across the globe will be living a second life through OZ, a massive virtual reality world through which people can shop, play sports, and even manage finances and health affairs. But don't worry about your personal information, as it is behind a state-of-the-art, nigh on impregnable security system, so it should not be shocking that Act 1 of this movie wraps up with OZ getting hacked. Our main character is Kenji Koiso (Ryunosuke Kamiki), an introverted high-school student and math genius, who gets invited by his friend Natsuki Shinohara (Nanami Sakuraba) to celebrate her great-grandmother’s (Sumiko Fuji) 90th birthday up at her estate. While he’s up there, he’s falsely implicated in hacking OZ by Love Machine, a malware program using OZ avatars to increase its own power, and it’s up to him, Natsuki’s gaming addict cousin Kazuma (Mitsuki Tanimura), and her twenty-ish other relatives to bring down the bot, clear Kenji’s name and liberate OZ.
+
+From the first few spoken lines of dialog, the movie makes perfectly clear what sort of tone it wants to shoot for. After the opening narration, we see Kenji and his friend doing part-time maintenance work on OZ’s servers when Natsuki steps in and asks them if they want any “work” over the summer. Of course, since this is an anime and she’s the high-school aged female lead, both of them volunteer in a manner reminiscent of the whole film: up-tempo, lowbrow humor designed specifically to keep up the movie’s tone and pacing while also keeping the audience invested. While I won’t go so far as to say that this movie is constantly funny throughout the 115-minute runtime, what really makes it work is its ability to keep things mostly lighthearted and upbeat. 
+
+The source of most of *Summer Wars’* humor isn’t the events taking place in the Jinnouchi estate, but the context in which they happen. It's the difference between someone telling you a joke, and watching a funny situation play out by itself. There’s an aunt watching her son play in the national high school baseball tournament, and everything happening in his games runs parallel to rest of the family’s fight against Love Machine. Kazuma mentions that he’ll need something more powerful than his laptop to duel Love Machine, so his uncle runs back to his electronics shop and “borrows,” no joke, a legit supercomputer he ordered for a university. And when Kenji gets first introduced to Natsuki’s great-grandma, with no preface leading up to it at all, he finds out halfway through the conversation his cover story is that he’s supposed to be Natsuki’s fiancé. 
+
+![](https://i.imgur.com/DkbDXti.jpg)
+<center>*But it still can't run Crysis.*</center>
+
+Funny thing is, despite a lot of the family being fairly disposable one-note characters - you've got the angry overprotective police officer, the granddad who's the family history buff, the fanatical baseball aunt from the last paragraph - they all have unique personalities and bring something new to the film, providing more humorous and contemplative opportunities for the movie as a whole to explore. Not to mention the diversity of the Jinnouchi family in this respect also serves to amplify the sense of awe in the third act climax where they’re all fighting Love Machine. Granted, it’s not the most original thing ever put to film: everyone needs to put aside their differences and personal agendas for a few minutes so they can rally behind a common cause, and the whole is larger than the sum of the parts yadda yadda blah blah. Even with that handicap, though, Hosoda still nails a very inspiring scene, and that’s just one example. Every shot in this movie has a story to tell, whether it just be an innocuous visual gag or some side story that will swing around later and impact the main plot. Couple that with some great animation quality and stunning art direction overall (I'll talk about that more in a minute), and it's evident that Hosoda makes the most out of his two hours on screen.
+
+Now, as to why the entire family wants to exterminate Love Machine so badly, seeing as how Kenji doesn’t really know them that well and none of them are nearly as tech savvy as he or Kazuma is, I unfortunately can't say without dropping a spoiler bomb large enough to level Manhattan. What I can say is, even during the more serious, emotional, dare I say hopeless parts of the story, *Summer Wars* is not afraid to keep smiling. Don’t misread that, by the way. It still handles those scenes in mature, meaningful manners, but again, sticking to its motto of “movies are supposed to be fun,” it loses absolutely no time regaining its momentum, picking up steam and moving forward to the next act. This movie could’ve very easily fallen into the trap where, after the big serious Act 2 twist hits, its tone wavers and dips into something not completely reflective of its opening and middle. 
+
+*Summer Wars* solves this problem by not dragging its feet during its low points. It knows it has a tone to maintain, but it doesn’t deal with plot developments by laughing at them and dancing into the next scene like nothing just happened (we’re not watching *Vacation* here). The movie knows that each action has a consequence, and you do have to allot time in order for the dust to settle. And as soon as it does, *Summer Wars* gets right back to what it does best. This movie flows so well from one plot point to the next it’s almost seamless, and that is a huge mark in its favor.
+
+![Grandma attacks Wabisuke here](https://i.imgur.com/Qa37BmM.jpg)
+<center>*Behold, the ancient combative art of Gran-jutsu!*</center>
+
+Arguably one of the major reasons those transitions happen so cleanly is that the movie takes pains to develop our main characters. I stand by what I said earlier about the residents of the Jinnouchi estate and how well characterized they are, but they're ultimately just vehicles and reactors to help our leads through their own personal arcs. Kenji is a socially awkward introvert that ultimately rallies the family to confront Love Machine. Kazuma is a NEET that probably got dragged along on the trip against his will - hell, for the first third of the movie we don't even know he exists - and by the climax everybody's watching him play a video game like it's a *League of Legends* major. 
+
+Also, Natsuki has an estranged half-granduncle who stole the family fortune out from everyone’s noses and is kind of a secondary antagonist, a little more tangible and grounded to reality than an out-of-control computer program. That sentence kind of sets him up to be a total bastard to everyone, and it's made perfectly clear we're not supposed to be on his side in any respect. But as soon as his intro scene is out of the way, we get another one with him playing cards with Natsuki, and... Well, damn, he’s actually a pretty nice guy for someone we’re supposed to hate. He’s not an alcoholic loser; he’s a computer science professor in America. He’s not a total sociopath; he just did one extremely stupid thing and now everyone is understandably pissed at him. During that card game with Natsuki, he portrays himself as a man with a ton of regrets and guilt, but minus all of that, he's just a favorite uncle who likes spending time with his niece. If that doesn’t sound like a complex and deep character to you with a lot more to him than “I’m just another bad guy,” then can you please turn off *SAO* for a minute? I’m still talking.
+
+“Hey, SnYves, didn’t you say at one point there’s a virtual world in this movie as well?” 
+
+I was actually getting there, reader, for I do not make cracks about *SAO* unless I'm going to do something with them. Say what you will about that series as a whole, but it if did any one thing especially well, you really did feel like you were in a virtual reality world. Even with the real-life consequences bit in play, the atmosphere looked and felt like we were just playing a really artistically impressive video game. 
+
+In that respect, I’m curious if Aniplex took any inspiration from *Summer Wars*. In terms of art style and character design, OZ is a beauty to say the least. It reminds me a ton of *Mirror's Edge*, the free-running action-adventure game from 2008. You might remember it for its mostly white environments designed to make the actual colors pop out a bit more than they usually would, and OZ takes a similar approach. Although, since OZ is a lot busier than the world of *Mirror's Edge* is, that means there's a lot more color on the screen comparatively, and therefore a fair share of white space that doesn't really do a ton. 
+
+The solution? Integrate some of OZ's HUD into there and display information in game that way. That's some creative stuff there.
+
+![](https://i.imgur.com/IQ0nqAV.gif)
+<center>*Of course it is! How do think I ended up writing for this blog?*</center>
+
+And that's a really apt one-word description for this one overall, isn't it? *Summer Wars* is a study in creativity. From the avatars in OZ (King Kazma is a badass; this discussion is closed) to the humorous setpieces to the Jinnouchi family itself, *Summer Wars* hits a grand slam. I cannot recommend this enough, and if you're in the mood for a lighthearted, slightly campy sitcom about large families, video games and a blossoming relationship between a squirrel and a rabbit, then this is the movie for you. 
+
+
+
+**THE VERDICT: A+**  
+*Next time: We recount the sins of a truly, truly despicable anime.*
+
