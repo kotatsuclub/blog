@@ -1,5 +1,7 @@
 trigger:
-- master
+  branches:
+    include:
+      - refs/heads/*
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -10,7 +12,7 @@ variables:
 steps:
 - checkout: self
   submodules: true
-  
+
 - script: |
     wget https://github.com/gohugoio/hugo/releases/download/v$(hugoVersion)/hugo_$(hugoVersion)_Linux-64bit.deb -O hugo.deb
     sudo dpkg -i hugo.deb
@@ -18,3 +20,11 @@ steps:
 
 - script: hugo
   displayName: Generate Site
+
+- script: hugo deploy --maxDeletes -1 --dryRun
+  condition: succeeded()
+  displayName: Dry Run Publish
+
+- script: hugo deploy --maxDeletes -1
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  displayName: Publish
