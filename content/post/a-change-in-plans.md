@@ -1,11 +1,7 @@
 +++
 author = "Jared Popelar"
 date = 2017-10-12T00:11:03Z
-description = ""
-draft = false
-slug = "a-change-in-plans"
 title = "A Change In Plans"
-
 +++
 
 

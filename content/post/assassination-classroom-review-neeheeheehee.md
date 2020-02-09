@@ -1,11 +1,8 @@
 +++
 author = "Jared Popelar"
 date = 2017-12-14T01:29:07Z
-description = ""
 draft = true
-slug = "assassination-classroom-review-neeheeheehee"
 title = "Assassination Classroom Review - Neeheeheehee"
-
 +++
 
 

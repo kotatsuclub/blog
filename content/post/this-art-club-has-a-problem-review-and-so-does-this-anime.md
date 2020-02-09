@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "This Art Club Has a Problem", "Konobi"]
 date = 2017-05-25T00:28:33Z
-description = ""
-draft = false
-image = "https://i.imgur.com/QrPp5XG.jpg"
-slug = "this-art-club-has-a-problem-review-and-so-does-this-anime"
-tags = ["SnYves", "This Art Club Has a Problem", "Konobi"]
+cover = "https://i.imgur.com/QrPp5XG.jpg"
 title = "This Art Club Has a Problem Review - And So Does This Anime"
-
 +++
 
 

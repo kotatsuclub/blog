@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Ping Pong", "A+"]
 date = 2017-10-18T20:36:21Z
-description = ""
-draft = false
-image = "https://i.imgur.com/VnLhWSP.jpg"
-slug = "ping-pong-review-misuta-tsukimoto"
-tags = ["SnYves", "Ping Pong", "A+"]
+cover = "https://i.imgur.com/VnLhWSP.jpg"
 title = "Ping Pong Review - Misuta Tsukimoto!!"
-
 +++
 
 

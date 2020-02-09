@@ -1,11 +1,8 @@
 +++
 author = "Gene "
 date = 2016-05-16T12:26:11Z
-description = ""
 draft = true
-slug = "genes-top-ten-for-2015"
 title = "Gene's Top Ten for 2015"
-
 +++
 
 

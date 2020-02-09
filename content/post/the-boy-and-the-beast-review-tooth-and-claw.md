@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "The Boy and the Beast", "A+", "movies"]
 date = 2017-05-18T02:57:59Z
-description = ""
-draft = false
-image = "https://i.imgur.com/oDDDF69.jpg"
-slug = "the-boy-and-the-beast-review-tooth-and-claw"
-tags = ["SnYves", "The Boy and the Beast", "A+", "movies"]
+cover = "https://i.imgur.com/oDDDF69.jpg"
 title = "The Boy and the Beast Review - Tooth and Claw"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Net-juu no Susume"]
 date = 2017-10-25T23:53:20Z
-description = ""
-draft = false
-image = "https://i.imgur.com/xw2q3Wt.jpg"
-slug = "net-juu-no-susume-review-logged-in"
-tags = ["SnYves", "Net-juu no Susume"]
+cover = "https://i.imgur.com/xw2q3Wt.jpg"
 title = "Net-juu no Susume Review - Logged In"
-
 +++
 
 

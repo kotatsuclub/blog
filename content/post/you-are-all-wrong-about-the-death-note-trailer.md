@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "editorials", "Death Note", "movies", "Willem DaFoe"]
 date = 2017-07-19T16:17:30Z
-description = ""
-draft = false
-image = "https://i.imgur.com/IQ6kVvk.jpg"
-slug = "you-are-all-wrong-about-the-death-note-trailer"
-tags = ["SnYves", "editorials", "Death Note", "movies", "Willem DaFoe"]
+cover = "https://i.imgur.com/IQ6kVvk.jpg"
 title = "You Are All Wrong About The Death Note Trailer"
-
 +++
 
 

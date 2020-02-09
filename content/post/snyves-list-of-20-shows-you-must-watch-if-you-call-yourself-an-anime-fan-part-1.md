@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "editorials", "lists"]
 date = 2017-06-07T17:30:00Z
-description = ""
-draft = false
-image = "https://i.imgur.com/FXSZPfP.jpg"
-slug = "snyves-list-of-20-shows-you-must-watch-if-you-call-yourself-an-anime-fan-part-1"
-tags = ["SnYves", "editorials", "lists"]
+cover = "https://i.imgur.com/FXSZPfP.jpg"
 title = "SnYves' List of 20 Shows You Must Watch If You Call Yourself an Anime Fan (Part 1)"
-
 +++
 
 

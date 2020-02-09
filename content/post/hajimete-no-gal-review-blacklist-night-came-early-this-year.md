@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Hajimete no Gal", "F", "Oh God why"]
 date = 2017-08-09T16:32:36Z
-description = ""
-draft = false
-image = "https://i.imgur.com/HS0H9Mj.jpg"
-slug = "hajimete-no-gal-review-blacklist-night-came-early-this-year"
-tags = ["SnYves", "Hajimete no Gal", "F", "Oh God why"]
+cover = "https://i.imgur.com/HS0H9Mj.jpg"
 title = "Hajimete no Gal Review - Blacklist Night Came Early This Year"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Cyborg 009", "F"]
 date = 2017-04-26T14:33:50Z
-description = ""
-draft = false
-image = "https://i.imgur.com/iAe77rf.jpg"
-slug = "cyborg-009-review-short-circuit"
-tags = ["SnYves", "Cyborg 009", "F"]
+cover = "https://i.imgur.com/iAe77rf.jpg"
 title = "Cyborg 009 Review - Short Circuit"
-
 +++
 
 

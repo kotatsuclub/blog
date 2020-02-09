@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "editorials", "Games"]
 date = 2017-08-17T03:56:18Z
-description = ""
-draft = false
-image = "https://i.imgur.com/ZEQgb3B.jpg"
-slug = "anime-fighters-are-not-easy-to-play-and-thats-alright"
-tags = ["SnYves", "editorials", "Games"]
+cover = "https://i.imgur.com/ZEQgb3B.jpg"
 title = "Anime Fighters Are Not Easy to Play, and That's Alright"
-
 +++
 
 

@@ -2,12 +2,7 @@
 author = "Chris"
 categories = ["top ten", "2014", "slowpoke"]
 date = 2016-05-16T07:31:57Z
-description = ""
-draft = false
-slug = "chris-top-ten-of-2014"
-tags = ["top ten", "2014", "slowpoke"]
 title = "Chris' Top Ten of 2014"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "91 Days"]
 date = 2017-03-15T21:04:18Z
-description = ""
-draft = false
-image = "https://i.imgur.com/B93wd0U.jpg"
-slug = "91-days-review-welcome-to-the-family"
-tags = ["SnYves", "91 Days"]
+cover = "https://i.imgur.com/B93wd0U.jpg"
 title = "91 Days Review - Welcome to the Family"
-
 +++
 
 

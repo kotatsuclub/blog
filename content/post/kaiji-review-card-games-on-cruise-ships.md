@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Kaiji", "A+"]
 date = 2017-09-06T19:25:27Z
-description = ""
-draft = false
-image = "https://i.imgur.com/842wB5J.png"
-slug = "kaiji-review-card-games-on-cruise-ships"
-tags = ["SnYves", "Kaiji", "A+"]
+cover = "https://i.imgur.com/842wB5J.png"
 title = "Kaiji Review - Card Games on Cruise Ships"
-
 +++
 
 

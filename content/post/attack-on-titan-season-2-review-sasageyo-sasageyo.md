@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Attack on Titan"]
 date = 2017-07-12T23:29:13Z
-description = ""
-draft = false
-image = "https://i.imgur.com/0bbnb3a.jpg"
-slug = "attack-on-titan-season-2-review-sasageyo-sasageyo"
-tags = ["SnYves", "Attack on Titan"]
+cover = "https://i.imgur.com/0bbnb3a.jpg"
 title = "Attack on Titan Season 2 Review - SASAGEYO, SASAGEYO!!"
-
 +++
 
 

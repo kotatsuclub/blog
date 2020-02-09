@@ -1,11 +1,7 @@
 +++
 author = "Jared Popelar"
 date = 2017-02-10T20:02:55Z
-description = ""
-draft = false
-slug = "csmac-goes-to-wasabi-con"
 title = "CSMAC Goes To Wasabi Con!"
-
 +++
 
 

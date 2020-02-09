@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "My Hero Academia"]
 date = 2017-06-28T23:25:58Z
-description = ""
-draft = false
-image = "https://i.imgur.com/oJ76fiN.jpg"
-slug = "my-hero-academia-season-2-review-well-the-first-half-of-it"
-tags = ["SnYves", "My Hero Academia"]
+cover = "https://i.imgur.com/oJ76fiN.jpg"
 title = "My Hero Academia Season 2 Review - Well, The First Half of It"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Miss Kobayashi's Dragon Maid"]
 date = 2017-06-01T03:43:58Z
-description = ""
-draft = false
-image = "https://i.imgur.com/IQl5CVh.jpg"
-slug = "miss-kobayashis-dragon-maid-review-skyrim-mods-the-anime"
-tags = ["SnYves", "Miss Kobayashi's Dragon Maid"]
+cover = "https://i.imgur.com/IQl5CVh.jpg"
 title = "Miss Kobayashi's Dragon Maid Review - Skyrim Mods the Anime"
-
 +++
 
 

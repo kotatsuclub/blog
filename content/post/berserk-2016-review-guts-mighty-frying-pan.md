@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Berserk"]
 date = 2017-03-22T16:11:45Z
-description = ""
-draft = false
-image = "https://i.imgur.com/hvq7gqp.jpg"
-slug = "berserk-2016-review-guts-mighty-frying-pan"
-tags = ["SnYves", "Berserk"]
+cover = "https://i.imgur.com/hvq7gqp.jpg"
 title = "Berserk (2016) Review - Guts' Mighty Frying Pan"
-
 +++
 
 

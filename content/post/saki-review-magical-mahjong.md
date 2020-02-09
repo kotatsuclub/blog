@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Saki"]
 date = 2017-09-28T00:52:14Z
-description = ""
-draft = false
-image = "https://i.imgur.com/aKMI4S2.jpg"
-slug = "saki-review-magical-mahjong"
-tags = ["SnYves", "Saki"]
+cover = "https://i.imgur.com/aKMI4S2.jpg"
 title = "Saki Review - Magical Mahjong"
-
 +++
 
 

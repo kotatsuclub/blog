@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Death Note", "editorials", "movies", "Willem DaFoe"]
 date = 2017-04-05T13:58:32Z
-description = ""
-draft = false
 image = "https://i.imgur.com/wCMbN55.jpg"
-slug = "the-death-note-film-is-not-dead-on-arrival"
-tags = ["SnYves", "Death Note", "editorials", "movies", "Willem DaFoe"]
 title = "The Death Note Film Is Not Dead On Arrival"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "editorials", "Sword Art Online"]
 date = 2017-02-22T22:03:27Z
-description = ""
-draft = false
-image = "https://i.imgur.com/yMMgbDA.jpg"
-slug = "we-all-need-to-watch-sword-art-online"
-tags = ["SnYves", "editorials", "Sword Art Online"]
+cover = "https://i.imgur.com/yMMgbDA.jpg"
 title = "We All Need to Watch Sword Art Online"
-
 +++
 
 

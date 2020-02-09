@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Gabriel Dropout"]
 date = 2017-03-29T18:16:37Z
-description = ""
-draft = false
-image = "https://i.imgur.com/eY5744X.jpg"
-slug = "gabriel-dropout-review-heaven-is-a-place-on-earth"
-tags = ["SnYves", "Gabriel Dropout"]
+cover = "https://i.imgur.com/eY5744X.jpg"
 title = "Gabriel Dropout Review - Heaven Is A Place On Earth"
-
 +++
 
 

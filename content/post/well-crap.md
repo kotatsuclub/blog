@@ -1,11 +1,7 @@
 +++
 author = "Jared Popelar"
 date = 2017-11-29T22:14:33Z
-description = ""
-draft = false
-slug = "well-crap"
 title = "Well, Crap"
-
 +++
 
 

@@ -1,11 +1,8 @@
 +++
 author = "Jared Popelar"
 date = 2017-12-27T21:53:26Z
-description = ""
 draft = true
-slug = "the-2017-kitsune-awards"
 title = "The 2017 Kitsune Awards"
-
 +++
 
 

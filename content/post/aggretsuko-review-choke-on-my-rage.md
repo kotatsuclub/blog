@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "Aggretsuko", "A+"]
 date = 2019-01-05T21:46:02Z
-description = ""
-draft = false
-image = "https://i.imgur.com/zg9ECNp.jpg"
-slug = "aggretsuko-review-choke-on-my-rage"
-tags = ["SnYves", "Aggretsuko", "A+"]
+cover = "https://i.imgur.com/zg9ECNp.jpg"
 title = "Aggretsuko Review - Choke On My Rage"
-
 +++
 
 

@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "editorials"]
 date = 2017-05-03T15:45:19Z
-description = ""
-draft = false
-image = "https://i.imgur.com/8FCYdAS.jpg"
-slug = "stop-liking-things-i-dont-like"
-tags = ["SnYves", "editorials"]
+cover = "https://i.imgur.com/8FCYdAS.jpg"
 title = "Stop Liking Things I Don't Like"
-
 +++
 
 

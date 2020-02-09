@@ -1,11 +1,8 @@
 +++
 author = "Gene "
 date = 2016-07-23T14:09:10Z
-description = ""
 draft = true
-slug = "from-there-and-back-again-a-praise-for-zero"
 title = "From \"There\" and back again, a praise for \"Zero\""
-
 +++
 
 

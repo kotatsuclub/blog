@@ -2,13 +2,8 @@
 author = "Jared Popelar"
 categories = ["SnYves", "GAMERS!"]
 date = 2017-08-02T19:58:54Z
-description = ""
-draft = false
-image = "https://i.imgur.com/mIOs4Ik.jpg"
-slug = "gamers-review-press-start"
-tags = ["SnYves", "GAMERS!"]
+cover = "https://i.imgur.com/mIOs4Ik.jpg"
 title = "GAMERS! Review - Press Start"
-
 +++
 
 
