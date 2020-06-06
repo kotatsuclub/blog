@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "A+", "Paranoia Agent"]
+tags= ["SnYves", "A+", "Paranoia Agent"]
 date = 2017-03-01T21:28:42Z
 cover = "https://i.imgur.com/a3isnw6.jpg"
 title = "Paranoia Agent Review - Why So Serious?"

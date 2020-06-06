@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Cyborg 009", "F"]
+tags= ["SnYves", "Cyborg 009", "F"]
 date = 2017-04-26T14:33:50Z
 cover = "https://i.imgur.com/iAe77rf.jpg"
 title = "Cyborg 009 Review - Short Circuit"

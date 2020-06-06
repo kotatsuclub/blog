@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "KonoSuba"]
+tags= ["SnYves", "KonoSuba"]
 date = 2017-03-08T21:37:28Z
 cover = "https://i.imgur.com/OGBKEHa.jpg"
 title = "KonoSuba 2 Review - Cats, Masks and Useless Goddesses"

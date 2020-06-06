@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Kaiji", "A+"]
+tags= ["SnYves", "Kaiji", "A+"]
 date = 2017-09-06T19:25:27Z
 cover = "https://i.imgur.com/842wB5J.png"
 title = "Kaiji Review - Card Games on Cruise Ships"

@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Death Note", "movies"]
+tags= ["SnYves", "Death Note", "movies"]
 date = 2017-08-30T21:32:21Z
 cover = "https://i.imgur.com/uNYg31f.jpg"
 title = "Death Note (2017) Review - Not Exactly as Planned"

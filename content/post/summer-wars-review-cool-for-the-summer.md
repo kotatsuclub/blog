@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Summer Wars", "A+", "movies"]
+tags= ["SnYves", "Summer Wars", "A+", "movies"]
 date = 2017-02-03T17:33:41Z
 cover = "https://i.imgur.com/ezmSXyd.jpg"
 title = "Summer Wars Review - Cool for the Summer"
