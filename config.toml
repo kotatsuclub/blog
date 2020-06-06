@@ -2,30 +2,31 @@ baseURL = "https://kotatsu.club"
 disablePathToLower = true
 languageCode = "en-us"
 title = "Kotatsu Club"
-theme = "notepadium"
+theme = "hugo-theme-kotatsu"
 
 disqusShortname="kotatsuclub"
 googleAnalytics = "UA-77326078-1"
-
-### Theme settings
-
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
 unsafe = true  # enable raw HTML in Markdown
 
-[[params.nav.custom]]
-title = "RSS"
-url = "/rss"
-
-[params.comments]
-enable = true
-
 [permalinks]
-  post = "/:filename"
+post = "/:filename"
 
 ### Deployment
-
 [[deployment.targets]]
 name = "Azure Blob Storage"
 url = "azblob://$web"
+
+### Theme settings
+[taxonomies]
+tag = "tags"
+author = "author"
+
+[params.social]
+github = "https://github.com/kotatsuclub/blog"
+twitter = "https://twitter.com/thekotatsuclub"
+
+[params.rss]
+rel = "/rss"
