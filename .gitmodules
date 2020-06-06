@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-kotatsu"]
+	path = themes/hugo-theme-kotatsu
+	url = https://github.com/kotatsuclub/hugo-theme-kotatsu.git
