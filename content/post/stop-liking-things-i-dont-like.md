@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "editorials"]
+tags = ["SnYves", "editorials"]
 date = 2017-05-03T15:45:19Z
 cover = "https://i.imgur.com/8FCYdAS.jpg"
 title = "Stop Liking Things I Don't Like"

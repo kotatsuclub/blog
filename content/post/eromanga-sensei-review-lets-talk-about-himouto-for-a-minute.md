@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Eromanga-sensei", "Oh God why"]
+tags = ["SnYves", "Eromanga-sensei", "Oh God why"]
 date = 2017-06-14T20:02:47Z
 cover = "https://i.imgur.com/HlNKTie.jpg"
 title = "Eromanga-sensei Review - Let's Talk About Himouto For a Minute"

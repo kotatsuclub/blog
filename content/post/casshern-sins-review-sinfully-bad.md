@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Casshern Sins", "F"]
+tags = ["SnYves", "Casshern Sins", "F"]
 date = 2017-02-08T22:05:05Z
 cover = "https://i.imgur.com/MlDzt77.jpg"
 title = "Casshern Sins Review - Sinfully Bad"

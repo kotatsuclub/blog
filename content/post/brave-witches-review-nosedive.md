@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Brave Witches"]
+tags = ["SnYves", "Brave Witches"]
 date = 2017-04-12T13:56:12Z
 cover = "https://i.imgur.com/9E9FJKv.jpg"
 title = "Brave Witches Review - Nosedive"

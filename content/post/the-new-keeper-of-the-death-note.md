@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "editorials"]
+tags = ["SnYves", "editorials"]
 date = 2017-02-02T15:20:53Z
 cover = "https://i.imgur.com/UYZZsWL.jpg"
 title = "The New Keeper of the Death Note"

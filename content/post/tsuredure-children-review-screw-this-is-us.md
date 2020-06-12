@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-categories = ["SnYves", "Tsuredure Children"]
+tags = ["SnYves", "Tsuredure Children"]
 date = 2017-10-04T20:15:26Z
 cover = "https://i.imgur.com/flmpDir.jpg"
 title = "Tsuredure Children Review - Screw \"This is Us\""
