@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Berserk"]
+tags = ["SnYves", "Berserk"]
 date = 2017-07-26T18:52:39Z
 cover = "https://i.imgur.com/jdVMyRn.jpg"
 title = "Berserk (2017) Review - The Tease to End Them All"

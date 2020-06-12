@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "GAMERS!"]
+tags = ["SnYves", "GAMERS!"]
 date = 2017-08-02T19:58:54Z
 cover = "https://i.imgur.com/mIOs4Ik.jpg"
 title = "GAMERS! Review - Press Start"

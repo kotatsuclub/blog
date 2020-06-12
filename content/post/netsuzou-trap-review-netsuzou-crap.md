@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Netsuzou Trap", "F", "Oh God why"]
+tags = ["SnYves", "Netsuzou Trap", "F", "Oh God why"]
 date = 2017-09-20T21:48:30Z
 cover = "https://i.imgur.com/d4NSZe3.jpg"
 title = "Netsuzou Trap Review - Netsuzou Crap"

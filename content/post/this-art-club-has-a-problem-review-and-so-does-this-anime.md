@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "This Art Club Has a Problem", "Konobi"]
+tags = ["SnYves", "This Art Club Has a Problem", "Konobi"]
 date = 2017-05-25T00:28:33Z
 cover = "https://i.imgur.com/QrPp5XG.jpg"
 title = "This Art Club Has a Problem Review - And So Does This Anime"

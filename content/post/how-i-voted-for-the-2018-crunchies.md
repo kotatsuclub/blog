@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "editorials"]
+tags = ["SnYves", "editorials"]
 date = 2019-01-12T20:35:32Z
 cover = "https://i.imgur.com/GfBmZJd.jpg"
 title = "How I Voted for The 2018 Crunchies"

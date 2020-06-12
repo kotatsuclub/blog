@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Saki"]
+tags = ["SnYves", "Saki"]
 date = 2017-09-28T00:52:14Z
 cover = "https://i.imgur.com/aKMI4S2.jpg"
 title = "Saki Review - Magical Mahjong"

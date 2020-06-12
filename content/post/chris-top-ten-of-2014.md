@@ -1,6 +1,6 @@
 +++
 author = "Chris"
-tags= ["top ten", "2014", "slowpoke"]
+tags = ["top ten", "2014", "slowpoke"]
 date = 2016-05-16T07:31:57Z
 title = "Chris' Top Ten of 2014"
 +++

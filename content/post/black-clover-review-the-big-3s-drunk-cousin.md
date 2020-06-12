@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Black Clover", "F"]
+tags = ["SnYves", "Black Clover", "F"]
 date = 2017-11-08T23:50:08Z
 cover = "https://i.imgur.com/04kMWUb.jpg"
 title = "Black Clover Review - The Big 3's Drunk Cousin"

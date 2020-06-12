@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "91 Days"]
+tags = ["SnYves", "91 Days"]
 date = 2017-03-15T21:04:18Z
 cover = "https://i.imgur.com/B93wd0U.jpg"
 title = "91 Days Review - Welcome to the Family"

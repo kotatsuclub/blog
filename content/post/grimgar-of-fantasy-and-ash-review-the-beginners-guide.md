@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Grimgar of Fantasy and Ash"]
+tags = ["SnYves", "Grimgar of Fantasy and Ash"]
 date = 2017-02-15T16:56:13Z
 cover = "https://i.imgur.com/7vyK9s8.jpg"
 title = "Grimgar of Fantasy and Ash Review - The Beginner's Guide"

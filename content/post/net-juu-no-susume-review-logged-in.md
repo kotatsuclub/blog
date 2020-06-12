@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Net-juu no Susume"]
+tags = ["SnYves", "Net-juu no Susume"]
 date = 2017-10-25T23:53:20Z
 cover = "https://i.imgur.com/xw2q3Wt.jpg"
 title = "Net-juu no Susume Review - Logged In"

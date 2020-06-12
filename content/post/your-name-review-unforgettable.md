@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "A+", "movies", "Your Name"]
+tags = ["SnYves", "A+", "movies", "Your Name"]
 date = 2017-04-19T14:22:42Z
 cover = "https://i.imgur.com/iQA8sTx.jpg"
 title = "Your Name Review - Unforgettable"

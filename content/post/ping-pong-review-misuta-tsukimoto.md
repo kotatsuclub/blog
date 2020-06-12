@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Ping Pong", "A+"]
+tags = ["SnYves", "Ping Pong", "A+"]
 date = 2017-10-18T20:36:21Z
 cover = "https://i.imgur.com/VnLhWSP.jpg"
 title = "Ping Pong Review - Misuta Tsukimoto!!"

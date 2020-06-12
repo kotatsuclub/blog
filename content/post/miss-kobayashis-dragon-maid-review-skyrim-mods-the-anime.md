@@ -1,6 +1,6 @@
 +++
 author = "Jared Popelar"
-tags= ["SnYves", "Miss Kobayashi's Dragon Maid"]
+tags = ["SnYves", "Miss Kobayashi's Dragon Maid"]
 date = 2017-06-01T03:43:58Z
 cover = "https://i.imgur.com/IQl5CVh.jpg"
 title = "Miss Kobayashi's Dragon Maid Review - Skyrim Mods the Anime"
