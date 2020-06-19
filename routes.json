@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "/rss",
+      "serve": "/index.xml"
+    }
+  ],
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/404.html"
+    }
+  ]
+}
