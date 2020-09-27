@@ -7,11 +7,38 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  hugoVersion: '0.72.0'
+  - name: hugoVersion
+    value: '0.72.0'
+  - name: assetMigratorVersion
+    value: '0.0.1'
+  - group: 'azblobstorage'
 
 steps:
 - checkout: self
   submodules: true
+
+- script: |
+    wget https://github.com/kotatsuclub/asset-migrator/releases/download/v$(assetMigratorVersion)/asset-migrator-$(assetMigratorVersion)-amd64 -O asset-migrator
+    chmod +x asset-migrator
+    ./asset-migrator -dry-run
+  condition: and(succeeded(), ne(variables['Build.SourceBranch'], 'refs/heads/master'))
+  displayName: Dry Run Asset Migration
+
+- script: |
+    git config --global user.email "$(Build.RequestedForEmail)"
+    git config --global user.name "$(Build.RequestedFor)"
+    git checkout -b master
+    wget https://github.com/kotatsuclub/asset-migrator/releases/download/v$(assetMigratorVersion)/asset-migrator-$(assetMigratorVersion)-amd64 -O asset-migrator
+    chmod +x asset-migrator
+    ./asset-migrator
+    git add content
+    git commit -am "[skip ci] Moved assets to CDN"
+    git push origin master
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  displayName: Move assets to CDN
+  env:
+    AZ_STORAGE_ACCOUNT: $(AZ_STORAGE_ACCOUNT)
+    AZ_STORAGE_ACCESS_KEY: $(AZ_STORAGE_ACCESS_KEY)
 
 - script: |
     wget https://github.com/gohugoio/hugo/releases/download/v$(hugoVersion)/hugo_$(hugoVersion)_Linux-64bit.deb -O hugo.deb
