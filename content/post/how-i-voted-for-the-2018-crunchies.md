@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "editorials"]
 date = 2019-01-12T20:35:32Z
-cover = "https://i.imgur.com/GfBmZJd.jpg"
+cover = "https://cdn.kotatsu.club/HZZVGdKGg.jpg"
 title = "How I Voted for The 2018 Crunchies"
 +++
 
@@ -15,7 +15,7 @@ So with that lengthy intro out of the way, let's get right into the ballot! Star
 
 **Best Protagonist: Retsuko (Aggretsuko)**
 
-{{< figure src="https://i.imgur.com/BjKMEmm.jpg" >}}
+{{< figure src="https://cdn.kotatsu.club/NWWVMdFMRz.jpg" >}}
 
 Fair warning: I think _Aggretsuko_ was the best new show of 2018 and hence you're going to see a _lot_ of it come up on this list, so we might as well cut all of the pretense early. Yumeko Jabami was fun to watch, Gearless Joe had a fantastic Rocky Balboa impersonation, Sakuta Azusagawa was witty and sharp-tongued, and Rimuru Tempest was just...well, adorable, at the lack of a better word. But Retsuko beats all of them here just on the basis of being _relatable_, which in my opinion is the best thing about her character. Her design is iconic, her dialogue is simple but impactful, and her character on the whole is well-written and of course, she's relatable. That ticks off just about all my boxes for being an excellent protagonist to rally around no matter what happens to her.
 
@@ -31,7 +31,7 @@ This category messed with me a little bit, because two-thirds of the nominees ar
 
 I don't think I need to justify this one.
 
-{{< figure src="https://i.imgur.com/uGkpcwY.png" >}}
+{{< figure src="https://cdn.kotatsu.club/HZZ4GdFGRm.png" >}}
 
 **Best OP: Fighting Gold (Jojo's Bizzare Adventure: Golden Wind)**
 
@@ -53,7 +53,7 @@ Remember when I said that _Aggretsuko_'s dub was arguably better than its sub? E
 
 I love Masaka Yuasa and I love _Devilman Crybaby_ but the reason _Megalobox_ gets the vote here is because of its art style more than anything. Reminiscent of older 90s classics like _Bebop_ and _Evangelion_, You Moriyama made sure that his show was a faithful recreation of the techniques of old, using modern day tech to provide a vintage feel to his series that we haven't seen in a while. The care given and dedication to the gimmick is immediately visible and is one of the major attractions for the show.
 
-{{< figure src="https://i.imgur.com/7d2p3nx.png" >}}
+{{< figure src="https://cdn.kotatsu.club/NWZVGdKGRZ.png" >}}
 
 **Best Animation: Science Saru (Devilman Crybaby)**
 
@@ -75,7 +75,7 @@ If _Aggretsuko_ was on this list, I would have voted for it in a heartbeat. That
 
 If your fight scene can make me cheer and make my neighbors below me post a notice on my door the next day telling me I was too loud, [then you did something right](https://www.youtube.com/watch?v=CDW2ReQZOQU).
 
-{{< figure src="https://i.imgur.com/G7kh0ab.png" >}}
+{{< figure src="https://cdn.kotatsu.club/HWWVGdKMRM.png" >}}
 
 **Best Continuing Series: The Ancient Magus' Bride**
 

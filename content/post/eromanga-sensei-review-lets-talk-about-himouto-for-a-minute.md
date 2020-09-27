@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Eromanga-sensei", "Oh God why"]
 date = 2017-06-14T20:02:47Z
-cover = "https://i.imgur.com/HlNKTie.jpg"
+cover = "https://cdn.kotatsu.club/xYH7GOKMR.jpg"
 title = "Eromanga-sensei Review - Let's Talk About Himouto For a Minute"
 +++
 
 
-{{<figure src="https://i.imgur.com/bKPpj0t.png">}}
+{{<figure src="https://cdn.kotatsu.club/xYH7MdKMRz.png">}}
 
 Guys, this is not going to be one of my better reviews. 
 
@@ -17,7 +17,7 @@ Yeah, I took the lift straight to the double blacks on this one.
 
 My normal approach to reviewing is going to be mostly ineffective here, I can tell already. I'm not even sure I can *try* reviewing it as a show. It's...just an event, like a traffic accident or your computer crashing. There's nothing to evaluate or pick apart. There's nothing to analyze or interpret. There's no meat here whatsoever. And all you can really do is just watch and hope nothing horribly bad happens. 
 
-{{<figure src="https://i.imgur.com/iWMXlKX.jpg" caption="*Hey look, I drew myself from the ED!*">}}
+{{<figure src="https://cdn.kotatsu.club/xYNnMOFGRm.jpg" caption="*Hey look, I drew myself from the ED!*">}}
 
 I...guess I can try anyway, though? I'm still convinced this isn't going to work, by the way, but when has that ever stopped me in the past? This week we're looking at *Eromanga-sensei* by A-1 Pictures, a studio that, depending on who you ask, is either god tier or *very* hit or miss with their works. On the one hand, they did *ERASED*, *Blue Exorcist*, *Your Lie in April*, and *Seven Deadly Sins*, but they are also the ones responsible for *GATE*, *Aldnoah Zero*, and *Occultic;Nine*. 
 
@@ -27,7 +27,7 @@ And hey, for a show about art appreciation, that's a really good start off of th
 
 I've been talking up "this genre" a ton in this review, and I think it's about time I lifted up the curtain and told you what sort of show *Eromanga-sensei* is. The story is about a light novel writer named Masamune Izumi (Yoshitsugu Matsuoka, *Mob Psycho 100*, *Dungeon*, *NGNL* and *SAO* to name only a few), whose novels are illustrated by the enigmatic yet very talented ecchi artist Eromanga-sensei, which is kind of like calling yourself IDrawSonicInflation on DeviantArt but I digress. As we find out in a first episode plot development so telegraphed I'm not going to call it a spoiler, it turns out Eromanga-sensei is actually his little step-sister Sagiri (Akane Fujita, *Orange*, *Seven Deadly*, this season's *Akashic Records*, a bad magical girls show and that's about all you'd remember her for), a very shy shut-in that never leaves her room for anything and only rarely talks to people when she's not streaming. 
 
-{{<figure src="https://i.imgur.com/zPRPDEZ.png" caption="*There's something horribly wrong with Sagiri's legs.*">}}
+{{<figure src="https://cdn.kotatsu.club/bYH7MdKGgZ.png" caption="*There's something horribly wrong with Sagiri's legs.*">}}
 
 For now, we'll ignore the fact that I think the show blew its central reveal way too early and get back to the plot, which is about Masamune building a relationship with his sister, getting her to come out of her room and experience the world she had locked herself away from.
 
@@ -37,7 +37,7 @@ Yeah, see why I'm not the most qualified person to talk about this now? I know I
 
 And before you say, "Oh, SnYves, you're worrying too much. They're not even blood relatives, so it's not nearly as unsettling as you're making it out to be," um, no. One, she's twelve, and two, even if she wasn't, that's not an excuse. I've never had a step-sibling, nor do I really know anybody who has one, but I'd still imagine that it'd be incredibly awkward if they started romancing each other, seeing as how they are technically family.
 
-{{<figure src="https://i.imgur.com/JKE0nfv.jpg" caption="*No.*">}}
+{{<figure src="https://cdn.kotatsu.club/bLNnMdKMRM.jpg" caption="*No.*">}}
 
 That might very well be the one iceberg that sinks the SS *Eromanga-sensei* to the depths of the northern Unwatchable Ocean, but even with the creepy incest vibes played down (or, even better, just not being there to begin with), there's almost no meat to this show to speak of. It feels like the writers trying to shoot for a brother-sister slice of life comedy show, but then completely forgot how to write the comedy, glimpsed one of the more fanservice-y episodes of *NGNL* as they repeatedly slammed their faces into their keyboards, and now just about every major punchline in the show involves panties in some way or another.
 
@@ -45,7 +45,7 @@ I'm fairly well known for my hyperbole in my writing, but I swear I'm not exagge
 
 Look, I don't have a problem necessarily with sex jokes in my comedy shows; *Miss Kobayashi's Dragon Maid* and *KonoSuba* are two of my favorite shows this year and they had more than their fair share of lowbrow humor bits between Kazuma the Pantie Thief and Quetzalcoatl's not PG-13 wardrobe. But what those shows did, in addition to actually being good, was strike a balance. There are ways to be funny without having to constantly appeal to the lowest common denominator, and that's what *Eromanga-sensei* doesn't seem to understand. While I have to give it a little credit for at least trying to do some creative bits that don't involve Sagiri yanking a side character's underwear down, the writing is so flat and unfunny and the characters react so unnaturally to the show's events that I honestly can't think of one genuinely amusing bit to share with you guys.
 
-{{<figure src="https://i.imgur.com/fln9dYs.jpg" caption="*This shot, and everything about it, sums up this show.*">}}
+{{<figure src="https://cdn.kotatsu.club/bYHnGdFGg7.jpg" caption="*This shot, and everything about it, sums up this show.*">}}
 
 I tried to get along with *Eromanga-sensei* the best I could, and for the first couple episodes I thought it was okay. Not amazing, but okay. The more I watched this show, however, the more I realized just how hollow and bare bones it actually was. The character designs and animation are uninspired and wooden, with no liveliness to be found in most of the scenes. Characters are often just standing or sitting around in a room and talking to each other, and nothing else. Very swiftly does House Izumi start to feel like a prison, and I felt relief every time we'd cut out to the bookstore selling Masamune's novels, or his editor's office, or his school, or anywhere just not in his house.
 
@@ -55,9 +55,9 @@ Instead, he drops off Sagiri's dinner with a handwritten note, which Sagiri then
 
 The only way this development could have felt more contrived, rushed or forced is if it was a Zack Snyder movie.
 
-{{<figure src="https://i.imgur.com/z5pDR0P.jpg">}}
-{{<figure src="https://i.imgur.com/iYWJAKJ.jpg">}}
-{{<figure src="https://i.imgur.com/CKiDRr4.jpg" caption="*Siiiiiiiiiiiiiigh.....*">}}
+{{<figure src="https://cdn.kotatsu.club/xYNnMOFGgV.jpg">}}
+{{<figure src="https://cdn.kotatsu.club/bLNnGOFMRI.jpg">}}
+{{<figure src="https://cdn.kotatsu.club/xLNnGdFMgN.jpg" caption="*Siiiiiiiiiiiiiigh.....*">}}
 
 I thought the first episode of this series was good, but there's nothing worthwhile for you past that point. It tries to get by hoping it can just repeat the same three or four jokes over and over and over again and constantly getting its audience laughing, and it wears out its welcome incredibly quickly in doing so.
 

@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "91 Days"]
 date = 2017-03-15T21:04:18Z
-cover = "https://i.imgur.com/B93wd0U.jpg"
+cover = "https://cdn.kotatsu.club/KIvZGOKGR.jpg"
 title = "91 Days Review - Welcome to the Family"
 +++
 
 
-{{<figure src="https://i.imgur.com/hGZtXLp.png">}}
+{{<figure src="https://cdn.kotatsu.club/KIDWMOFMgz.png">}}
 
 So Crunchyroll hosted their first annual Anime Awards this year, where they pretty much hosted their own version of the Golden Globes but with, well, anime. It was a pretty fun concept, at least theoretically, and I say that because the actual awards were nowhere close to being indicative of the 2016 year at all. 
 
@@ -19,7 +19,7 @@ Because what got to me the most in the nominations, more so than *Yuri*, was tha
 
 I didn't like it a ton. And when I said this to a similarly-minded friend of mine over lunch, he asked me what other historical drama I personally would've nominated, and I immediately shot back with *91 Days*. 
 
-{{<figure src="https://i.imgur.com/6RFfdr8.jpg" caption="*If you're confident enough to enter a room like this, is the gun really necessary?*">}}
+{{<figure src="https://cdn.kotatsu.club/FSDWGdFMgm.jpg" caption="*If you're confident enough to enter a room like this, is the gun really necessary?*">}}
 
 "Which one was that, SnYves?"
 
@@ -37,7 +37,7 @@ It was done by the *Durarara!!x2* guys, Shuka?
 
 Yeah, regrettably that's the one-sentence summary for *91 Days*, as degrading as it sounds out of context. The story takes place during the American Prohibition era in a city that is most definitely not Chicago, and we follow the story of Avilio Bruno (Takashi Kondo), the eldest son of the Lagusa crime family and sole survivor of the massacre of said family seven years prior to the show's events. After receiving a letter revealing the identities of the hitmen as members of the rival Vanettis, he travels to not Chicago under his new alias and with his childhood friend Corteo (Soma Saito) to infiltrate the family and get his revenge. They're taken under the wing of Nero Vanetti (Takuya Eguchi), and Avilio's plans finally get put into motion.
 
-{{<figure src="https://i.imgur.com/YvDQDx3.png" caption="*This is the look of someone who just found his brother's porn stash.*">}}
+{{<figure src="https://cdn.kotatsu.club/KSvWMdKGRZ.png" caption="*This is the look of someone who just found his brother's porn stash.*">}}
 
 Alright, first things first. The OP for this series ("Signal" by TK from Ling Tosite Sigure) is freaking amazing. Normally I don't pay a ton of mind to series OPs unless they directly impact my experience watching a show, and holy black-market booze does this one leave a mark on you. It slams into you like an emotional freight train of anger and vengeance and sticks with you for the entire episode. It sets the show's mood right off the bat as a tragic revenge story that is not going to end well for any of the parties involved. This was actually my write-in for Best OP during the Crunchies; even though I absolutely loved *Mob Psycho*, the pure energy and emotion present in *91 Days* just can't be rivaled.
 
@@ -47,13 +47,13 @@ Let me do something different this time around and get my negatives out of the w
 
 The story also suffers as a consequence to that, since there are some fairly major plot points involving assassinations, contracts, treaties, weddings and the like. Many a time arose when a main character would be talking about one of the somebodies from the last paragraph that made me say, "Who was that again?" moments before said nondescript character showed on screen and making me say, "Oh yeah, that guy," followed shortly by either "Wait, that was his name?" or "What did he do again?" Also, in the spirit of *The Godfather* itself, there isn't a ton of exposition provided for the events taking place. So if you missed a context clue or a critical line, then there's a good chance you'll need to rewind a few seconds back if you want to keep up with the things that are about to happen. It's not the worst thing to happen in a story intensive anime (just ask any *Bleach* fan), but it does hurt the flow of the series a bit.
 
-{{<figure src="https://i.imgur.com/sYAYNDC.jpg" caption="*Standard Italian diplomacy for the 1920s.*">}}
+{{<figure src="https://cdn.kotatsu.club/KSvWGdFMgM.jpg" caption="*Standard Italian diplomacy for the 1920s.*">}}
 
 What really carried me from episode to episode, however, was the character development. This show succeeds in a way similar to how *KonoSuba* does its thing, only instead of following four plucky adventurers in a sort of animated sitcom, now we're watching something more along the lines of a soap opera. Yeah, the story is still important here, but we're more interested in the characters and what they do among one another. 
 
 The show's strongest point is definitely, hands down, watching Avilio and Nero's relationship develop under the conceit that (light-moderate **spoilers**) Nero was one of the men involved in the Lagusa job, and is therefore on Avilio's to-do list. Issue is, Nero is arguably the friendliest character in the show and earnestly thinks Avilio is a good guy. Hell, he's the primary reason Avilio even gets close to the Vanettis anyways, so he unwittingly catalyzes the rest of the series in a way. And, yeah, it's kinda coincidental that Avilio happens to get really close to the one guy who can get him even closer to the head of the family (Nero happens to be the don's son, how about that), but the fabrication of it all is so moot next to the well-structured and steadily-paced development between a man who earnestly wants to help a new friend, and a guy who, on the surface, is only accepting that help so he can have an easier time offing everyone.
 
-{{<figure src="https://i.imgur.com/JsorJV4.jpg" caption="*The usual reaction I get from making puns on the road.*">}}
+{{<figure src="https://cdn.kotatsu.club/KIDWGdKMR7.jpg" caption="*The usual reaction I get from making puns on the road.*">}}
 
 And when they're not in the spotlight, it often likes to shine on Fango, who is really a one-man show. As far as his role in the story is concerned, he's pretty much to Avilio what Wolf O'Donnell is to Star Fox: an anti-hero that isn't necessarily on the "protagonist's" side, but is a third party with his own set of interests that frequently conflict with our lead's. In Fango's case, he's effectively a soldier for the rival Orco family, so of course that would put him at odds with the Vanettis and, by extension, Avilio.
 
@@ -63,7 +63,7 @@ At one point, he actually gets some help from Nero and company to help overthrow
 
 The only thing I'll say about it is that it involves a lasagna, because *91 Days* just wouldn't be a proper Italian-mob show without one.
 
-{{<figure src="https://i.imgur.com/FcTSPSM.jpg" caption="*I dare you to find a better shot of this guy.*">}}
+{{<figure src="https://cdn.kotatsu.club/KIvZMOKGgV.jpg" caption="*I dare you to find a better shot of this guy.*">}}
 
 If it sounds like I really liked this show, it's mostly because I did. The characters and writing are all top-notch, even if the story can get confusing at times, and watching all of these forces collide with each other on screen is a spectacle to say the least. In the middle of a vibrant and colorful Summer 2016 season, a spot of gritty, down-to-earth, violent drama was exactly what we needed, and  *91 Days* did not disappoint. 
 
@@ -73,7 +73,7 @@ That said, as much as I loved watching this, it'd be hard for me to say it's goi
 
 It's an offer you can't refuse.
 
-{{<figure src="https://i.imgur.com/Isao4LQ.jpg" caption="*You know what'll happen if you do.*">}}
+{{<figure src="https://cdn.kotatsu.club/KIDWMdKMRI.jpg" caption="*You know what'll happen if you do.*">}}
 
 **THE VERDICT: B+**  
 *Next time: A remake that did not need to happen.*
