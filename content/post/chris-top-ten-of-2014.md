@@ -9,7 +9,7 @@ title = "Chris' Top Ten of 2014"
 It’s that time of year again, halfway through the year, which means it’s time for Chris’ top ten from 2 years back!
 
 <figure>
- <img src="https://i.imgur.com/g23N59R.jpg">
+ <img src="https://cdn.kotatsu.club/DnxMMdKGg.jpg">
  <figcaption>But I don't even remember what I watched yesterday</figcaption>
 </figure>
 
@@ -23,13 +23,13 @@ Rules for the list:
 
 
 ### 10. Isshuukan Friends<figure>
- <img src="https://i.imgur.com/YKIudKR.jpg">
+ <img src="https://cdn.kotatsu.club/DnxGGdFMRz.jpg">
 </figure>
 
 As the name implies, the story centers around a boy’s attempts to woo a girl whose memories are reset every week on Monday morning. So it’s sort of like MMO rep grinding, except that the quest NPCs mysteriously lose their ledgers during the weekly server maintenances.
 
 <figure>
- <img src="https://i.imgur.com/mAlrXUW.jpg">
+ <img src="https://cdn.kotatsu.club/v7bMGOFMgm.jpg">
  <figcaption>“Working as intended” because there’s actually no content after first base</figcaption>
 </figure>
 
@@ -41,14 +41,14 @@ For the girl in question, Fujimiya Kaori, the weekly reset only affects memories
 
 
 <figure>
- <img src="https://i.imgur.com/9IPQN86.jpg">
+ <img src="https://cdn.kotatsu.club/vnbGMOKGgZ.jpg">
  <figcaption>“I guess I could sell you shitty aesthetic items, but you really need to pony up those 200 pristine bear asses first.”</figcaption>
 </figure>
 
 In addition, for the memories of friends she actually wants to keep, she has the enormously sensible and anticlimactic solution of just keeping a fucking diary so she knows which table she’s supposed to sit down at during lunch. Honestly, despite her disability, she’s probably the most well-adjusted character in the whole show. Except maybe when she uses an optimization matrix to determine the optimal lunch recipe for Yuuki.
 
 <figure>
- <img src="https://i.imgur.com/4JUwa1a.jpg">
+ <img src="https://cdn.kotatsu.club/DnbGMOFMgM.jpg">
  <figcaption>“Also, one of these has a live bee in it because fear is a better spice
 than love.”</figcaption>
 </figure>
@@ -74,13 +74,13 @@ Cons:
 
 
 ### 9.Tokyo Ravens<figure>
- <img src="https://i.imgur.com/CPTLhFI.jpg">
+ <img src="https://cdn.kotatsu.club/D7bMMOFMg7.jpg">
 </figure>
 
 This one’s a shounen. If you’ve forgotten it already, it was the one where we identified Hanazawa Kana based on her character design, before she said anything.
 
 <figure>
- <img src="https://i.imgur.com/5gD4gj5.jpg">
+ <img src="https://cdn.kotatsu.club/v7xMGdFMgV.jpg">
  <figcaption>I suppose if you’re cast for enough harems, you will statistically win the MC-bowl eventually.</figcaption>
 </figure>
 
@@ -108,13 +108,13 @@ Cons:
 
 
 ### 8. Log Horizon<figure>
- <img src="https://i.imgur.com/Imm79tD.jpg">
+ <img src="https://cdn.kotatsu.club/D7bMMOKGRI.jpg">
 </figure>
 
 Riding fairly close on the very popular and successful coattails of *Sword Art Online*, *Log Horizon* chronicles the story of MMO players who suddenly find themselves mysteriously warped into and trapped within the MMO world as their own characters. Not exactly the most original concept (light novels with the exact same premise have been quite popular well before *Sword Art Online*), and initially, it came off as just a more boring, more poorly animated version of *SAO*. It wasn’t until I noticed it was getting a fair bit of attention and praise that I decided to pick it back up, at least for a few more episodes. I was right about it being more poorly animated, and it is certainly slower than *SAO*, but as I found, the comparison is not quite valid.
 
 <figure>
- <img src="https://i.imgur.com/loKmkoy.jpg">
+ <img src="https://cdn.kotatsu.club/v7xMGdKMgN.jpg">
  <figcaption>DEEN taking over in Season 2 didn’t do much to help.</figcaption>
 </figure>
 
@@ -124,11 +124,11 @@ Furthermore, *Log Horizon* models its game mechanics after a Western-style MMO, 
 
 
 <figure>
- <img src="https://i.imgur.com/BTVl97F.jpg">
+ <img src="https://cdn.kotatsu.club/vnxMMdFGRv.jpg">
 </figure>
 
 <figure>
- <img src="https://i.imgur.com/f5W72F9.jpg">
+ <img src="https://cdn.kotatsu.club/D7xGMOFGRO.jpg">
  <figcaption>Pictured above: Fun<sup>TM</sup></figcaption>
 </figure>
 
@@ -155,14 +155,14 @@ Cons:
 
 
 ### 7. Yuuki Yuuna wa Yuusha de Aru<figure>
- <img src="https://i.imgur.com/1RcZbfF.jpg">
+ <img src="https://cdn.kotatsu.club/D7bGGdKMRF.jpg">
 </figure>
 
 *Yuyuyu* is a mahou shoujo set in a strange universe where Earth is kept safe from strange hostile aliens by a central tree-like entity known as the Shinju, with the main cast acting as its arms and legs to fight the Vertex on the front lines. It’s another somewhat forgettable entry, and in the case you have forgotten it, it was the *Madoka* look-alike that also featured a girl in a wheelchair.
 
 
 <figure>
- <img src="https://i.imgur.com/O5iFRjE.jpg">
+ <img src="https://cdn.kotatsu.club/D7bGMdKMgc.jpg">
  <figcaption>Anime conservation of mass dictates that atrophy of leg muscles forces that mass to go elsewhere</figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ Cons:
 
 
 ### 6. Kill la Kill<figure>
- <img src="https://i.imgur.com/1rZzDqF.jpg">
+ <img src="https://cdn.kotatsu.club/v7xGGOFGgp.jpg">
 </figure>
 
 The over-the-top shounen from Trigger, which honestly, if you haven’t heard of it by now, means you need to stay inside more.
@@ -203,7 +203,7 @@ Well, I am of the opinion that ironic shitposting is still shitposting. “Decon
 
 
 <figure>
- <img src="https://i.imgur.com/jm1VJHl.png">
+ <img src="https://cdn.kotatsu.club/DnbMMOFGgh.png">
  <figcaption>Thanks, Obama</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ There are two main things that put this anime on this list.
 
 
 <figure>
- <img src="https://i.imgur.com/byQmSIX.jpg">
+ <img src="https://cdn.kotatsu.club/v7bMGOKGgo.jpg">
  <figcaption>This obvious joke is actually a deconstruction of overused low-effort
 memes</figcaption>
 </figure>
@@ -241,7 +241,7 @@ Cons:
 
 
 ### 5. Gekkan Shoujo Nozaki-kun<figure>
- <img src="https://i.imgur.com/YaxXrDY.jpg">
+ <img src="https://cdn.kotatsu.club/D7bMGdFGR0.jpg">
 </figure>
 
 This anime is based on a 4-koma RomCom about Nozaki Umetarou, a high school boy who moonlights as a shoujo mangaka. Sakura Chiyo, the main heroine who obviously has a crush on him, assists him with his manga along with other friends of Nozaki’s. I watched this at Gene’s recommendation, which overall probably have like a 70% success rate for me, so despite my heavy misgivings on the premise, I watched it through to the end.
@@ -252,7 +252,7 @@ Of course, not all dishes lend themselves to creative vision. You can pretend to
 
 
 <figure>
- <img src="https://i.imgur.com/BF1x6Nk.jpg">
+ <img src="https://cdn.kotatsu.club/D7bMGOFGR1.jpg">
  <figcaption>No, really, it's not like I like you. I bought 20 boxes of Cheerios on a manager’s special and they’re going to expire tomorrow.</figcaption>
 </figure>
 
@@ -280,7 +280,7 @@ Cons:
 
 
 ### 4. No Game No Life<figure>
- <img src="https://i.imgur.com/UhRxMjW.jpg">
+ <img src="https://cdn.kotatsu.club/vnbGGdFMgx.jpg">
 </figure>
 
 Based on a light novel, *No Game No Life* is about a pair of NEET gamer siblings of godly prowess, working together to rank at the top of every game they play. They are transported to a world where all interaction is mediated through games, thereby providing a set of predictable, closed rules for society. Sora and Shiro, who together form the undefeated gaming pair Blank (『』), work to conquer each of the 15 other races to gain the right to challenge Tet, the god of the world, for his position. The LNs have been officially licensed and translated to English, which is probably a good thing because S2 never.
@@ -291,7 +291,7 @@ It becomes immediately obvious that *NGNL* is designed to *sell*. The main chara
 
 
 <figure>
- <img src="https://i.imgur.com/556jL0Z.jpg">
+ <img src="https://cdn.kotatsu.club/vnbGGOKMg-.jpg">
  <figcaption>The BD sales department, and that one guy whose job became obsolete years ago but has been working there so long no one has the balls to fire him</figcaption>
 </figure>
 
@@ -301,7 +301,7 @@ Finally, Blank’s mantra is that they never lose, no matter the game or the cir
 
 
 <figure>
- <img src="https://i.imgur.com/hi6ieEr.jpg">
+ <img src="https://cdn.kotatsu.club/DnxGMdKGgf.jpg">
  <figcaption>Hey, wait a second…</figcaption>
 </figure>
 
@@ -331,7 +331,7 @@ Cons:
 
 
 ### 3. selector infected/spread WIXOSS<figure>
- <img src="https://i.imgur.com/N0h2DGY.jpg">
+ <img src="https://cdn.kotatsu.club/D7xGGOKGgY.jpg">
 </figure>
 
 Spoiler warning: This is a warning that there are some spoilers. 
@@ -344,7 +344,7 @@ The first thing I want to mention is actually a pretty common complaint, and per
 
 
 <figure>
- <img src="https://i.imgur.com/VVtEeGa.jpg">
+ <img src="https://cdn.kotatsu.club/vnbMGOFGRP.jpg">
  <figcaption>Except blue decks being for trolling, which appears to be a universal mechanic across all card games.</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ Honestly, however, I think this is mostly fine for *WIXOSS*. There is an actual 
 The first season introduces a number of heavy themes, the most predominant being the risk associated with making a wish (where most of the comparisons to *Madoka* are probably rooted). As the mechanics of the game and wish-based system around it are revealed, we are also shown what kinds of wishes participants are interested in – simple ones like dream careers and friends, and darker ones too.
 
 <figure>
- <img src="https://i.imgur.com/7RXyH85.jpg">
+ <img src="https://cdn.kotatsu.club/DnbGGOKGRs.jpg">
  <figcaption>Pictured – normal healthy teenager fantasies</figcaption>
 </figure>
 
@@ -362,7 +362,7 @@ This season puts a focus on the story, and uses its characters to explore its th
 Season 2, on the other hand, feels like it was written and directed by completely different people. Certain subplots (or at least subplots I imagined) are dropped, such as Ruuko’s family situation, and focus is diverted from the story and themes to make a more character-driven show. That’s not necessarily a bad thing, of course, but due to how heavily the balance was tipped in this case, the effects are rather jarring, particularly on the characters themselves. Many characters that originally served as writing tools or lens, such as Ruuko, Akira, and Iona, suffer some awkward transitionary development in an effort to give them more substance and make them more independent of the writing. Even by the midpoint of the second season, these characters are almost completely unrecognizable to their first season counterparts (which is a pity, as they were originally very interesting characters to me).
 
 <figure>
- <img src="https://i.imgur.com/391gYnB.jpg">
+ <img src="https://cdn.kotatsu.club/DnxGGdFGg8.jpg">
  <figcaption>TL Note: Yuki means failed character development</figcaption>
 </figure>
 
@@ -387,7 +387,7 @@ Cons:
 
 
 ### 2. Barakamon<figure>
- <img src="https://i.imgur.com/v921cXe.jpg">
+ <img src="https://cdn.kotatsu.club/v7xMGdFGgQ.jpg">
 </figure>
 
 *Barakamon* is a slice-of-life about a young professional calligrapher who is exiled to the Bumfuck Nowhere Islands after breaking the illusions of an art director who criticized his work. I think we straight-up skipped this one during our seasonal sampling for some reason.
@@ -400,7 +400,7 @@ The simplicity Seishuu finds in the country life is reflected in the constructio
 
 
 <figure>
- <img src="https://i.imgur.com/2FNNfka.jpg">
+ <img src="https://cdn.kotatsu.club/v7xGMdKGR_.jpg">
  <figcaption>My dick is confused by Barakamon, so it must be art</figcaption>
 </figure>
 
@@ -425,7 +425,7 @@ Cons:
 
 
 ### 1. Ping Pong the Animation<figure>
- <img src="https://i.imgur.com/TNtPIwi.jpg">
+ <img src="https://cdn.kotatsu.club/DnbGMdFGRu.jpg">
 </figure>
 
 It is exactly what it says on the tin. This is an animation of a series about ping pong. Also, there are no straight lines because maybe the author’s geometry teacher made fun of him, I don’t know.
@@ -434,7 +434,7 @@ Indeed, the art style is probably what stands out the most. It’s weird and unc
 
 
 <figure>
- <img src="https://i.imgur.com/YYq2wl1.jpg">
+ <img src="https://cdn.kotatsu.club/DnxGMOFMgr.jpg">
  <figcaption>A subtlety deeper than the ocean.</figcaption>
 </figure>
 
@@ -466,7 +466,7 @@ Cons:
 Maybe anime is getting worse, or my tastes are changing, or I’m just slowly outgrowing this hobby altogether, but I always feel like there are fewer anime every year I really enjoy. At the end of the year when I sit down to write a top ten list, there always seem to be two or three that stand out, and I end up scrounging around for things that I didn’t actively dislike to fill out the rest of the list. Ten is such an oppressive yet arbitrarily round number for a list.
 
 <figure>
- <img src="https://i.imgur.com/2TWEd7h.png">
+ <img src="https://cdn.kotatsu.club/D7xMMOFMRj.png">
  <figcaption>Yet somehow it seems uncouth to copy Matt's better idea and just do a top 5 instead</figcaption>
 </figure>
 

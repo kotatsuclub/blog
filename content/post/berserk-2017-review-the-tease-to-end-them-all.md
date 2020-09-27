@@ -2,13 +2,13 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Berserk"]
 date = 2017-07-26T18:52:39Z
-cover = "https://i.imgur.com/jdVMyRn.jpg"
+cover = "https://cdn.kotatsu.club/pOmMGdFMg.jpg"
 title = "Berserk (2017) Review - The Tease to End Them All"
 +++
 
 
 *In memory of Chester Bennington (1976-2017)*
-{{<figure src="https://i.imgur.com/hJtSfBR.jpg">}}
+{{<figure src="https://cdn.kotatsu.club/tOmGMdFMRz.jpg">}}
 
 For those keeping score at home, this will be the third consecutive show I've reviewed that's not a standalone series and instead a second season for an already existing one. Not that I'm complaining at any rate, because I'd much rather have a good sequel to something I like than a newer series that makes me want to put a flamethrower to it, but I have to admit I'm feeling just a bit weary. And rewatching *Kiznaiver* and re-re-rewatching *Bebop* can only stave off new anime withdrawal for so long. 
 
@@ -18,7 +18,7 @@ Well, I say "mediocre," but the thing about the *Berserk* remake is that you can
 
 Of course, by that logic it makes sense to wonder how in the world such a middling show managed to net enough attention to warrant a sequel, and that may have been in part to what it actually stood for at the time. If you were in the mood for a show with a dark, oppressive atmosphere and some pretty bone-chilling payoffs to go with it, then in summer 2016 I think it's pretty safe to say the *Berserk* reboot had a monopoly there. And yeah, *Re:Zero* was part horror anime as well with some pretty gruesome setpieces to boot, but it didn't come close to having the dark-fantasy atmosphere, dank story undertones and harrowing background lore that comes with a show like *Berserk*. Say what you will about the show on the whole, but in summer 2016 it stood out. 
 
-{{<figure src="https://i.imgur.com/OXQJ96D.jpg" caption="*And the award for Best Out-of-Context Line goes to...*">}}
+{{<figure src="https://cdn.kotatsu.club/pOmMMOFMgm.jpg" caption="*And the award for Best Out-of-Context Line goes to...*">}}
 
 And apparently that gave it the attention it needed to push forward into spring 2017 with another season. However, this time it would need to do more than just be unique among the other shows airing. See if you can't find the problem here: *Berserk* is a grim, nihilistic show about humanity being terrorized on a constant basis by unstoppable monsters with only a small band of heroes to keep them from dying in incredibly gruesome ways. 
 
@@ -26,7 +26,7 @@ Yeah, I'm grossly generalizing here, but the most popular show of last season wa
 
 So I guess the big question now is whether or not the over 70,000 people who didn't bother with season 2 really missed anything. And...jeesh, I really don't know the answer to this one.
 
-{{<figure src="https://i.imgur.com/zs974qL.jpg" caption="*Well, actually they missed a pretty fun fight in the first episode.*">}}
+{{<figure src="https://cdn.kotatsu.club/pdmMGOKMRZ.jpg" caption="*Well, actually they missed a pretty fun fight in the first episode.*">}}
 
 You may not have guessed it from my first review, but the new *Berserk*s are actually pretty hard for me to analyze personally. For every great step forward it makes, it almost always takes two tiny steps backward that end up cancelling out whatever credit I want to give it. This is a show I really want to like more than I do, but it never seems to meet me halfway. And although *Berserk* 2017 does take lengths to fix some of the issues I had with its predecessor, I just don't feel comfortable giving it a blanket recommendation. 
 
@@ -34,7 +34,7 @@ If I do suggest someone watch this, I feel like I'd have to qualify it somehow. 
 
 *Berserk* 2017 picks up more or less right after the events of last year's installment, with Guts (Hiroaki Iwanaga, in his first major role) reuniting with Casca (Toa Yukinari, who did some support characters in *Naruto: Shippuden*) and still trekking onward to find and kill his treacherous ex-comrade Griffith (Takahiro Sakurai, *Diamond no Ace*, *JBA* Part 4, and most important of all, Reigen from *Mob Psycho 100*) with his slowly accumulating party of misfits and outcasts. The dishonored and disheveled leader of the Holy Iron Chain Knights from last season and her right hand man have joined in on the fun, as well as the red-haired unnecessary comic relief and ex-machina-in-a-can that you may remember from last season as well.
 
-{{<figure src="https://i.imgur.com/QtJA31M.jpg" caption="*Time for a game of \"which characters don't belong in this scene?\"*">}}
+{{<figure src="https://cdn.kotatsu.club/pOiMMOKGgM.jpg" caption="*Time for a game of \"which characters don't belong in this scene?\"*">}}
 
 You may also remember that last season hinted at a witch possibly joining the party at some point. I'm pleased to report that Schierke (Chiwa Saito, *Bakemonogatari*, *Madoka*, and *Kuroko*) is a pretty nice addition to the series, if only because she's the only female in the main cast that's actually capable of doing something during fights, but let's not dig that hole deeper than it needs to be. All you need to know is that the scenes with her casting her spells are some of the most creative bits in the series that showcase how great *Berserk*'s CGI can look when it's done correctly. We get a good block of time dedicated to her and her backstory, all of which serve to make her one of the more fleshed out characters in the series so far. And considering that we were in need of a really solid three-dimensional character to help the show's story along, Schierke is refreshing to say the least.
 
@@ -42,7 +42,7 @@ The unfortunate drawback here is that *Berserk*'s universe has just introduced m
 
 But enough of that worldbuilding crap. You don't enter a Magic: The Gathering tournament to play Go Fish and you don't watch *Berserk* so you can not see the gruesome, badass fight scenes. Guts' sword has stopped sounding like a frying pan and more like a whip for some unexplored reason, but I'll take it. That right hand man I mentioned previously has, without question, some of the best fight sequences in the series. And despite Schierke's spells bordering on the realm of overpowered, they are still pretty cool to watch, even if the animation occasionally staggers to framerates so low it burrows into the floor.
 
-{{<figure src="https://i.imgur.com/DEzBUr7.jpg" caption="*The berserker armor is also cool! Too bad we get maybe three episodes with it.*">}}
+{{<figure src="https://cdn.kotatsu.club/tdiGGdKGR7.jpg" caption="*The berserker armor is also cool! Too bad we get maybe three episodes with it.*">}}
 
 And...that's really about all that's changed, as short as that list was. Yeah, plotwise there's still a good bit going on (and I think it's worth mentioning that this show picks an absolutely *horrible* time in the story for a season break) but at the core it's pretty much the same show that we saw last year. *Berserk* 2017 fixes some of the problems its predecessor had, but unfortunately those fixes are minor compared to some of my more major gripes from last time. The jarring shifts from 2D to 3D animation are still there, Casca is still about as useful as a used tissue in fights, and the writing is still just passable and doesn't stand out in any noteworthy sense.
 
@@ -50,7 +50,7 @@ And...that's really about all that's changed, as short as that list was. Yeah, p
 
 *Berserk* is still a one-of-kind show right now in terms of its atmosphere and universe, both of which are things I really, *really* like. It just sucks that the show attached to it is so average overall.
 
-{{<figure src="https://i.imgur.com/3kLJO51.jpg" caption="*Hmmm...I wonder if it will.*">}}
+{{<figure src="https://cdn.kotatsu.club/pdmGGOKGRV.jpg" caption="*Hmmm...I wonder if it will.*">}}
 
 **THE VERDICT: C**  
 *Next time: Things get game-y*

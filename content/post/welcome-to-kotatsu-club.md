@@ -5,7 +5,7 @@ title = "Welcome to Kotatsu Club"
 +++
 
 
-{{< figure src="https://i.imgur.com/GRiIxst.gif" caption="<em>Please look forward to it.</em>" >}}
+{{< figure src="https://cdn.kotatsu.club/hHovGdFGR.gif" caption="<em>Please look forward to it.</em>" >}}
 
 
 
