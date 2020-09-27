@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "editorials", "Sword Art Online"]
 date = 2017-02-22T22:03:27Z
-cover = "https://i.imgur.com/yMMgbDA.jpg"
+cover = "https://i.imgur.com/yMMgbDA.png"
 title = "We All Need to Watch Sword Art Online"
 +++
 
@@ -19,7 +19,7 @@ First things first: When I say you should watch *SAO*, I mean to say I'm only re
 
 It's just an absolute mess I can't properly dissect without digressing more than I already have.
 
-{{<figure src="https://i.imgur.com/bzyW7bn.jpg" caption="*I did not Photoshop those hearts in.*">}}
+{{<figure src="https://i.imgur.com/bzyW7bn.png" caption="*I did not Photoshop those hearts in.*">}}
 
 "That's all well and good, SnYves, but as I understand it you apparently think both seasons are utter crap, and the sequel just happens to be worse. If the first season is still awful, why are you telling me to go see it?"
 
@@ -41,7 +41,7 @@ To start off, and this is going to be a very subjective point, *SAO* has some im
 
 Let me put it like this: if you were completely new to anime, and I put on a three-minute clip of *SAO* completely out of context and without telling you anything about the series, at the very least you would probably agree that it looked pretty. And if cool graphics are what you watch anime for, character and plot development aside, then honestly, I think you could do way worse. There is effort present in every frame; the animators, art directors, and producers were clearly trying their hardest to make *SAO* look like a high-value production. Between the detailed panoramic shots and the flashy and stylized combat visuals, you would be hard-pressed to call *SAO* an ugly show on that basis alone.
 
-{{<figure src="https://i.imgur.com/Fzj9iDP.jpg" caption="*Ever notice how Kirito seems to keep getting avatars that look dangerously like him?*">}}
+{{<figure src="https://i.imgur.com/Fzj9iDP.png" caption="*Ever notice how Kirito seems to keep getting avatars that look dangerously like him?*">}}
 
 To branch off of that, despite the show's *numerous* shortcomings, it still somehow manages to leave a good first impression. Well, for the first couple of episodes at any rate; really, the show doesn't start showing cracks until the end of Episode 2. Up to that point, *SAO* definitely looks and feels like it's going to be a good show. The whole "if you die in the game, you die in real life" premise isn't exactly the most unique thing out there, and I've seen multiple ways that setup can be mishandled (*Stay Alive*). Usually the big loophole writers have trouble answering is, "If the game can kill you, why do you keep playing it?" It's a pretty obvious question, and in answering it writers have to think up some very convoluted scenarios where "something bad" happens if you don't keep playing. 
 
@@ -53,7 +53,7 @@ Yet, even with those two very powerful forces working in its favor, *SAO* still 
 
 Which brings me to the main reason why we should all sit down and put on *SAO*: it is a case study in how bad aspects of an anime can overshadow and overwhelm the good.
 
-{{<figure src="https://i.imgur.com/lRbQkMb.jpg" caption="*Silly boy! Who do you think you are, the main character?*">}}
+{{<figure src="https://i.imgur.com/lRbQkMb.png" caption="*Silly boy! Who do you think you are, the main character?*">}}
 
 Remember a little while ago when I was praising the show's art style and how it looks really awesome when nothing needs to be animated? Well, as many of the show's detractors will point out (myself included), the animation quality shown varies so wildly it can be hard to take in at some points. When the animation is on point and actually looks halfway decent, it enhances the scenery and makes the visual aspects of the show stand out even more. But those points are so few and far between that instead we have to watch the show when it's *not* at its best on the animation front, and when that happens we get a sub par experience. The pictures on screen are moving, but they're moving in such an incoherent and choppy fashion that it can be hard to focus on the detail and effort present in each frame.
 

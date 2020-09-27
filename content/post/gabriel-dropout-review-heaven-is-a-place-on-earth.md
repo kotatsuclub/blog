@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Gabriel Dropout"]
 date = 2017-03-29T18:16:37Z
-cover = "https://i.imgur.com/eY5744X.jpg"
+cover = "https://i.imgur.com/eY5744X.png"
 title = "Gabriel Dropout Review - Heaven Is A Place On Earth"
 +++
 
@@ -17,7 +17,7 @@ Also for some reason, and I honestly do not have a good explanation for it, we'v
 
 But then I found a strange little series calling itself *Gabriel Dropout*, done by the same guys who did *Himoto!* back in 2015. The description I found was actually kinda charming as well: a high-school comedy centered on a set of two angels and two demon girls come down and up from Heaven and Hell respectively as a sort of immaculate interdisciplinary study program. That might seem a bit confusing to some, so I'll put it like this. It's *Diablo* if it was a slice-of-life anime with cute girls as opposed to two constantly warring civilizations ripping apart the entire world and destroying humanity as we know it. Or at least, if the latter is an element in the story it's been stuck in so far in the background I wouldn't be shocked if I turned around in my seat and saw the battle taking place in my refrigerator.
 
-{{<figure src="https://i.imgur.com/4SqjkLL.jpg" caption="*A new contender for Most Horrifyingly Cute Screenshot of the Year.*">}}
+{{<figure src="https://i.imgur.com/4SqjkLL.png" caption="*A new contender for Most Horrifyingly Cute Screenshot of the Year.*">}}
 
 Anyway, our four main characters all have some supernatural background and despite half of them having a really good reason to hate the other, they all seem to be pretty decent friends regardless. There's the titular Gabriel (Miyu Tomita), who was at the top of her class at Angel School (no, really, that's what they call it), then spent one day on Earth, uncovered MMOs and turned into a NEET. So she's pretty much the embodiment of my first two years at college (haha, I have no social life). She's joined by her classmate Raphiel (Kana Hanazawa), and I swear whenever she's on screen I can hear Eduard Khil singing his world-famous "Trololol" song in the background, because her sole purpose in life is to screw with the two demon girls: Vigne (Saori Onishi), the show's straight man who despite being a demon girl is arguably the nicest and most altruistic of the group ironically enough, and...really, this her name?...no joking?...Satania McDowell (Naomi Ozora), who, despite her megalomaniacal delusions, is so ineffectually evil that her grasp on the title of "group troublemaker" is shaky at best.
 
@@ -27,7 +27,7 @@ I won't lie, I was skeptical putting this one on for the first time. Indeed, as 
 
 And then I saw post-MMO Gabriel teleport her panties into her classroom in one of the most angelic shots in the entire series, and I laughed so hard I'm shocked I wasn't cited for a noise violation.
 
-{{<figure src="https://i.imgur.com/l6xk3bv.jpg" caption="*I get how that fish feels. I'm terrified of that cutting technique too.*">}}
+{{<figure src="https://i.imgur.com/l6xk3bv.png" caption="*I get how that fish feels. I'm terrified of that cutting technique too.*">}}
 
 "SnYves, doth my ears deceive me or did you find a new show this season that you actually liked?" 
 
@@ -37,7 +37,7 @@ Everything about this show is cute, charming, but not overdone. It's a very fine
 
 Each of our four leads is distinct, memorable in their personality, and probably most important, they are likable. And yeah, that sounds like a sentence straight out of my *KonoSuba* review, but actually, the two shows are dangerously similar to one another. I guess the major difference between the two is, whereas *KonoSuba* felt more like a sitcom in how it handled its comedy, *Gabriel Dropout* feels more like a good episode of *Whose Line Is It Anyway?*. 
 
-{{<figure src="https://i.imgur.com/BDdC1DJ.jpg" caption="*I can't be the only one who wants a plush of this.*">}}
+{{<figure src="https://i.imgur.com/BDdC1DJ.png" caption="*I can't be the only one who wants a plush of this.*">}}
 
 Let me explain. *KonoSuba*, as wacky and as off-the-rails as the show got at times, had a fairly fixed structure in most of its episodes. Kazuma and friends go on an adventure to an unknown territory or dungeon, something bizarre happens, Darkness gets turned on somehow, Aqua flips out, Megumin explodes everything, crisis averted. I think I just explained 60% of the show's episodes in that sentence if not more. 
 
@@ -53,7 +53,7 @@ I do feel like Vigne's character gets a little strained at times since she's to 
 
 Also, for a show that's predicated on the interactions between angels and demons in the human world, there's not as much angeling and demoning as I was expecting. Outside of the pilot episode and the last quarter or so of the series, the show keeps the supernatural stuff mostly contained to the characters just reiterating that they are angels and demons. And considering that the first episode shows Vigne zapping Gabriel's internet router with one of her demonic spells, I think the series' main selling point - the premise that makes it stand out from other similar shows - was very underdone. They do make up for it starting in Episode 10, when the cast goes home for a school break, but up to that point the series does very little with its characters' abilities, with the exception of a couple sight gags. I'm left wondering how much this show could've benefited had the show just committed to the gimmick.
 
-{{<figure src="https://i.imgur.com/hX80txU.jpg" caption="*Also, the coffee house bit is a little more* Tokyo Ghoul *than I think the studio intended.*">}}
+{{<figure src="https://i.imgur.com/hX80txU.png" caption="*Also, the coffee house bit is a little more* Tokyo Ghoul *than I think the studio intended.*">}}
 
 And while that certainly hurts its final grade, I'd be lying if I said I had a bad time with *Gabriel Dropout*. This is a charming, witty and *very* funny show that I warmed up to surprisingly quick. The writing is great, the character designs are excellent, and yeah, I'm still a little disappointed that the show didn't go nearly as far with its setup as I would've liked, but when it does decide to mix in those heavenly and hellish elements, the show really takes off to almost A+ level material in my opinion.
 
@@ -61,7 +61,7 @@ If you felt like me during this winter season and just couldn't find anything ne
 
 The Eternal Conflict can wait in my opinion; as long as *Gabriel Dropout* is around, we probably have a few more centuries to go before Pandemonium arrives.
 
-{{<figure src="https://i.imgur.com/Lqvkxo7.jpg" caption="*Provided it's not here already, of course.*">}}
+{{<figure src="https://i.imgur.com/Lqvkxo7.png" caption="*Provided it's not here already, of course.*">}}
 
 **THE VERDICT: B+**  
 *Next time: More live action shenanigans for a series I love.*

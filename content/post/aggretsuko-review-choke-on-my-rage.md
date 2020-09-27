@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Aggretsuko", "A+"]
 date = 2019-01-05T21:46:02Z
-cover = "https://i.imgur.com/zg9ECNp.jpg"
+cover = "https://i.imgur.com/zg9ECNp.png"
 title = "Aggretsuko Review - Choke On My Rage"
 +++
 
 
-{{<figure src="https://i.imgur.com/rjeoGA2.jpg">}}
+{{<figure src="https://i.imgur.com/rjeoGA2.png">}}
 
 So...yeah, hi. Been a while.
 
@@ -17,7 +17,7 @@ I'm legit sorry for not even posting an "I'm out doing other stuff" article over
 
 And I intend to fix that right away with, what else, a review of a show from this year that I *really* friggin' liked. See, another reason I wasn't writing for this site in between assignments, projects, work and research was the sheer amount of stress I was going through at the same time. I know I come off as kind of angry during a lot of my reviews, but that's primarily for show. I'm a nice guy. But I was so stressed out for the majority of the past semester that I just couldn't write anything without possibly inserting myself into the article and just completely venting at a bunch of people who didn't deserve to hear me shouting at the top of my lungs about my personal problems. This was the year that drove me to therapy for just how much I couldn't put up with myself.
 
-{{<figure src="https://i.imgur.com/rOSesto.jpg" caption="They say gift giving is theraputic...">}}
+{{<figure src="https://i.imgur.com/rOSesto.png" caption="They say gift giving is theraputic...">}}
 
 
 It turns out, being an adult with a full time job is really friggin' hard. You'll have work projects compound on top of each other with no hint of recourse and you'll be expected to have everything in on time and to your professor's and/or boss's specifications. It gets very annoying and very frustrating very fast; I tell you this from experience.
@@ -37,7 +37,7 @@ Specifically, the show recognizes that everybody struggles, and while we all wan
 
 Of course, the main point of that entire premise is that *everybody* has their own struggles that they're putting up with. While the show certainly focuses on Retsuko and the problems she faces on a routine basis between her demanding superiors, social obligations, love life, and who the hell knows what else, the show makes sure to check in on other characters and the hardships they're also facing. I can't say exactly what some of those are if I want to avoid spoilers, but the show does it because they offer some very needed perspective regarding Retsuko's troubles. She is *not* alone, and the show taking time out to demonstrate that helps to drive that point home and make the audience think, "Huh, maybe I'm not the only one in this particular boat."
 
-{{<figure src="https://i.imgur.com/FaNu9nu.jpg" caption="Betcha that's what he's thinking, at least">}}
+{{<figure src="https://i.imgur.com/FaNu9nu.png" caption="Betcha that's what he's thinking, at least">}}
 
 
 Retsuko is in constant pursuit of happiness and an escape from her stressful day to day life, but of course she never gets there. Every single one of her plans to get away from the grind ends up backfiring, her ideal escape constantly shattering in her hands by the cold hard cliffs of reality. In fact, one of the more heartfelt scenes in the series for me came from an angle I can't really relate with (and I'm going to stop there before I spoil something that I think is really best seen raw). I can talk about the first time this happens though, when Retsuko's drifter friend comes into town and talks about opening an imported goods store.
@@ -55,7 +55,7 @@ The show's message isn't that Retsuko doesn't deserve to be happy; there are mom
 
 The dub is absolutely fantastic, by the way, and in some cases is actually better than the Japanese VA. Think about how much you need to *nail* your dub in order for me to make that compliment.
 
-{{<figure src="https://i.imgur.com/YG1AmJ1.jpg" caption="Oh, and Happy New Year!">}}
+{{<figure src="https://i.imgur.com/YG1AmJ1.png" caption="Oh, and Happy New Year!">}}
 
 
 **THE VERDICT: A+**

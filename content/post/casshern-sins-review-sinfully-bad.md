@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Casshern Sins", "F"]
 date = 2017-02-08T22:05:05Z
-cover = "https://i.imgur.com/MlDzt77.jpg"
+cover = "https://i.imgur.com/MlDzt77.png"
 title = "Casshern Sins Review - Sinfully Bad"
 +++
 
 
-{{<figure src="https://i.imgur.com/6Oc1bbf.jpg">}}
+{{<figure src="https://i.imgur.com/6Oc1bbf.png">}}
 
 Well this is one hell of a shift in quality, isn't it? I debuted my reviewing career with *Summer Wars*, an absolute trip of a film that I loved very dearly, and now I have to deal with this shambles. Somehow, between then and now, and with very little fanfare in between, I have gone from reviewing something amazing to slashing apart something completely terrible. I'm not entirely convinced this is actually happening to me. I'm half-expecting to wake up any second now with my keyboard's home row imprinted across my forehead, and I'd actually appreciate that a ton. Because that would imply I didn't just spend part of my precious life watching *Casshern Sins*. 
 
@@ -15,7 +15,7 @@ I apologize for the bad pun in the title there, by the way, but good luck trying
 
 But no, instead I had to put up with this...thing. And now I guess I have to do something about it. I don't *want* to. I'd much rather talk about good anime I like as opposed to bad ones I vehemently loathe. But if I can save at least one person from putting this on and making the same mistake I did, then I've done my job.
 
-{{<figure src="https://i.imgur.com/TbGnJ74.jpg" caption="*Fortunately, as a ginger, I am immune to this soul-eating stare.*">}}
+{{<figure src="https://i.imgur.com/TbGnJ74.png" caption="*Fortunately, as a ginger, I am immune to this soul-eating stare.*">}}
 
 Whenever I put on a new series, no matter how good or bad I think the overall product is, I can almost always think of one positive thing the series does well. *Karen Seki* is still the worst short series I've seen in ages, but it had a cool color scheme and interesting setting that would've set it up for decency had the series not been directed by a baboon. I might think *Black Rock Shooter* is pretentious and that it thinks it's saying way more than it actually is, but the "action" scenes are interesting enough and pretty well choreographed, so if you have a thing for that you can definitely do worse. And if you let me assert that *Tokyo Ghoul* should've stopped after the first season, I'll gladly admit there were some amazingly horrific scenes that had me cringing and wincing for minutes on end. 
 
@@ -25,7 +25,7 @@ The "story" behind this unrehearsed middle school play is that the world's major
 
 And, oh yeah, Casshern (holy hell, that's a stupid name) has amnesia now, because the writers needed an easy way to drop exposition onto the audience and they didn't want to worry about developing actual characters or letting us figure stuff out by ourselves.
 
-{{<figure src="https://i.imgur.com/mJk442G.jpg" caption="*I am a morally complex and sympathetic protagonist. You can tell by how I look into the camera.*">}}
+{{<figure src="https://i.imgur.com/mJk442G.png" caption="*I am a morally complex and sympathetic protagonist. You can tell by how I look into the camera.*">}}
 
 What then follows is a drawn-out, ill-conceived, egregiously boring trek from sandy worn-down city to sandy worn-down city to sandy *desert* - slow down *Casshern Sins*, I can only take so much variety in one sitting - as our protagonist brazenly seeks for answers, occasionally taking a five-minute break to punch a machine out of his way. That sounds intersting and fun enough by its own, but watching a machine disintegrate doesn't have quite the same impact as watching something organic disintegrate. That hyper violent feel is why we love *OPM* and *Attack on Titan* so much. 
 
@@ -35,7 +35,7 @@ Worse still, the fight scenes are really not well-executed to begin with. You kn
 
 Even without the *Edward Scissorhands* treatment, the action on screen is not that impressive in the first place. It really isn't. Which makes that last point even worse in my opinion. It's almost like the animators knew the action wasn't going to be satisfying, so they tried to mask it behind rapid edits and unintelligible footage and hoped nobody would care enough to pick up on it. That's... borderline insulting to the audience's intelligence there, don't you think? I don't necessarily have a problem with unimpressive fight scenes, as long as you make up for it somewhere else, but cutting it down to the animated equivalent of white noise then trying to pass it off as something just as good if not slightly better? Yeah, that's not cool.
 
-{{<figure src="https://i.imgur.com/r6DgCdK.jpg" caption="*He could've made a killing as a model with that pose.*">}}
+{{<figure src="https://i.imgur.com/r6DgCdK.png" caption="*He could've made a killing as a model with that pose.*">}}
 
 Which brings me to my next major complaint on the list that's extending out my front door and out my apartment complex: the direction. Right from the OP, you can tell that this series isn't really going to go anywhere special. The song is "Aoi Hana (Blue Flower)" by Color Bottle, and after listening to it a couple times, I guess it's a little catchy. Nothing memorable, and I feel like it's trying a little too hard to be the third *FMA: Brotherhood* OP, but it's okay. 
 
@@ -75,7 +75,7 @@ All that aside, its biggest sin (ha, haha, I made a funny) is that it's ultimate
 
 Mad House, you are better than this. I know you are. Sure, Law of Averages kinda says they had to make a not good series at some point, but this just shouldn't have happened to you.
 
-{{<figure src="https://i.imgur.com/QarjNbc.jpg" caption="*Come back later, kid. I'm brooding.*">}}
+{{<figure src="https://i.imgur.com/QarjNbc.png" caption="*Come back later, kid. I'm brooding.*">}}
 
 Does this thing maybe get better over time? I couldn't tell you. *Casshern Sins* failed the three-episode test so hard I'd give it a G if I could. And even if it did pick itself up after a few episodes, I still wouldn't recommend it, because you'll be so turned off by the first half you won't have the patience to continue.
 

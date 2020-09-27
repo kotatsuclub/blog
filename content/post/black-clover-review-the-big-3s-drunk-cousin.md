@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Black Clover", "F"]
 date = 2017-11-08T23:50:08Z
-cover = "https://i.imgur.com/04kMWUb.jpg"
+cover = "https://i.imgur.com/04kMWUb.png"
 title = "Black Clover Review - The Big 3's Drunk Cousin"
 +++
 
 
-{{<figure src="https://i.imgur.com/fmX4mXj.jpg">}}
+{{<figure src="https://i.imgur.com/fmX4mXj.png">}}
 
 So...this is gonna be a slightly awkward review...
 
@@ -23,7 +23,7 @@ If *Black Clover* does any one thing well, it knows what it wants to accomplish 
 
 And for those curious as to what exactly that thing it wants to accomplish is, it's driving me up the friggin' wall.
 
-{{<figure src="https://i.imgur.com/DimmdXz.jpg" caption="Yay for exposition dumps!!">}}
+{{<figure src="https://i.imgur.com/DimmdXz.png" caption="Yay for exposition dumps!!">}}
 
 
 *Black Clover* is easily one of the most annoying shows on offer for the fall season, and let's keep in mind it's sharing a season with the *Himoto!!* sequel. I couldn't stomach more than one episode of it, and keep in mind that, up to this point, for every single show I've watched for this site, including the ones I've given Fs to, I have watched no less than three episodes of it for my review.
@@ -34,7 +34,7 @@ Pierrot excels at telling long-form stories, to the point where they have it dow
 
 So *Black Clover* is essentially *Naruto* but transfered into a medival fantasy with everything good and credible about the latter completely absent in the former, with all of the Big 3 machinery forcibly crammed into the show with no regard to how well it would run in practice. 
 
-{{<figure src="https://i.imgur.com/exzQ2cJ.jpg" caption="AAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAHHHHHHH!!">}}
+{{<figure src="https://i.imgur.com/exzQ2cJ.png" caption="AAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAHHHHHHH!!">}}
 
 
 But you're not reading this review to hear me pick apart everything this show does wrong, oh no. You're here because you want to hear me completely rip apart Asta's voice acting and tell you how much nicer it would be if I gave myself a chainsaw labotomy than listen to his screeching for another second and a half. His yells cause airplane cabins to depressurize. His voice used to be a warcry for barbarian tribes five thousand years ago. If his voice was a Magic the Gathering card, it'd be banned in all formats. 
@@ -49,7 +49,7 @@ The fifth apparently represents a demon.
 
 Whoda thunk?
 
-{{<figure src="https://i.imgur.com/vkN2nmO.jpg" caption="Hey, check it out! Asta's rival's the only one in the shadows! We can imagery!">}}
+{{<figure src="https://i.imgur.com/vkN2nmO.png" caption="Hey, check it out! Asta's rival's the only one in the shadows! We can imagery!">}}
 
 
 I guess the show itself looks alright, but if you pause it in a bad spot, then it is very easy to end on a frame that just looks out of place compared to the rest of the show. A lot of the time studios will make undetailed drawings and "smear" them together during quickly animated scenes to save on budget and draw more attention to the action at hand. And when you do smear frames correctly, then nobody cares too much about them because the decrease in quality is not going to be too big of a deal compared to what you're getting out of it. 

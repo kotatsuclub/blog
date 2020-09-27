@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Death Note", "movies"]
 date = 2017-08-30T21:32:21Z
-cover = "https://i.imgur.com/uNYg31f.jpg"
+cover = "https://i.imgur.com/uNYg31f.png"
 title = "Death Note (2017) Review - Not Exactly as Planned"
 +++
 
@@ -11,7 +11,7 @@ title = "Death Note (2017) Review - Not Exactly as Planned"
 
 *So, shall we begin?*
 
-{{<figure src="https://i.imgur.com/jvaPEc9.jpg">}}
+{{<figure src="https://i.imgur.com/jvaPEc9.png">}}
 
 So if you somehow missed all of the four months' worth of buzz surrounding this week's subject matter, allow to briefly bring you up to speed. Last spring, the media streaming colossus known as Netflix released a teaser trailer for their live-action *Death Note* movie, an adaptation of the legendary manga-turned-anime series originally aired in late 2006. Problem was, not everyone was on board for it at the time, and since this is the age of the internet where you can pretty much say anything you want under the blanket of anonymity, a large part of the anime fandom didn't like it too much. 
 
@@ -23,7 +23,7 @@ The moment everyone has been waiting for.
 
 And...do you think maybe we can call this one a draw? Because the best word I could think of to sum up my experience with *Death Note* 2017 is just "alright." It's sure as hell not the next *Dragonball Evolution* or *Last Airbender* (frankly I'm not sure anything will ever be), but after sitting down and thinking about the movie, I don't think I'm ready to run out of apartment extolling praise for Kira either.
 
-{{<figure src="https://i.imgur.com/Q364AIq.jpg" caption="Ah well. Who wants tea?">}}
+{{<figure src="https://i.imgur.com/Q364AIq.png" caption="Ah well. Who wants tea?">}}
 
 
 It's not offensively bad, but it's not amazingly wonderful either. It's a good, well put together film that stands up fine if we look at it as just another offering in the summer cinematic lineup. The primary issue though, which you can probably guess seeing as how this is an *anime* blog, is that we can't really do that. A sizeable number of people watching this movie (myself included) are fans of the original manga and anime series, and that means they're going to have expectations in terms of characters, plot development, and underlying themes because that's what the source material is known for. 
@@ -34,7 +34,7 @@ But speaking as someone who's gone on the record multiple times stating that *De
 
 The big selling point for *Death Note* 2017 is that it's supposed to be an American retelling of the original story. The settting is downtown Seattle, where our protagonist Light Turner (Nat Wolff, *Paper Towns*, *The Fault in Our Stars*) finds a mysterious notebook left behind by the...dammit, they did exactly what I didn't want them to do..."death god" Ryuk (voiced by Willem DaFoe, who everyone should know by this point). The notebook, as it's revealed very early on, is capable of killing anyone by any means as long as the user knows their name and face. Eventually Light gets the idea to use the notebook's powers for "good," as he starts killing off people who he deems are "evil." Assisting him is Mia Sutton (Margret Qualley, *The Nice Guys*, *Palo Alto*), a fellow classmate and eventual girlfriend, and the two of them together get to work filling out the notebook under the moniker Kira. Naturally, word spreads to the ears of the world-renowned detective L (Keith Stanfield, *Get Out*, *Snowden*, *Straight Outta Compton*), and a game of psychological cat and mouse begins to take place.
 
-{{<figure src="https://i.imgur.com/xflYXcm.jpg" caption="And also it helps that Ryuk doesn't look like this.">}}
+{{<figure src="https://i.imgur.com/xflYXcm.png" caption="And also it helps that Ryuk doesn't look like this.">}}
 
 
 Or, at least, that's what should have happened. The film's primary problem is that it focuses on the wrong things and doesn't seem to catch onto what made the original anime so compelling. Eighty percent of the fun in *Death Note* is watching L chase Light around as his primary suspect but lacking the means to pin him down as Kira, while Light has to continue his work as Kira without tipping off L in the process. It was the mind games that really drew me to the anime and manga, and unfortunately *Death Note* 2017 is severely lacking in that respect.
@@ -43,7 +43,7 @@ The film is certainly intelligent - L is still a worthy adversary for Light and 
 
 And all of those are good things. Like I said, as a *movie* this film is pretty good. I enjoyed it a lot. But as an *adaptation*, the movie falls very, very short, and that's where *Death Note* 2017 will likely lose a lot of its prospective audience. Because while this film got a lot of its little details correct - L does not like wearing shoes and eats enough sugar to last him until next Halloween, Light's relationship with Ryuk is complicated at best and in fact they ram heads more often than we usually think - the core elements of that make *Death Note* *Death Note* are hardly present, if they are even there at all.
 
-{{<figure src="https://i.imgur.com/MLbtWEy.jpg" caption="There are plenty of references to the manga, though.">}}
+{{<figure src="https://i.imgur.com/MLbtWEy.png" caption="There are plenty of references to the manga, though.">}}
 
 
 Mia Sutton suffers the most from this, as a rather radical departure from her base character Misa Amane. To be fair here, it is 2017 aka the year everybody got offended, so just doing the "I love Light so much and I'm just going to do everything he tells me to do because I love him" schtick probably wasn't going to fly. And it's not like Mia is a bad character overall; she does get some decent lines and helps out Light a bit more proactively than her Japanese counterpart, which I'm perfectly down for. But then the story starts going off the rails a bit and by the time the Act 3 "twist" comes around, her character starts to become very messy. Again, not *bad*, but it's definitely not the Misa we're used to.
@@ -54,7 +54,7 @@ Also, Netflix, where the hell is the potato chip scene? Where the hell is my "ex
 
 Instead, we get a scene where Light screams like a girl for a minute on end. How Kira-esque.
 
-{{<figure src="https://i.imgur.com/JEAnrz7.jpg" caption="No writing notes in class!">}}
+{{<figure src="https://i.imgur.com/JEAnrz7.png" caption="No writing notes in class!">}}
 
 
 I wasn't especially into the choices in soundtrack either, and I'm aware that sounds like a very nitpicky criticism. But when you go from [this](https://www.youtube.com/watch?v=d5HT8HoiAHg) to [this](https://www.youtube.com/watch?v=Cw5xkIa2ziY), I think it's worth pointing it out.
@@ -67,7 +67,7 @@ But...I just can't bring myself to get angry at this movie. Because whatever it 
 
 It's a good movie, but it sure as hell wasn't what I was expecting. I'm still going to recommend it; you should see this movie regardless of your first premonitions towards it. As for whether or not you'll enjoy it, I honestly couldn't tell you. 
 
-{{<figure src="https://i.imgur.com/Dj8f7CJ.jpg" caption="But I can guarantee you'll enjoy this lunatic.">}}
+{{<figure src="https://i.imgur.com/Dj8f7CJ.png" caption="But I can guarantee you'll enjoy this lunatic.">}}
 
 
 So...here's a grade, I guess. This is easily the hardest review I've done so far, so if you'll excuse me, I think I need a root beer float milkshake.

@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "editorials"]
 date = 2019-01-12T20:35:32Z
-cover = "https://i.imgur.com/GfBmZJd.jpg"
+cover = "https://i.imgur.com/GfBmZJd.png"
 title = "How I Voted for The 2018 Crunchies"
 +++
 
@@ -15,7 +15,7 @@ So with that lengthy intro out of the way, let's get right into the ballot! Star
 
 **Best Protagonist: Retsuko (Aggretsuko)**
 
-{{< figure src="https://i.imgur.com/BjKMEmm.jpg" >}}
+{{< figure src="https://i.imgur.com/BjKMEmm.png" >}}
 
 Fair warning: I think _Aggretsuko_ was the best new show of 2018 and hence you're going to see a _lot_ of it come up on this list, so we might as well cut all of the pretense early. Yumeko Jabami was fun to watch, Gearless Joe had a fantastic Rocky Balboa impersonation, Sakuta Azusagawa was witty and sharp-tongued, and Rimuru Tempest was just...well, adorable, at the lack of a better word. But Retsuko beats all of them here just on the basis of being _relatable_, which in my opinion is the best thing about her character. Her design is iconic, her dialogue is simple but impactful, and her character on the whole is well-written and of course, she's relatable. That ticks off just about all my boxes for being an excellent protagonist to rally around no matter what happens to her.
 

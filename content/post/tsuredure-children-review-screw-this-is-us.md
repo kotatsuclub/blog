@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Tsuredure Children"]
 date = 2017-10-04T20:15:26Z
-cover = "https://i.imgur.com/flmpDir.jpg"
+cover = "https://i.imgur.com/flmpDir.png"
 title = "Tsuredure Children Review - Screw \"This is Us\""
 +++
 
 
-{{<figure src="https://i.imgur.com/yVKHTJK.jpg">}}
+{{<figure src="https://i.imgur.com/yVKHTJK.png">}}
 
 ...you people seem to like requesting romcoms for me to review, don't you?
 
@@ -37,7 +37,7 @@ For all the time it has to tell its shorts, *Tsuredure* gets as much value out o
 
 This is actually a decent excuse to talk about the show's writing, since this is a romcom and the characters typically do have to talk in these sorts of shows. And it's *really* damn good. It *had* to be really damn good in the first place in order to make the format work at all, so the fact it turned out *really* damn good makes me really happy. This show has some of the best dialogue pieces I've heard this season, absolutely hands down, and the fact I don't want to quote any of them for you should be testament enough to how much I liked this writing. And although *Tsuredure* hits its punchlines at a very healthy rate and I had a smile on my face throughout the entire ride, the best parts of this romcom series, and holy hell this is going to be the sappiest thing I've written on this blog to date, are easily the "rom" bits.
 
-{{<figure src="https://i.imgur.com/QlaeMr8.jpg" caption="And this is how you do tastefulness in these sorts of shows.">}}
+{{<figure src="https://i.imgur.com/QlaeMr8.png" caption="And this is how you do tastefulness in these sorts of shows.">}}
 
 
 *Tsuredure*'s writing comes from a spot of genuine compassion and sincerity, and that is the thing I respect most about this show. It's not out to just force adorably awkward couples together and just leave them alone to let the sparks fly. It's evident this show cares about the relationships its characters build, and watching said relationships grow and evolve over the course of the series is incredible, at the lack of a better word.
@@ -46,7 +46,7 @@ One of the more frequent couples to star in the show is Takurou Sugawara (Kaito 
 
 If there's any one big thing I can say for *Tsuredure Children*, it doesn't show any sort of pretense whatsoever. Every move it makes is deliberate, every scene leaves some sort of impact on the audience, and if a series is doing that regularly to the point where I'm caring about characters I've known for maybe two minutes, then it's doing something right. And again, this wraps straight back around to the show's excellent writing, without which this series probably wouldn't have stood much of a chance. 
 
-{{<figure src="https://i.imgur.com/HUNTsD3.jpg" caption="Relationship goals: have crush loan me umbrella space.">}}
+{{<figure src="https://i.imgur.com/HUNTsD3.png" caption="Relationship goals: have crush loan me umbrella space.">}}
 
 
 I was probably going to give *Tsuredure* a passing grade at any rate just due to it not being *Hajimete*, but I was blown away by this series in a manner I was not expecting. There is a ton to love about this show, and it is unabashedly proud of what it's set out to accomplish. This show is going to stay in my queue for a while and I think I'll need to give it a couple rewatches at some point. 

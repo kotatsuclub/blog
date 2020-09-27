@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Miss Kobayashi's Dragon Maid"]
 date = 2017-06-01T03:43:58Z
-cover = "https://i.imgur.com/IQl5CVh.jpg"
+cover = "https://i.imgur.com/IQl5CVh.png"
 title = "Miss Kobayashi's Dragon Maid Review - Skyrim Mods the Anime"
 +++
 
 
-{{<figure src="https://i.imgur.com/YA7w1dL.jpg">}}
+{{<figure src="https://i.imgur.com/YA7w1dL.png">}}
 
 I'm...legitimately not sure where to start with this one.
 
@@ -19,7 +19,7 @@ And considering I could review all of those shows in a pretty coherent and lucid
 
 Wait, what?
 
-{{<figure src="https://i.imgur.com/Id1jDTE.jpg" caption="*D is for Dragon!*">}}
+{{<figure src="https://i.imgur.com/Id1jDTE.png" caption="*D is for Dragon!*">}}
 
 *Miss Kobayashi's Dragon Maid* is brought to you by Kyoto Animation, who has done a lot of my favorite shows from *Hyouka* to *The Disappearance of Haruhi Suzumiya* to *K-On!!* to *Amagi Brilliant Park* to name only a few. They were also behind *Myriad Colors Phantom World* in Winter 2016, meaning that you were probably watching *KonoSuba* or *ERASED* instead, but in my opinion that was their most absurd work up to this point. Then out popped *Kobayashi* a year later, and I immediately had to retract that award because whatever weird stuff *Phantom World* got up to, you could explain it away with everything being supernatural, hence why the female lead casts spells by groping herself. 
 
@@ -31,7 +31,7 @@ I mean, look at her. Look at her.
 
 She is *adorable.*
 
-{{<figure src="https://i.imgur.com/gyc0Dwa.jpg" caption="*Emotionless, maybe, but still adorable.*">}}
+{{<figure src="https://i.imgur.com/gyc0Dwa.png" caption="*Emotionless, maybe, but still adorable.*">}}
 
 So what is *Kobayashi* beyond that plot setup? Let me answer that question with another question: who's seen *Eccentric Family*? 
 
@@ -43,7 +43,7 @@ This show has enough fanservice to give *No Game No Life* a run for its money, a
 
 And it's also one of the funniest shows you're going to see this year.
 
-{{<figure src="https://i.imgur.com/WTzSNeT.jpg" caption="*Crouching Dragon, Hidden Dragon*">}}
+{{<figure src="https://i.imgur.com/WTzSNeT.png" caption="*Crouching Dragon, Hidden Dragon*">}}
 
 I think I was a little to hard on last winter now that I think back on it. I mean, we still got slammed hard with a lot of series that nobody is going to remember or miss by the time the end of the year comes along, but whatever comedy shows were on at the time were absolutely on point. *KonoSuba 2* brought us back to the excellent world of Kazuma and his Guild for Misguided and Unusual Adventurers, *Gabriel Dropout* was a three-month long experiment in getting angels and demons to play improv games, and *Kobayashi* has five dragons that it needs to assimilate into human society as inconspicuously as possible.
 
@@ -55,7 +55,7 @@ About midway through the show (I'll put a **spoiler** flag here just to be safe,
 
 As for the actual comedy, it hits its stride in the opening scenes of Episode 1 and then stops for absolutely nobody. It sets up its premise as quick as possible so that we can cut right to the good parts as soon as we hit Play. To avoid monotony, there are five different dragons living with various humans of interest, so it would be misleading to suggest that this series focuses solely on the Kobayashi family all the way through. One of Kobayashi's coworkers takes in a very nihilistic but formal dragon who is quickly converted to an otaku by the next time we see him. Quetzalcoatl (jeesh, that's a pain to spell) gets summoned by a human mage, gets mistaken for a demon, and now "possesses" his house as the poor kid (yes, kid) has to stave off her advances.
 
-{{<figure src="https://i.imgur.com/xruqyQN.jpg" caption="*And don't mind the horns. Literally nobody in this series has issue with them.*">}}
+{{<figure src="https://i.imgur.com/xruqyQN.png" caption="*And don't mind the horns. Literally nobody in this series has issue with them.*">}}
 
 Regardless of which dragon or dragons I was paired with during an episode, I found myself laughing for prolonged periods of time at what I can only presume is an unhealthy rate. This show is ridiculously funny if you can appreciate its sense of humor. 
 
@@ -65,7 +65,7 @@ All that aside, though, considering how badly we're going to miss *KonoSuba* in 
 
 And finally, since I hinted at it in my *Art Club* review:
 
-{{<figure src="https://i.imgur.com/bKApN36.jpg">}}
+{{<figure src="https://i.imgur.com/bKApN36.png">}}
 
 **THE VERDICT: A**  
 *Next time: Never forget.*

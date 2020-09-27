@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Attack on Titan"]
 date = 2017-07-12T23:29:13Z
-cover = "https://i.imgur.com/0bbnb3a.jpg"
+cover = "https://i.imgur.com/0bbnb3a.png"
 title = "Attack on Titan Season 2 Review - SASAGEYO, SASAGEYO!!"
 +++
 
 
-{{<figure src="https://i.imgur.com/Rcl7U4l.jpg">}}
+{{<figure src="https://i.imgur.com/Rcl7U4l.png">}}
 
 (Forgive the subtitle; I had to get that out of my system before we started. Also, I'm freely going to be talking about Season 1 **spoilers** in this review, so avert your eyes if you haven't seen this show yet and want to keep it fresh.)
 
@@ -17,7 +17,7 @@ While season 2's, when done well, serve as literally a second serving of a serie
 
 So as far as striking while the iron is hot with its sequels is concerned, *Attack on Titan* didn't do that as much as it threw the iron into a helium freezer and tried beating on it with a wiffleball bat. See, the first season of *Attack on Titan* aired in 2013, so waiting until Spring 2017 to air the sequel, in anime years, is like a modern day movie studio trying to release *The Jazz Singer 2*. But ah well, better late than never, and I can always go for a good bout of overly graphic and cringy cannibalism scenes no matter how long I've had to wait for it.
 
-{{<figure src="https://i.imgur.com/VrQARwe.jpg" caption=" Attack on the Planet of the Apes ">}}
+{{<figure src="https://i.imgur.com/VrQARwe.png" caption=" Attack on the Planet of the Apes ">}}
 
 Seeing as how a good four and a half years have passed since the last time we heard from *Attack on Titan*, let's briefly recap the setting, shall we? Humanity has been placed on the endangered species list thanks to the emergence of the Titans - a species of large, naked GIF generators that happen to have a taste for human entrails and screaming. The last remaining remnants of the human population have decided to turtle up in a city, surrounded by three walls so high it might be wise to keep this show away from the current presidential administration. 
 
@@ -43,7 +43,7 @@ So instead of focusing on him during the entire twelve-episode run, he's instead
 
 All of that said, however, story is at best half of the appeal behind *Attack on Titan*, because in addition to its thriller and drama elements, there's a good share of action in the series, whether it be the Scout Corps slicing things up or Eren channeling his inner UFC to battle the Titans head on. Depending on who you ask, the action either complements the story of *Attack on Titan* if not the other way around, but either way let's agree it's a fairly vital part of the anime.
 
-{{<figure src="https://i.imgur.com/AnIkXeB.jpg">}}  
+{{<figure src="https://i.imgur.com/AnIkXeB.png">}}  
 <center>That and absoultely nightmarishly awesome shots like this.</center>
 
 I mention this because Season 2 takes a while to get interesting from an action standpoint. And by "a while," I mean roughly half of the season. And that's bad. I mean, the first episode wraps up with a pretty gruesome scene and a flooring reveal about one of the newer Titans, but past that, right until the trainees get trapped in a castle, I can not think of one memorable action scene whatsoever on the run-up to that. 
@@ -54,7 +54,7 @@ So now the question is of course how damning a fault that is, and while the seri
 
 Off-kilter at times *Attack on Titan 2* may be, it's still hard to argue for it not being a great show overall, and after refreshing yourself with Season 1, there's no reason not to put this on right after. It may have arrived late to the sequel party, but it's still the life of it, even though I suspect it may have had one too many shots of whipped cream vodka.
 
-{{<figure src="https://i.imgur.com/iMXK9Mv.jpg" caption="Also, I'm still not over the fact this guy is named Connie. Just sayin'.">}}
+{{<figure src="https://i.imgur.com/iMXK9Mv.png" caption="Also, I'm still not over the fact this guy is named Connie. Just sayin'.">}}
   
 **THE VERDICT: A-**  
 *Next time: I arrive late to a party myself*

@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "A+", "Paranoia Agent"]
 date = 2017-03-01T21:28:42Z
-cover = "https://i.imgur.com/a3isnw6.jpg"
+cover = "https://i.imgur.com/a3isnw6.png"
 title = "Paranoia Agent Review - Why So Serious?"
 +++
 
 
-{{<figure src="https://i.imgur.com/PkeeBOb.jpg">}}
+{{<figure src="https://i.imgur.com/PkeeBOb.png">}}
 
 In completely unrelated news, I just finished rewatching *ERASED* from last winter, and it is just as amazing as I remembered it to be. I've always been a big fan of mystery shows both inside and outside of anime, and *ERASED* satisfied me in a way I haven't felt in ages. It was a well-told, well-paced and engaging whodunit that admittedly I guessed six episodes in advance of the actual reveal. 
 
@@ -19,7 +19,7 @@ Then inspiration hit me like a wayward soccer ball as I remembered *Paranoia Age
 
 A few hours later, and before I had any clue what I was doing, I was completely done with the series. It was amazing. Superb. Never mind *ERASED*; that's hardly a year old. It can wait. *Paranoia Agent* is turning thirteen this year and I need to get the word out! More people need to see/rewatch this one! 
 
-{{<figure src="https://i.imgur.com/HZXZr00.jpg" caption="*Everybody do the Maromi dance!*">}}
+{{<figure src="https://i.imgur.com/HZXZr00.png" caption="*Everybody do the Maromi dance!*">}}
 
 *Paranoia Agent* sets itself up as a psychological thriller and mystery show with some darkly humorous and satirical undertones on the side. Our story centers around a series of assaults and murders, claimed to be the work of a roller-blading, bat-toting middle schooler known only as Shonen Bat (or Li'l Slugger in the dub). His first victim is the character designer Tsukiko Sagi (Mamiko Noto), and due to the circumstances regarding the attack, the two lead detectives Ikari and Maniwa (Shozo Iizuka and Toshihiko Seki respectively) initially suspect her of faking the incident. Shonen Bat, not one to be so easily dismissed, promptly goes after a tabloid reporter, two elementary school kids, a hooker, and a lower-ranking officer, spurring the detectives to investigate further. 
 
@@ -31,7 +31,7 @@ The series has to be lauded for its visual storytelling and engaging, relatable,
 
 In that same spirit, *Paranoia Agent* almost manages to go its entire runtime without ever having to resort to narration from anybody, and for an anime, that's an impressive feat. 
 
-{{<figure src="https://i.imgur.com/wb47e8M.jpg" caption="*A perfect reenactment of a Friday night at my apartment.*">}}
+{{<figure src="https://i.imgur.com/wb47e8M.png" caption="*A perfect reenactment of a Friday night at my apartment.*">}}
 
 I think the only time they break that policy is for that narcissistic little bastard I mentioned a second ago, and that is for the sole purpose of getting the audience to hate him right out of the gate. He tells us he's the best sports player at his school, he's top of his class, hell he even introduces himself as "Ichi," (literally "Number One") just to hammer home to the audience just how full of himself he is (and how punchable his face is as well). 
 
@@ -39,7 +39,7 @@ You remember that incredibly annoying twerp Nui Harime from *Kill la Kill*? I re
 
 "I'm guessing you didn't like her too much, SnYves." You think so, reader? How insightful. And fine, I'll admit my initial reaction to her popping up on my screen like an unwanted porn ad was maybe a little visceral. But as I was watching this "Ichi" strut down his street, wooing the girls and hyping up just how awesome he was directly to my face, something clicked in the back of my mind. It was that exact same feeling: pure, unadulterated, loathsome, white hot hate. And I challenge you to not feel the same way about him the moment he turns to camera and gives you that self-fulfilled, toothy grin reserved only for the antagonists in slice of life shows.
 
-{{<figure src="https://i.imgur.com/OquKg2l.jpg" caption="*Like, seriously. Look at him!*">}}
+{{<figure src="https://i.imgur.com/OquKg2l.png" caption="*Like, seriously. Look at him!*">}}
 
 Fortunately, because he likes to wear a baseball hat and gold in-line skates, the kids at his school start associating "Ichi" with Shonen Bat, and we're teed right up to see him get absolutely ruined. That's *Paranoia Agent* in its finest form - we hardly get twenty minutes with each character but over that span of time we are able to formulate a pretty well-characterized opinion of each of them, invoking a pretty powerful emotional response during the show's various events. 
 

@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "editorials"]
 date = 2017-02-02T15:20:53Z
-cover = "https://i.imgur.com/UYZZsWL.jpg"
+cover = "https://i.imgur.com/UYZZsWL.png"
 title = "The New Keeper of the Death Note"
 +++
 
 
-{{<figure src="https://i.imgur.com/UYZZsWL.jpg" caption="*Well, technically Subaru...*">}}
+{{<figure src="https://i.imgur.com/UYZZsWL.png" caption="*Well, technically Subaru...*">}}
 
 I think I have your attention now.
 
