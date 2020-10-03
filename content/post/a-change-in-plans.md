@@ -13,5 +13,5 @@ Sound like a deal?
 
 Thanks for your patience, and see you next week!
 
-{{<figure src="https://i.imgur.com/1OrOW0s.jpg" caption="Have a donut in the meantime.">}}
+{{<figure src="https://cdn.kotatsu.club/ZLTWGdKGg.jpg" caption="Have a donut in the meantime.">}}
 

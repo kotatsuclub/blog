@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Summer Wars", "A+", "movies"]
 date = 2017-02-03T17:33:41Z
-cover = "https://i.imgur.com/ezmSXyd.jpg"
+cover = "https://cdn.kotatsu.club/TwENMdFMR.jpg"
 title = "Summer Wars Review - Cool for the Summer"
 +++
 
 
-{{<figure src="https://i.imgur.com/JFg9p8Q.jpg">}}
+{{<figure src="https://cdn.kotatsu.club/TQEHGOKMRz.jpg">}}
 
 Alright, first review. Let's get cracking. Straight to the heart of it. Nothing for me to digress about at all.
 
@@ -25,7 +25,7 @@ But it wasn’t the time quite yet. You see, while Hosoda was trying to make a n
 
 And in August of 2009, oh man, did he deliver.
 
-{{<figure src="https://i.imgur.com/kg33Ahl.jpg" caption="*There can only be one wizard of OZ! ...I'll go away now.*">}}
+{{<figure src="https://cdn.kotatsu.club/owPHGdFGgm.jpg" caption="*There can only be one wizard of OZ! ...I'll go away now.*">}}
 
 *Summer Wars* is a shotgun blast to the face of energy, humor, action and sheer insanity, and I love every single second of it. Engrossing and entertaining on the outside, thought-provoking and meaningful on the inside, *Summer Wars* has everything I could ask for from a feature length anime and then some. This is a movie that knows that first and foremost these things are supposed to be fun, and it does everything in its power to make sure the audience is having a good time. 
 
@@ -35,7 +35,7 @@ From the first few spoken lines of dialog, the movie makes perfectly clear what 
 
 The source of most of *Summer Wars’* humor isn’t the events taking place in the Jinnouchi estate, but the context in which they happen. It's the difference between someone telling you a joke, and watching a funny situation play out by itself. There’s an aunt watching her son play in the national high school baseball tournament, and everything happening in his games runs parallel to rest of the family’s fight against Love Machine. Kazuma mentions that he’ll need something more powerful than his laptop to duel Love Machine, so his uncle runs back to his electronics shop and “borrows,” no joke, a legit supercomputer he ordered for a university. And when Kenji gets first introduced to Natsuki’s great-grandma, with no preface leading up to it at all, he finds out halfway through the conversation his cover story is that he’s supposed to be Natsuki’s fiancé. 
 
-{{<figure src="https://i.imgur.com/DkbDXti.jpg" caption="*But it still can't run Crysis.*">}}
+{{<figure src="https://cdn.kotatsu.club/owEHMOFMRZ.jpg" caption="*But it still can't run Crysis.*">}}
 
 Funny thing is, despite a lot of the family being fairly disposable one-note characters - you've got the angry overprotective police officer, the granddad who's the family history buff, the fanatical baseball aunt from the last paragraph - they all have unique personalities and bring something new to the film, providing more humorous and contemplative opportunities for the movie as a whole to explore. Not to mention the diversity of the Jinnouchi family in this respect also serves to amplify the sense of awe in the third act climax where they’re all fighting Love Machine. Granted, it’s not the most original thing ever put to film: everyone needs to put aside their differences and personal agendas for a few minutes so they can rally behind a common cause, and the whole is larger than the sum of the parts yadda yadda blah blah. Even with that handicap, though, Hosoda still nails a very inspiring scene, and that’s just one example. Every shot in this movie has a story to tell, whether it just be an innocuous visual gag or some side story that will swing around later and impact the main plot. Couple that with some great animation quality and stunning art direction overall (I'll talk about that more in a minute), and it's evident that Hosoda makes the most out of his two hours on screen.
 
@@ -43,7 +43,7 @@ Now, as to why the entire family wants to exterminate Love Machine so badly, see
 
 *Summer Wars* solves this problem by not dragging its feet during its low points. It knows it has a tone to maintain, but it doesn’t deal with plot developments by laughing at them and dancing into the next scene like nothing just happened (we’re not watching *Vacation* here). The movie knows that each action has a consequence, and you do have to allot time in order for the dust to settle. And as soon as it does, *Summer Wars* gets right back to what it does best. This movie flows so well from one plot point to the next it’s almost seamless, and that is a huge mark in its favor.
 
-{{<figure src="https://i.imgur.com/Qa37BmM.jpg" caption="*Behold, the ancient combative art of Gran-jutsu!*">}}
+{{<figure src="https://cdn.kotatsu.club/owEHMOKMRM.jpg" caption="*Behold, the ancient combative art of Gran-jutsu!*">}}
 
 Arguably one of the major reasons those transitions happen so cleanly is that the movie takes pains to develop our main characters. I stand by what I said earlier about the residents of the Jinnouchi estate and how well characterized they are, but they're ultimately just vehicles and reactors to help our leads through their own personal arcs. Kenji is a socially awkward introvert that ultimately rallies the family to confront Love Machine. Kazuma is a NEET that probably got dragged along on the trip against his will - hell, for the first third of the movie we don't even know he exists - and by the climax everybody's watching him play a video game like it's a *League of Legends* major. 
 
@@ -57,7 +57,7 @@ In that respect, I’m curious if Aniplex took any inspiration from *Summer Wars
 
 The solution? Integrate some of OZ's HUD into there and display information in game that way. That's some creative stuff there.
 
-{{<figure src="https://i.imgur.com/IQ0nqAV.gif" caption="*Of course it is! How do think I ended up writing for this blog?*">}}
+{{<figure src="https://cdn.kotatsu.club/TwEHGdKMg7.gif" caption="*Of course it is! How do think I ended up writing for this blog?*">}}
 
 And that's a really apt one-word description for this one overall, isn't it? *Summer Wars* is a study in creativity. From the avatars in OZ (King Kazma is a badass; this discussion is closed) to the humorous setpieces to the Jinnouchi family itself, *Summer Wars* hits a grand slam. I cannot recommend this enough, and if you're in the mood for a lighthearted, slightly campy sitcom about large families, video games and a blossoming relationship between a squirrel and a rabbit, then this is the movie for you. 
 
