@@ -7,7 +7,7 @@ title = "SnYves' List of 20 Shows You Must Watch If You Call Yourself an Anime F
 +++
 
 
-Happy Wednesday everybody! As promised, here's the second half of my essential anime list that I started week before last. If, for some reason, you're reading this without having seen the first half, then might I suggest [you check that out here](https://kotatsu.club/snyves-list-of-20-shows-you-must-watch-if-you-call-yourself-an-anime-fan-part-1/) before continuing on. And again, just remember that this is my personal list and these shows are appearing in no particular order.
+Happy Wednesday everybody! As promised, here's the second half of my essential anime list that I started week before last. If, for some reason, you're reading this without having seen the first half, then might I suggest [you check that out here](/snyves-list-of-20-shows-you-must-watch-if-you-call-yourself-an-anime-fan-part-1/) before continuing on. And again, just remember that this is my personal list and these shows are appearing in no particular order.
 
 Away we go.
 

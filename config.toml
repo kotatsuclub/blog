@@ -24,6 +24,9 @@ url = "azblob://$web"
 tag = "tags"
 author = "author"
 
+[params.nav]
+alt_title="こたつ部"
+
 [params.social]
 github = "https://github.com/kotatsuclub/blog"
 twitter = "https://twitter.com/thekotatsuclub"
