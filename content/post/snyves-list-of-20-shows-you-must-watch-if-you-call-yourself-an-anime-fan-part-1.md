@@ -79,7 +79,7 @@ It doesn't really matter which one frankly. *Neon Genesis Evangelion* is arguabl
 
 And that's the first half of the list there! I'll be back on this week after next after my next review. Until then, I think you have a show or two you need to watch.
 
-EDIT: Part 2 of this list is up and [you can jump to it here](https://kotatsu.club/snyves-list-of-20-shows-you-must-watch-if-you-call-yourself-an-anime-fan-part-2/).
+EDIT: Part 2 of this list is up and [you can jump to it here](/snyves-list-of-20-shows-you-must-watch-if-you-call-yourself-an-anime-fan-part-2/).
 
 *Next time: The lowest common denominator*
 
