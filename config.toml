@@ -5,7 +5,7 @@ title = "Kotatsu Club"
 theme = "hugo-theme-kotatsu"
 
 disqusShortname="kotatsuclub"
-googleAnalytics = "G-J5WCENBFSP"
+googleAnalytics = "UA-77326078-1"
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
