@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Net-juu no Susume"]
 date = 2017-10-25T23:53:20Z
-cover = "https://cdn.kotatsu.club/1hvIGdKMg.jpg"
+cover = "assets/1hvIGdKMg.jpg"
 title = "Net-juu no Susume Review - Logged In"
 +++
 
 
-{{<figure src="https://cdn.kotatsu.club/J2vSGOKGRz.jpg">}}
+{{<figure src="assets/J2vSGOKGRz.jpg">}}
 
 Fall's here!
 
@@ -19,7 +19,7 @@ So as you can imagine, I'd much rather spend my time indoors and chilling out in
 
 ...how about an MMO?
 
-{{<figure src="https://cdn.kotatsu.club/JhDSGdFGgm.png" caption="Amen.">}}
+{{<figure src="assets/JhDSGdFGgm.png" caption="Amen.">}}
 
 
 Yeah, with the cold season screaming in and with me having nothing to do apart from a suffocating pile of thesis work, a good massive-multiplayer RPG sounds right up my alley. And wouldn't you know it, there's a show airing right now taking that exact premise and having a little bit of romcom fun with- oh come the hell on! How many more adorkable romcom shows with premises regarding things I like can we possibly have?? 
@@ -30,7 +30,7 @@ Actually, I'm not entirely sure how valid my complaints are at the moment. *GAME
 
 And if you can see the twist coming here, because it's telegraphed less subtly than the whodunnit in *ERASED*, then you can probably piece together what's going on in roughly the same way I did.
 
-{{<figure src="https://cdn.kotatsu.club/12vSGOKGgZ.jpg" caption="Those are names...">}}
+{{<figure src="assets/12vSGOKGgZ.jpg" caption="Those are names...">}}
 
 
 Yeah, unfortunately for *Net-juu* the plot is not the most unique or surprising one out there. It is markedly generic as far as romcom shows go, and while the fun MMO aesthetic helps to conceal that from the audience a bit, *Net-juu* just doesn't have anything special up its sleeves in the storytelling department. 
@@ -41,7 +41,7 @@ The premise for *Net-juu* is, again, nothing flashy. There have been a number of
 
 *Net-juu* cuts out all pretense of it being any more serious than it absolutely must, and that works to its benefit immensely. By no means is it just a standard love story - remember the person piloting Hayashi the swordsman is actually a girl - but the fact the show's able to focus squarely on the characters and their relationships with each other, without having to resort to any of the overly dramatic, grave plot devices the aforementioned shows resort to, makes the show itself kinda refreshing in a way. 
 
-{{<figure src="https://cdn.kotatsu.club/JhDIMOFMgM.jpg" caption="\"Please stop spamming the cry emote!\"">}}
+{{<figure src="assets/JhDIMOFMgM.jpg" caption="\"Please stop spamming the cry emote!\"">}}
 
 
 *Net-juu* doesn't really stand out in any special way compared to the rest of the fall lineup, but frankly I don't really think it's trying to. If nothing else, its main purpose is to just tell a touching, amusing story about two MMO gamers meeting each other through the game, and the IRL shenanigans they get up to in the margins. It's a fun, enjoyable, albeit disposable series for what it's worth, and maybe you have a thing for fun, enjoyable, disposable shows like this. 
@@ -52,7 +52,7 @@ But that alone doesn't turn me off from shows like this, because even stuff that
 
 Later this season, we find out the third season of *Food Wars!* is actually edible!
 
-{{<figure src="https://cdn.kotatsu.club/12DSMdFGg7.jpg" caption="And that chest is a mimic too.">}}
+{{<figure src="assets/12DSMdFGg7.jpg" caption="And that chest is a mimic too.">}}
 
 
 **THE VERDICT: B+**

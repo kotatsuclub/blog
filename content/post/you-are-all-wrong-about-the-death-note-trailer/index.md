@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "editorials", "Death Note", "movies", "Willem DaFoe"]
 date = 2017-07-19T16:17:30Z
-cover = "https://cdn.kotatsu.club/2pyOGdKMg.jpg"
+cover = "assets/2pyOGdKMg.jpg"
 title = "You Are All Wrong About The Death Note Trailer"
 +++
 
@@ -13,15 +13,15 @@ Reader, I'm writing about this because the trailer has cemented my thoughts that
 
 I'm still looking forward to *Death Note* the movie, and if it turns out good, I'm going to be one of the happiest men alive. Because not only will I have seen a respectable Western remix on an anime classic, but it will probably be memorialized as the silver bullet to rampant fanboyism over source material and purism i.e. what happens when you blindly criticize something for not meeting your standards on the surface.
 
-{{<figure src="https://cdn.kotatsu.club/htydGOFMRz.png" caption="*Case in point.*">}}
+{{<figure src="assets/htydGOFMRz.png" caption="*Case in point.*">}}
 
-For those who don't know what the hell I'm on about, here's the deal: the day after I put up my review of *Hero Aca* Season 2, Netflix decided to release [its first full-length trailer](https://www.youtube.com/watch?v=gvxNaSIB_WI&feature=youtu.be) for the live-action *Death Note* film, slated for public release August 25. Now if anyone remembers [my previous analysis of the teaser](https://kotatsu.club/the-death-note-film-is-not-dead-on-arrival/) from a couple months ago, I tried my best to understand the overall disapproving reception of said teaser and to assuage fears and general concerns that may have surfaced as a direct result. After that post, I would have liked to think that I had done my job as a critic and writer. 
+For those who don't know what the hell I'm on about, here's the deal: the day after I put up my review of *Hero Aca* Season 2, Netflix decided to release [its first full-length trailer](https://www.youtube.com/watch?v=gvxNaSIB_WI&feature=youtu.be) for the live-action *Death Note* film, slated for public release August 25. Now if anyone remembers [my previous analysis of the teaser](/the-death-note-film-is-not-dead-on-arrival/) from a couple months ago, I tried my best to understand the overall disapproving reception of said teaser and to assuage fears and general concerns that may have surfaced as a direct result. After that post, I would have liked to think that I had done my job as a critic and writer. 
 
 Then the full trailer came out, and with it came a crashing wave of disdain, criticism, and absolute vitriol that I think I have ever seen towards an Americanized retelling of an originally Japanese story.
 
 As of the time of this post, the dislikes on the trailer's YouTube post outweigh the likes by about 6000 clicks as it's currently sitting on about two and a half million views on the whole. The comments on the actual video (yes, I actually read through a page of YouTube comments; the things I do for you guys) are absolutely relentless, blasting the production-to-be for not accurately portraying its source material, bastardizing the franchise in general, and performing various things to the franchise I probably shouldn't describe on this blog if I want to keep writing for it. 
 
-{{<figure src="https://cdn.kotatsu.club/2pydMdFMRm.jpg" caption="*Although, either this scene or potato chips needs to be in the film.*">}}
+{{<figure src="assets/2pydMdFMRm.jpg" caption="*Although, either this scene or potato chips needs to be in the film.*">}}
 
 Like I mentioned before, this is a pretty strong indicator my message got all the way through last time, and I could spend this editorial pretty much repeating everything I said in my last one, but not only would that be a waste of my time and yours, I feel like I need to directly address the masses here. Whereas I was addressing potential fears in my last talk about *Death Note* the movie, this time we're actually looking at complaints, and I feel like that alters things drastically. 
 
@@ -33,7 +33,7 @@ Oh, cry some more. Have you *seen* the live drama?
 
 My apologies, reader. It's just that few things get under my skin quite like ignorant stupidity, and insofar I'm yet to see one coherent, lucid, actually intellectual complaint about this trailer in any respect. But because I love pushing boulders up hills and firing spray bottles of water at raging grass fires, I'm using this editorial to provide counterarguments to each of the major complaints I've seen so far and explain exactly why my AP Lit teacher would boo them off the stage. 
 
-{{<figure src="https://cdn.kotatsu.club/2pyOGOKMRZ.jpg" caption="*At the very least, it's going to look good. Look at this shot!*">}}
+{{<figure src="assets/2pyOGOKMRZ.jpg" caption="*At the very least, it's going to look good. Look at this shot!*">}}
 
 The most common and easily the most numbminded one I've seen so far regards the movie not being a faithful retelling of the anime, that the movie is not a perfect live action reenactment of the story people came to love during the fall of 2006. Okaaaay, but why the hell would you want that in the first place? There's literally no point in a product telling the exact same story as another, more famous product that's been around for over a decade. If you want to see a faithful reenactment of your favorite anime series that badly, then what's stopping you from just watching that series again? 
 
@@ -43,7 +43,7 @@ This comment really gets to me personally because I happen to know firsthand tha
 
 I didn't give them a verbatim retelling of the story they already knew, because that's what the original did and I know better than to waste my time inventing something that already exists. Instead, I put together a new story using concepts and characters they were already familiar with on some level to create a new product. That's what a lot of these diehard purist fanboys don't seem to get. Their demands for perfect reenactments of the stories they already know are not only redundant, but they squelch any possibility for new stories to be made using the originals as baselines. 
 
-{{<figure src="https://cdn.kotatsu.club/htsdGdKMgM.png" caption="*Don't even want to wait for it to actually be bad, eh?*">}}
+{{<figure src="assets/htsdGdKMgM.png" caption="*Don't even want to wait for it to actually be bad, eh?*">}}
 
 Then there's the minor stuff, like L in the trailer acting comparatively violently to his counterpart in the anime, and everyone jumping on the bandwagon to rail against Keith Stanfield's casting and, you guessed it, bang the whitewashing drum so they can claim the movie is just ticking a box under its diversity checklist. 
 
@@ -53,7 +53,7 @@ What *does* need to be argued here is that last bit, and aware as I am that I'm 
 
 And in case you don't believe me, in 2010 Japan did their own version of the classic 1990 American movie *Ghost*, starring - and this might come as a shock to some of you - Japanese actors. How about that! They also did the same thing in 2014 when they remade *My Fair Lady* under the name *Maiko wa Lady*; the setting was shifted from London to Kyoto Japan, the story was Japanized in just about every way imaginable, and it turns out that movie was actually pretty damn good! And all the while, nobody on the Japanese part of the internet seemed to be throwing their toys out of the playpen when they read Patrick Swayze's character wasn't going to be from Brooklyn.
 
-{{<figure src="https://cdn.kotatsu.club/2tsdMdFGg7.jpg" caption="*Yeah, no. This exists. Japan adapts American material the same way we do theirs.*">}}
+{{<figure src="assets/2tsdMdFGg7.jpg" caption="*Yeah, no. This exists. Japan adapts American material the same way we do theirs.*">}}
 
 This is how transferable settings work in the film industry. There wasn't anything of value being lost in these films by moving the settings and changing the ethnic backgrounds of the characters. I ask again: what specifically about Light's character (and just about everyone else's, for that matter) requires him to be Japanese? And before you say, "his name," I know for a fact that the male lead in *Maiko wa Lady* is not named Henry Higgins, so that's not an answer. 
 
@@ -61,7 +61,7 @@ And sure, you might turn around and say that the Seattle area is demographically
 
 Oh, and when you say Keith Stanfield is in the movie just so it can someone representing a minority group, you're also kinda running over Paul Nakauchi in the process, and suggesting that *he's* just there to satisfy a quota is probably an even more egregious sin. 
 
-{{<figure src="https://cdn.kotatsu.club/htydMOKGgV.jpg" caption="*Sick burn.*">}}
+{{<figure src="assets/htydMOKGgV.jpg" caption="*Sick burn.*">}}
 
 Ugh, guys, in the end, this trailer just left me exhausted. I'm probably going to need to lie down after posting this. I really, *really* wanted to dissect this trailer for you and tell you what I liked and where I think the story is heading. The direction looks great, Willem DaFoe is going to knock it out of the park as Ryuk no matter how good or bad the rest of the film is, and the dialogue for the most part seems good at setting a darker, more foreboding tone than the original...
 
@@ -71,7 +71,7 @@ Sorry, sorry. I need to stop. I could go on forever playing whack-a-mole with ev
 
 But if it turns out good, then allow me to preemptively say, "I f\*\*\*ing told you so."
 
-{{<figure src="https://cdn.kotatsu.club/htyOGdFGRI.jpg" caption="*As should everyone else! Judge things on their own merits, not on your initial presumptions.*">}}
+{{<figure src="assets/htyOGdFGRI.jpg" caption="*As should everyone else! Judge things on their own merits, not on your initial presumptions.*">}}
 
 *Next time: It doesn't sound like a pan anymore*
 

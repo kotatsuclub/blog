@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Black Clover", "F"]
 date = 2017-11-08T23:50:08Z
-cover = "https://cdn.kotatsu.club/ilMMMOFGR.jpg"
+cover = "assets/ilMMMOFGR.jpg"
 title = "Black Clover Review - The Big 3's Drunk Cousin"
 +++
 
 
-{{<figure src="https://cdn.kotatsu.club/i_GMMOFGRz.jpg">}}
+{{<figure src="assets/i_GMMOFGRz.jpg">}}
 
 So...this is gonna be a slightly awkward review...
 
@@ -23,7 +23,7 @@ If *Black Clover* does any one thing well, it knows what it wants to accomplish 
 
 And for those curious as to what exactly that thing it wants to accomplish is, it's driving me up the friggin' wall.
 
-{{<figure src="https://cdn.kotatsu.club/ilGMMOKMgm.jpg" caption="Yay for exposition dumps!!">}}
+{{<figure src="assets/ilGMMOKMgm.jpg" caption="Yay for exposition dumps!!">}}
 
 
 *Black Clover* is easily one of the most annoying shows on offer for the fall season, and let's keep in mind it's sharing a season with the *Himoto!!* sequel. I couldn't stomach more than one episode of it, and keep in mind that, up to this point, for every single show I've watched for this site, including the ones I've given Fs to, I have watched no less than three episodes of it for my review.
@@ -34,7 +34,7 @@ Pierrot excels at telling long-form stories, to the point where they have it dow
 
 So *Black Clover* is essentially *Naruto* but transfered into a medival fantasy with everything good and credible about the latter completely absent in the former, with all of the Big 3 machinery forcibly crammed into the show with no regard to how well it would run in practice. 
 
-{{<figure src="https://cdn.kotatsu.club/ilMGMdKMRZ.jpg" caption="AAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAHHHHHHH!!">}}
+{{<figure src="assets/ilMGMdKMRZ.jpg" caption="AAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAHHHHHHH!!">}}
 
 
 But you're not reading this review to hear me pick apart everything this show does wrong, oh no. You're here because you want to hear me completely rip apart Asta's voice acting and tell you how much nicer it would be if I gave myself a chainsaw labotomy than listen to his screeching for another second and a half. His yells cause airplane cabins to depressurize. His voice used to be a warcry for barbarian tribes five thousand years ago. If his voice was a Magic the Gathering card, it'd be banned in all formats. 
@@ -49,7 +49,7 @@ The fifth apparently represents a demon.
 
 Whoda thunk?
 
-{{<figure src="https://cdn.kotatsu.club/m_GGMdFMgM.jpg" caption="Hey, check it out! Asta's rival's the only one in the shadows! We can imagery!">}}
+{{<figure src="assets/m_GGMdFMgM.jpg" caption="Hey, check it out! Asta's rival's the only one in the shadows! We can imagery!">}}
 
 
 I guess the show itself looks alright, but if you pause it in a bad spot, then it is very easy to end on a frame that just looks out of place compared to the rest of the show. A lot of the time studios will make undetailed drawings and "smear" them together during quickly animated scenes to save on budget and draw more attention to the action at hand. And when you do smear frames correctly, then nobody cares too much about them because the decrease in quality is not going to be too big of a deal compared to what you're getting out of it. 
@@ -60,7 +60,7 @@ So we have annoying characters, inconsistent art, a plot that's been worn so thi
 
 I'm struggling to find something nonvapidly nice to say about *Black Clover*, but nothing is coming to me. I-I'm not sure what to say here. I want to say something nice, just one tiny compliment I can pay to *Black Clover* so I don't have to give this thing the F it deserves.
 
-{{<figure src="https://cdn.kotatsu.club/mlGMMdKMR7.png" caption="Thoughts summed up in one image.">}}
+{{<figure src="assets/mlGMMdKMR7.png" caption="Thoughts summed up in one image.">}}
 
 
 But that's kinda the problem isn't it? Badness is defined by the lack of goodness, and the fact that I can't say anything nice about *Black Clover* no matter how hard I try should be indicative of my overall feelings towards it. I just can not recommend this. At all. It sucks. Horribly. And I honestly can't say anything more about it without repeating myself.

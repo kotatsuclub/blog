@@ -9,5 +9,5 @@ Oh yes oh yes indeed! CSM's Anime Club is running a showroom today to Sunday at 
 
 But seriously, you should totally come by. It'll be hotter than a Charizard using Flamethrower!
 
-{{<figure src="https://cdn.kotatsu.club/Z_WnMOKGg.jpg" caption="*Do you like your evil henchmen rare or well done?*">}}
+{{<figure src="assets/Z_WnMOKGg.jpg" caption="*Do you like your evil henchmen rare or well done?*">}}
 

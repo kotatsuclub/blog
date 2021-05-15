@@ -17,5 +17,5 @@ Either way, enjoy the deals and see you next week. I promise I'll have all of my
 
 ~SnYves
 
-{{<figure src="https://cdn.kotatsu.club/FpPOGdKMR.gif">}}
+{{<figure src="assets/FpPOGdKMR.gif">}}
 

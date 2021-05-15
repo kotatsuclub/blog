@@ -2,7 +2,7 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Death Note", "editorials", "movies", "Willem DaFoe"]
 date = 2017-04-05T13:58:32Z
-image = "https://cdn.kotatsu.club/bogvGOFMg.jpg"
+image = "assets/bogvGOFMg.jpg"
 title = "The Death Note Film Is Not Dead On Arrival"
 +++
 
@@ -13,7 +13,7 @@ In 2006, the anime community was blessed with an adaptation of the classic manga
 
 Over the years since its release, *Death Note* has only gotten more popular. There have been games, light novels, side stories, and in 2015, kid you not, there was also a stage musical that was surprisingly good from what I've read about it. Oh, and that was also the year we got a live-action drama rendition, which came out to...um...let's say "mixed" reviews. I watched it myself (and I guess you can call this my unofficial review here), and I was lukewarm on it in the end. I thought Teru Mikami and Near got some great new additions and takes on their characters, but the writing was dodgy at best, there were a large number of glaring plotholes the original did not have, and someone thought it would be a good idea to CG the shinigami, which ended about as well as you think it did.
 
-{{<figure src="https://cdn.kotatsu.club/xTRvMdFMgz.png" caption="*And trust me, you don't want to hear his lines either.*">}}
+{{<figure src="assets/xTRvMdFMgz.png" caption="*And trust me, you don't want to hear his lines either.*">}}
 
 Most recently however, over the weekend I was working on my last review, [Netflix let loose a trailer](https://www.youtube.com/watch?v=zS9UW2xjdqE) for a feature film of the same name, set to be released this August. Judging from the trailer, it looks like a Westernized adaptation of the series we all know and love: Light Yagami is now Light Turner, the story takes place in Seattle, L is being played by Keith Stanfield (a choice that, after seeing him in *Get Out*, I am totally down with), and the closing seconds showed us a few action setpieces reminiscent of modern Hollywood action films. 
 
@@ -23,7 +23,7 @@ If you happen to be skeptical about this movie, I totally get why you are. Let's
 
 All that said, I'm cautiously optimistic for this one, and if you'll allow me, I'd like to instill some of that hope in you as I tackle the complaints I've been hearing about this movie in the making.
 
-{{<figure src="https://cdn.kotatsu.club/bogvGOKMgm.jpg" caption="*Left to right, top to bottom: Nat Wolff as Light Turner; Keith Stanfield as L; Margaret Qualley as Mia Sutton; Paul Nakauchi as Watari*">}}
+{{<figure src="assets/bogvGOKMgm.jpg" caption="*Left to right, top to bottom: Nat Wolff as Light Turner; Keith Stanfield as L; Margaret Qualley as Mia Sutton; Paul Nakauchi as Watari*">}}
 
 We may as well kick off with the big one, namely that one magical buzzword that people love throwing around without actually thinking about what it really means: whitewashing. This is a very broad topic that I'll probably save an in-depth discussion for another editorial later on, but you can't really talk about *Death Note* the movie without having to bring this up at some point. So I say let's just take our medicine and get this over with.
 
@@ -37,7 +37,7 @@ Would the story itself lose any substance if Light was a college student from Wa
 
 Using white actors for this one, as far as I'm concerned, is a perfectly fine move. It doesn't hurt the story as a whole, it allows Netflix to use some very talented actors who otherwise wouldn't be in the movie at all, and really this feels like a bit of a red herring people are going to point at in lieu of looking at whatever other problems the film presents as an actual, you know, *film*. (And as a small sidenote, there are a number of joints criticizing the casting of L that I mentioned previously. My response: if you complained about ScarJo playing a "Japanese" character, you aren't allowed to complain about a black guy playing L.)
 
-{{<figure src="https://cdn.kotatsu.club/xTgvGOFGRZ.jpg" caption="*How can we tell this is a mystery film? There's a guy in a hoodie walking down a hallway of neon lights.*">}}
+{{<figure src="assets/xTgvGOFGRZ.jpg" caption="*How can we tell this is a mystery film? There's a guy in a hoodie walking down a hallway of neon lights.*">}}
 
 Speaking of other issues, let's talk about another fear a lot of skeptics seem to have: the prospect of this movie not being faithful to the anime and/or manga. Again, it's an understandable concern. Anyone who's seen the live-action drama knows that the writers took strong liberties with the original plot, especially towards the series' climax, and not all of them were for the best. But again, I feel like this isn't a proper arguing point as to the film's overall quality. Ignoring the fact that great loose adaptations have been done in the past (the first *FMA* series springs instantly to mind), the core concept of *Death Note* seems to be left intact for the most part. Light finds a notebook, he finds out it kills people, he goes a little mad with power, and L starts hounding him down. So long as we still get that engaging psych thriller fix we remember from the anime, I'd argue that the rest is just kinda semantics by that point.
 
@@ -47,7 +47,7 @@ As far as the actual "Westernization" is concerned, ugh...yeah, there's a few st
 
 I also saw an article asserting that Light's characterization is all wrong: that the trailer portrays him as an angsty, lonely teenager that nobody understands (how unique) as opposed to the crafty, intelligent narcissist who can kill almost anyone on a dime. And again, I'm horribly lost. Not only do we get minimal hard evidence of that, but the only bits of the trailer that I found that support that hypothesis are a few shots of him working alone in his room. You know, that spot where he kills 90% of his victims. Yeah, the author here was *really* grasping at straws; let's not have him waste more of our time.
 
-{{<figure src="https://cdn.kotatsu.club/boRDGdKMgM.jpg" caption="*I told you we'd meet again, Spiderman!*">}}
+{{<figure src="assets/boRDGdKMgM.jpg" caption="*I told you we'd meet again, Spiderman!*">}}
 
 What really has me down about this whole trailer deal is that, in nitpicking the poor thing to hell and back, we're kinda ignoring all of the positive factors this film has going for it. I already brought up the casting of L in my intro section (seriously, I hope Keith knocks it out of the park), the shot composition and set direction all look stylistic and visually impressive, and whoever on the casting staff suggested Willem DaFoe should play Ryuk deserves to be promoted. Twice.
 
@@ -55,7 +55,7 @@ All that taken into consideration, I think the primary issue here is that this j
 
 With that in mind, it's way too early to start dooming *Death Note* the film before it's released. I'm not telling you to believe the hype and get excited, because that leads to inflated expectations and inevitably disappointment, but I'm not telling you to not to be worried about it either. This movie could be littered with problems stemming from writing, direction, pacing, post-production, and a mess of other factors not directly related to the issues I addressed in this piece. 
 
-{{<figure src="https://cdn.kotatsu.club/xTgDMdFGR7.jpg" caption="*And if that's the case, I know just where to put Mr. Wolff's name.*">}}
+{{<figure src="assets/xTgDMdFGR7.jpg" caption="*And if that's the case, I know just where to put Mr. Wolff's name.*">}}
 
 At the very least, I encourage optimism, and I hope I've discussed one or two issues deeply enough for you to look forward to this film a little more. I have no clue how good or bad it's going to be at this stage; frankly, I'm not sure if we're going to figure that out at all until August. All I can say is that, regardless of our first premonitions towards it, we should hope it turns out good. The first *Star Wars* film had an infamously bad trailer in theatres, and, well, look at where it is now. 
 

@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "This Art Club Has a Problem", "Konobi"]
 date = 2017-05-25T00:28:33Z
-cover = "https://cdn.kotatsu.club/RhMvMOKMR.jpg"
+cover = "assets/RhMvMOKMR.jpg"
 title = "This Art Club Has a Problem Review - And So Does This Anime"
 +++
 
 
-{{<figure src="https://cdn.kotatsu.club/g2MvGdKMRz.png">}}
+{{<figure src="assets/g2MvGdKMRz.png">}}
 
 No. No, no, no, nonononono, no. I refuse. Absolutely not. The cycle must end. No!
 
@@ -17,7 +17,7 @@ Point is, it's time to do some laundry. And I'm starting out by *not* reviewing 
 
 Easy solution: let's not do that.
 
-{{<figure src="https://cdn.kotatsu.club/R2MvGdFMgm.jpg" caption="*Embrace your weirdness. Life's so bland when you're normal.*">}}
+{{<figure src="assets/R2MvGdFMgm.jpg" caption="*Embrace your weirdness. Life's so bland when you're normal.*">}}
 
 This week, we're looking at a slice-of-life comedy from last summer with a moniker that sounds suspiciously like another slice-of-life comedy from last summer you were probably watching instead of this one. Yep, here we go again, with *KonoSuba* totally steamrolling almost every other comedy show unfortunate to occupy the same season as it. And today's victim goes by the shorthand name *Konobi*, known in its long form as *Kono Bijutsubu ni wa Mondai ga Aru!*, or as I'll be referring to it from now on, *This Art Club Has a Problem!* 
 
@@ -25,7 +25,7 @@ Feel is at the helm for this series, and if you're familiar with them, it was pr
 
 And that I did. With a few major caveats admittedly, but *Art Club* made me laugh quite a bit and if a comedy show manages that, then it's done its job in my opinion.
 
-{{<figure src="https://cdn.kotatsu.club/ghGvGdKMRZ.png" caption="*It probably already exists. Have you heard of DeviantArt?*">}}
+{{<figure src="assets/ghGvGdKMRZ.png" caption="*It probably already exists. Have you heard of DeviantArt?*">}}
 
 The art club in question has four major characters, all with their unique aesthetic tastes and motivations for joining in on the fun. Our principal member is Mizuki Usami (Ari Ozawa, *Monthly Girls Nozaki-kun*, *Monster Musume*, and *Bastard Magical Instructor* from this season), an enthusiastic, passionate member of the club, and the only one who seems to be taking it the least bit seriously. Her comrade, Subaru Uchimaki (Yusuke Kobayashi, who appropriately enough also voiced the main character of *Re:Zero*), is a very skilled artist who specializes in drawing only 2D waifus and literally nothing else. 
 
@@ -35,7 +35,7 @@ The other two members are Colette (Sumire Uesaka, *Girls und Panzer*, *Nobunagun
 
 The first item in the queue for these shows is almost always the comedy quality (the "colity," if you will), and *Art Club*, like I mentioned previously, has its moments. Each episode is chopped up into two or three segments a la *Sakamoto desu ga?* or *Daily Lives*, with each segment having its own mini-arc with the main cast. And...I kinda have mixed feelings about this structure on the whole. The primary issue I have is that *Art Club* might be spreading itself a little thin with its settings, and consequently it doesn't seem all that aware when it hits something good. 
 
-{{<figure src="https://cdn.kotatsu.club/g2MDMdKMRM.jpg" caption="*No time for apples! I'm studying!*">}}
+{{<figure src="assets/g2MDMdKMRM.jpg" caption="*No time for apples! I'm studying!*">}}
 
 When *Art Club* is actually in the club room and everyone is drawing and having fun with their art, I feel like those are the sequences where this show really stands out, and those are the segments that really had me laughing. The first part of Episode 2 is arguably one of the best segments in this series, where the president and Subaru need to cover up their ruining of Mizuki's art competition project. I was laughing nonstop during that entire sketch (forgive the pun). It was creative, it was using its premise to its fullest extent, and I really wish the series stuck with it all the way through.
 
@@ -45,7 +45,7 @@ At best the show will make you feel apathetic, and at worst it gets straight dow
 
 There's something forced about the show's bits whenever it ventures outside of the club room, and that's where the show will probably lose its audience. It needed to focus more on its premise as opposed to letting its characters run free and do what they will. I'm not interested in a lost-and-found scavenger hunt, nor am I interested in tracking a kid side character whose single defining trait is that she's kinda cute in the OP. I *am* interested in what the club is painting and what its members have to say about the works in progress.
 
-{{<figure src="https://cdn.kotatsu.club/R2GDGOFGg7.jpg" caption="*I laughed waaaaaaay too hard at this scene.*">}}
+{{<figure src="assets/R2GDGOFGg7.jpg" caption="*I laughed waaaaaaay too hard at this scene.*">}}
 
 As for the actual characters, their designs are decent if forgettable, and their personalities are good but again do nothing to make them stand out apart from their one or two quirks. And sure, you could make the argument the point of the not-comedy bits is to flesh out our cast and give them some depth, but the stilted writing and hurried "plot" development don't really give off that idea. 
 
@@ -55,7 +55,7 @@ This is the kind of plotline that should be kept for the series finale, not for 
 
 He's not going to leave one episode into the series! Why are you trying to act like he is, *Art Club*?
 
-{{<figure src="https://cdn.kotatsu.club/ghGDMOKMgV.jpg" caption="*The rabbit hair clip looks terrified of what's about to happen next.*">}}
+{{<figure src="assets/ghGDMOKMgV.jpg" caption="*The rabbit hair clip looks terrified of what's about to happen next.*">}}
 
 This series would have benefited grossly had they done away with all of the dramatic moments and just focused on our team of four doing their art. *Art Club* can be a clever, witty, intellectually amusing show when it wants to be, and I *really* wanted to enjoy this series more than I did. There's a ton of lowbrow ironic humor sprinkled into the show's dialogue, indicating hints of self-awareness at times. I already mentioned the president being the least interested in the club's happenings, but I always smirk a little bit whenever Subaru mentions he's only into what he calls 2D girls, even though he's in a 2D anime himself. 
 
@@ -65,7 +65,7 @@ While the show isn't completely bad, and I'm proud to say I've successfully lift
 
 That's activities inside of the art club, of course. You probably shouldn't take blunt force to a work of actual art, unless you suspect that portrait's eyes are following you.
 
-{{<figure src="https://cdn.kotatsu.club/ghGvMOFMgI.png" caption="*Or if you've been denied first place.*">}}
+{{<figure src="assets/ghGvMOFMgI.png" caption="*Or if you've been denied first place.*">}}
 
 **THE VERDICT: C**  
 *Next time: Memes*

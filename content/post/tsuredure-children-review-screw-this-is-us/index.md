@@ -2,12 +2,12 @@
 author = "Jared Popelar"
 tags = ["SnYves", "Tsuredure Children"]
 date = 2017-10-04T20:15:26Z
-cover = "https://cdn.kotatsu.club/qFNvGdKGg.jpg"
+cover = "assets/qFNvGdKGg.jpg"
 title = "Tsuredure Children Review - Screw \"This is Us\""
 +++
 
 
-{{<figure src="https://cdn.kotatsu.club/3FHDMOKGRz.jpg">}}
+{{<figure src="assets/3FHDMOKGRz.jpg">}}
 
 ...you people seem to like requesting romcoms for me to review, don't you?
 
@@ -19,7 +19,7 @@ Unfortunately, as a critic, I can't take any such luxuries, and whenever a show 
 
 And that admittedly was the position I found myself in when *Tsuredure Children* worked its way into my queue. I was not enthusiastic walking into this show, as I was starting to get burnt out by its ilk ages ago, but nevertheless I pulled on my big boy critic pants and gave it a whirl, logic being that if I survived the aforementioned two abominations masquerading as entertainment with my life then I'm really capable of anything the rest of the season throws at me.
 
-{{<figure src="https://cdn.kotatsu.club/3KHvMdKGgm.png" caption="I might have laughed a little to hard at this line.">}}
+{{<figure src="assets/3KHvMdKGgm.png" caption="I might have laughed a little to hard at this line.">}}
 
 
 Although it is worth pointing out *Tsuredure Children* had a way better start comparatively, since it was in the proven-capable hands of Studio Gokumi aka the guys who did *Yuki Yuna*, a 2014 magical girls show that I actually quite liked. And that lightened by mood a bit, enough to make some pizza, pour a root beer, slam my head into my keyboard a couple times as I dealt with my analysis homework and then, once the bleeding stopped, throw on *Tsuredure*.
@@ -28,7 +28,7 @@ Although it is worth pointing out *Tsuredure Children* had a way better start co
 
 On the one hand, this means that the stories do not involve characters with fully fleshed-out backstories, motivations and personalities; this show isn't exactly *Your Lie in April*. However, that does not stop the show from being one of the most charming and heartwarming series of the summer season.
 
-{{<figure src="https://cdn.kotatsu.club/3FHDGdFGRZ.png" caption="These are some of the most impractical anime glasses I've seen in a while.">}}
+{{<figure src="assets/3FHDGdFGRZ.png" caption="These are some of the most impractical anime glasses I've seen in a while.">}}
 
 
 See, there are a number of ways a show can make you feel while watching it. You have the adrenaline-pumping, "hell yeah!" screaming shows that make you feel awesome like *Hero Aca* and *OPM*, there's the hilarious and rambunctious series like *GinTama* and *KonoSuba* whose singular goal in life is to get you laughing, and of course the sick-inducing and irredeemably cringeworthy bullcrap like two of my most recent reviews. *Tsuredure* falls into the category of shows that exist just to make you feel good, and considering how grumpy I was when I first tossed this on...holy hell, *Tsuredure* did its job. Because this show, in addition to just being good on the whole, has a ton of weight behind a lot of its stories.
@@ -37,7 +37,7 @@ For all the time it has to tell its shorts, *Tsuredure* gets as much value out o
 
 This is actually a decent excuse to talk about the show's writing, since this is a romcom and the characters typically do have to talk in these sorts of shows. And it's *really* damn good. It *had* to be really damn good in the first place in order to make the format work at all, so the fact it turned out *really* damn good makes me really happy. This show has some of the best dialogue pieces I've heard this season, absolutely hands down, and the fact I don't want to quote any of them for you should be testament enough to how much I liked this writing. And although *Tsuredure* hits its punchlines at a very healthy rate and I had a smile on my face throughout the entire ride, the best parts of this romcom series, and holy hell this is going to be the sappiest thing I've written on this blog to date, are easily the "rom" bits.
 
-{{<figure src="https://cdn.kotatsu.club/3KNDGdFGRM.jpg" caption="And this is how you do tastefulness in these sorts of shows.">}}
+{{<figure src="assets/3KNDGdFGRM.jpg" caption="And this is how you do tastefulness in these sorts of shows.">}}
 
 
 *Tsuredure*'s writing comes from a spot of genuine compassion and sincerity, and that is the thing I respect most about this show. It's not out to just force adorably awkward couples together and just leave them alone to let the sparks fly. It's evident this show cares about the relationships its characters build, and watching said relationships grow and evolve over the course of the series is incredible, at the lack of a better word.
@@ -46,7 +46,7 @@ One of the more frequent couples to star in the show is Takurou Sugawara (Kaito 
 
 If there's any one big thing I can say for *Tsuredure Children*, it doesn't show any sort of pretense whatsoever. Every move it makes is deliberate, every scene leaves some sort of impact on the audience, and if a series is doing that regularly to the point where I'm caring about characters I've known for maybe two minutes, then it's doing something right. And again, this wraps straight back around to the show's excellent writing, without which this series probably wouldn't have stood much of a chance. 
 
-{{<figure src="https://cdn.kotatsu.club/3KNvGdKMg7.jpg" caption="Relationship goals: have crush loan me umbrella space.">}}
+{{<figure src="assets/3KNvGdKMg7.jpg" caption="Relationship goals: have crush loan me umbrella space.">}}
 
 
 I was probably going to give *Tsuredure* a passing grade at any rate just due to it not being *Hajimete*, but I was blown away by this series in a manner I was not expecting. There is a ton to love about this show, and it is unabashedly proud of what it's set out to accomplish. This show is going to stay in my queue for a while and I think I'll need to give it a couple rewatches at some point. 
