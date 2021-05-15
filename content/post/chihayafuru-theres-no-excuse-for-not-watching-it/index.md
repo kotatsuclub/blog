@@ -8,7 +8,7 @@ disableDisqus = true
 
 Chihayafuru is an anime you could easily overlook, for various reasons (you don’t like how it looks, the description doesn’t sound particularly interesting, there aren’t enough cute girls doing cute things, etc).  Well now I’m here to tell you that, if you’re not watching this series, you are missing out.
 
-{{<figure src="assets/Chihayafuru.png" link="https://imgur.com/ZuSGh9D.png" width="300" height="169">}}
+{{<figure src="assets/Chihayafuru.png" width="300" height="169">}}
 
 What is Chihayafuru about?  It’s about high schoolers playing some Japanese game called karuta that you’ve probably never heard of before, gathering members to form a club, practicing and going through their own training camp, playing in the high school tournament, being separated from a friend and playing the game to meet up with that friend again…  Oh, no, It’s not Saki though.  It’s actually _good_.
 
@@ -24,4 +24,4 @@ I could go on and on.  The show is very touching, very emotionally moving, the 
 
 PS – It’s been said that they have good T-shirts:
 
-{{<figure src="assets/Shirts1.png" link="https://imgur.com/0OvzDKX.png" width="300" height="187">}}{{<figure src="assets/Shirts2.png" link="https://imgur.com/wdOGdX9.png" width="300" height="187">}}{{<figure src="assets/Shirts3.png" link="https://imgur.com/toiz61T.png" width="300" height="187">}}{{<figure src="assets/Shirts4.png" link="https://imgur.com/Xa9L8df.png" width="300" height="187">}}
+{{<figure src="assets/Shirts1.png" width="300" height="187">}}{{<figure src="assets/Shirts2.png" width="300" height="187">}}{{<figure src="assets/Shirts3.png" width="300" height="187">}}{{<figure src="assets/Shirts4.png" width="300" height="187">}}

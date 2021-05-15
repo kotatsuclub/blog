@@ -16,7 +16,7 @@ WARNING: This post might not be for everyone because of the fact that I have the
 
 <!--more-->
 
-{{<figure src="assets/wp_totono_2_1920.jpg" link="https://imgur.com/kThajaZ.jpg" width="640" height="400">}}
+{{<figure src="assets/wp_totono_2_1920.jpg" width="640" height="400">}}
 
 Kimi to Kanojo to Kanojo no Koi (君と彼女と彼女の恋), abbreviated as totono, is a new Nitro+ game released on June 28th, 2013. It’s the first Nitro+ game to be released on a USB stick.
 
@@ -24,7 +24,7 @@ The story starts with Shinichi, the main character, walking up the stairs with n
 
 Then he picks up the phone, which will change his life forever…… I don’t know. I just wanted to say that I guess. What I _do_ know is, that it can change you the player’s life forever. And by life, I mean how you play the game, and by forever, I mean until you uninstall/reinstall/maybe doing some registry stuff.
 
-{{<figure src="assets/kamisama_phone.png" link="https://imgur.com/dlVqB0L.png" caption="Moshi moshi? Kamisama desuka?" width="960" height="540">}}
+{{<figure src="assets/kamisama_phone.png" caption="Moshi moshi? Kamisama desuka?" width="960" height="540">}}
 
 If you type in the correct number, Kami-sama’s phone number, then the game will check if you are sure. Then it will start counting down in real time. Once the countdown is over, the game will close itself and restart. Grats. You have unlocked all the CGs and music, and stuff. Oh, but you can’t play the game anymore. It will just go back to main menu.
 
@@ -46,11 +46,11 @@ If this wasn’t a Nitro+ game, that is…
 
 However……. short time before release, Nitro+ announced that they want this game to be the next Saya no Uta. They also released some info on the game system. It looks like the plot changes drastically by your choices. For example…
 
-{{<figure src="assets/wp_totono_3_1920.jpg" link="https://imgur.com/ayEWCrq.jpg" caption="Miyuki is Yandere!" width="640" height="400">}}
+{{<figure src="assets/wp_totono_3_1920.jpg" caption="Miyuki is Yandere!" width="640" height="400">}}
 
 Or…
 
-{{<figure src="assets/2013062714490057b.jpg" link="https://imgur.com/A1GpzLX.jpg" caption="... Server maintenance. Please wait calmly." width="1024" height="576">}}
+{{<figure src="assets/2013062714490057b.jpg" caption="... Server maintenance. Please wait calmly." width="1024" height="576">}}
 
 Huh, what? Stop spoiling? No, I’m not spoiling. They are from the official webpage. That’s the point of this game. Nitro+ will show you how messed up it can be at the end, and you want to know how exactly it happens. At least that’s why I got the game.
 
