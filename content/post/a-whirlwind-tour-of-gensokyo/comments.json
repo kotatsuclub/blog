@@ -1,0 +1,43 @@
+{
+    "Replies": [
+        {
+            "ID": "c2fm2477f64tkgl40olg",
+            "Author": "Chris",
+            "Image": "http://1.gravatar.com/avatar/97853935b7d910ef22092f3baec5f573?s=40\u0026d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40\u0026r=G",
+            "Date": "February 3, 2012 at 1:37 pm",
+            "Content": "You know, I’m kind of surprised you haven’t 1cc’d a game on normal yet, because you’re actually not that bad. You suck at resource management (not dying with bombs in stock), but you’ve got a good basic sense of how to dodge stuff. I’m not much better than you at that, and I 1cc’ed Imperishable Night on Hard, so I think you just need to be more liberal with the bombs.\n\nIf you’re looking for your first Normal 1cc, most people suggest PCB or IN, since the former’s got borders and the latter’s got a stupidly large deathbomb window (and spellcard practice). I also found MoF pretty easy on Normal – I made it to the last card in the game on my third playthrough. And yeah, I guess it would be frowned upon to change any of the default settings (I leave it on default lives, and I leave slowdown off if it’s available. I also picked up Daniel’s habit of never using continues, even if I haven’t unlocked all of the stages).\n\nThe most important thing in Touhou is to know your limits. It’s really tempting to just try and dodge everything, but you’ve got to know when you need to bomb. I’d say use practice a lot-not just to be able to capture more cards, but to know which cards you’re gonna automatically write off as a bomb. You also want to learn the stages, which is something a lot people forget to do. Often, Stage 4 is a stream-heavy stage, and can be virtually impossible if you don’t know what to expect and don’t do them properly, but it becomes second nature after seeing it a few times. And stage 6 often begins/ends with a death fairy, so know if you’re going to bomb on them (no shame in doing that).\n\nThe last thing I wanted to mention is that you might look into getting the vpatch for each game, which apparently messes with vertical sync and can reduce input lag. I’m not good enough to tell if it’s actually helping, but some people swear by it.",
+            "Replies": [
+                {
+                    "ID": "c2fm2477f64tkgl40om0",
+                    "ParentID": "c2fm2477f64tkgl40olg",
+                    "Author": "Jack",
+                    "ReplyTo": "Chris",
+                    "Image": "http://0.gravatar.com/avatar/496cb098d59a4456aae75928d51a1057?s=40\u0026d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40\u0026r=G",
+                    "Date": "February 3, 2012 at 2:24 pm",
+                    "Content": "Bomb use is definitely something I need to work on. It’s a just a mental hurdle I have with it being a limited resource, which I mentioned I’m really bad with in any game. I think taking your advice on practice mode will help — if I don’t have that pressure of resource conservation I’ll be more likely to experiment and figure out where I really should just bomb out.\n\nI haven’t noticed any sort of input lag or issues with vsync, so I think I’ll pass on the vpatch for now."
+                }
+            ]
+        },
+        {
+            "ID": "c2fm2477f64tkgl40omg",
+            "Author": "Chaeha",
+            "Image": "http://1.gravatar.com/avatar/b92b44908e9ee2565962d025c6291132?s=40\u0026d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40\u0026r=G",
+            "Date": "February 4, 2012 at 10:21 am",
+            "Content": "I found a typo! You said “10.5 got rolled into 12.5 below.”\n\nAnd you don’t really need faith to bomb in 10. It’s just a penalty, like how your cherry points and time points go down when you use bomb in 7 and 8.\n\n10′s pretty easy. I didn’t really have much difficulties trying to 1cc 10. What I did was watching the top scorer’s replay and trying to copy his moves unless it requires some crazy maneuver that are usually in one of those scoring videos. It can kinda help, since in 10, score is how you extend your life. Since the graze doesn’t matter in 10, the scoring comes to maintaining your faith high, and the video shows you exactly where you wanna use bombs, and that made it so much easier for me.\n\nFinally, Wriggle is a very nice name, thank you very much. Don’t say bad things about Wriggle!"
+        },
+        {
+            "ID": "c2fm2477f64tkgl40on0",
+            "Author": "Chaeha",
+            "Image": "http://1.gravatar.com/avatar/b92b44908e9ee2565962d025c6291132?s=40\u0026d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40\u0026r=G",
+            "Date": "February 4, 2012 at 10:38 am",
+            "Content": "You made me play touhou, but after seeing that I only get 40fps for some reason, I stopped. It used to run on 60. I don’t know what happened to my computer."
+        },
+        {
+            "ID": "c2fm2477f64tkgl40ong",
+            "Author": "Matthew Strand",
+            "Image": "http://1.gravatar.com/avatar/91f41592590fd4634f415235b340d622?s=40\u0026d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40\u0026r=G",
+            "Date": "February 7, 2012 at 7:00 am",
+            "Content": "I quite enjoy Subterranean Animism myself, but suffer the reluctance to bomb that you do, and hence haven’t made it past stage 3. A note on the posted Tongue-Cut Sparrow spellcard: if you only shoot Parsee instead of her clone (hard to do with homing shots), then you don’t get auto-raped by bubbles. Makes life way easier."
+        }
+    ]
+}
